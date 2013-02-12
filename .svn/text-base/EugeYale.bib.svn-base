@@ -1,0 +1,912 @@
+% E. Culurciello and E-Lab publications at Yale only
+% divided between kinds of referecnces: article, conference, book, else
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% BOOKS CHAPTERS
+
+@book{culurciello09,
+    author={Eugenio Culurciello},
+    title={Silicon-on-Sapphire Circuits and Systems, sensor and biosensor interfaces},
+    publisher={McGraw Hill},
+    year={2009}
+}
+
+
+@inbook{FaLeKa10,
+  author ={C. Farabet and Y. LeCun and K. Kavukcuoglu and B. Martini and P. Akselrod and S. Talay and E Culurciello},
+  title ={{Scaling Up Machine Learning: Large-Scale FPGA-Based Convolutional Networks}},
+  chapter =	{},
+  pages ={},
+  address ={},
+  publisher ={Cambridge University Press},
+  year = 2010,
+  note={edited by Ron Bekkerman, Misha Bilenko, and John Langford}
+}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ARTICLES
+
+@article{WeCuYa10,
+    author={P. Weerakoon and E. Culurciello and Y. Yang and J. Santos-Sacchi and P. Kindlmann and  F.J. Sigworth},
+    title={Patch-clamp amplifiers on a chip},
+    journal={Journal of Neuroscience Methods},
+    publisher={Elsevier},
+    year= 2010,
+    month = {October},
+    volume = 192,
+    issue = 2,
+    pages={187-192}
+}
+
+@article{WeKiSi10,
+    author={P. Weerakoon and P. Kindlmann and  F.J. Sigworth and E. Culurciello},
+    title={A 3nV/rtHz Rail-to-Rail Operational Amplifier in Silicon-on-Sapphire with Constant Transconductance},
+    journal={Analog Integrated Circuits and Signal Processing},
+    publisher={Springer},
+    year= 2010,
+    month = {},
+    volume = 65,
+    issue = 2,
+    pages={311-319}
+}
+
+
+@article{CuMoKi09,
+    author={E. Culurciello and H. Montanaro and D. Kim},
+    title={Ultra-low Current Measurements with Silicon-on-sapphire Integrator Circuits},
+    journal={{IEEE} Electron Device Letters},
+    publisher={IEEE},
+    volume= 30,
+    year= 2009,
+    month = {March},
+    pages={258 - 260},
+    number= 3
+}
+
+
+@article{TaCu09,
+    author={Wei Tang and E. Culurciello},
+    title={A Low-power High-speed Ultra-Wideband Pulse Radio Transmission System},
+    journal={IEEE Transactions on Biomedical Circuits and Systems, Special Issue on ISCAS 2008},
+    publisher={IEEE},
+    year= 2009,
+    month = {October},
+    pages={286 - 292}
+}
+
+@article{KiFuCu09,
+    author={D.S. Kim and Z.M. Fu and E. Culurciello},
+    title={A 1-mW CMOS Temporal-Difference AER Sensor for Wireless Sensor Networks},
+    journal={IEEE Transactions on Electron Devices, Special issue on solid-state image sensors},
+    publisher={IEEE},
+    year= 2009,
+    month = {November},
+    pages={2586-2593}
+}
+
+@article{WeKlSi08b,
+    author={P. Weerakoon and K. Klemic and F.J. Sigworth and E. Culurciello},
+    title={An Integrated Patch-Clamp Potentiostat with Electrode Compensation},
+    journal={IEEE Transactions on Biomedical Circuits and Systems TBCAS},
+    publisher={IEEE},
+    volume= 0,
+    year= 2008,
+    month = {},
+    pages={},
+    number= 0
+}
+
+@article{WeKlSi08a,
+    author={P. Weerakoon and K. Klemic and F.J. Sigworth and E. Culurciello},
+    title={Integrated patch-clamp biosensor for high-density screening of cell conductance},
+    journal={Electronics Letters},
+    publisher={IET},
+    volume= 44,
+    year= 2008,
+    month = {January 17th},
+    pages={81-82},
+    number= 2
+}
+
+@article{Culurciello07a,
+    author={E. Culurciello},
+    title={Three-Dimensional Phototransistors in {3D} Silicon-on-insulator technology},
+    journal={Electronics Letters},
+    publisher={IET},
+    volume= 43,
+    year= 2007,
+    month = {March},
+    pages={418-420},
+    number= 7
+}
+
+@article{CuPoAn07a,
+    author={E. Culurciello and P.O. Pouliquen and A.G. Andreou},
+    title={A Digital Isolation Amplifier in Silicon-on-Sapphire {CMOS}},
+    journal={Electronics Letters},
+    publisher={IET},
+    volume= 43,
+    year= 2007,
+    month = {April},
+    pages={451-452},
+    number= 8
+}
+
+
+@article{CuWe07,
+    author={E. Culurciello and P. Weerakoon},
+    title={Three-Dimensional Photodetectors in {3D} Silicon-on-insulator technology},
+    journal={{IEEE} Electron Device Letters},
+    publisher={IEEE},
+    volume= 28,
+    year= 2007,
+    month = {February},
+    pages={117-119},
+    number= 2
+}
+
+
+@article{VoMaCu07,
+    author={R.J. Vogelstein and U. Mallik and E. Culurciello and G. Cauwengberghs and R. Etienne-Cummings},
+    title={A Multi-Chip Neuromorphic System for Spike-Based Visual Information Processing},
+    journal={Neural Computation},
+    publisher={MIT Press},
+    volume= {},
+    year= 2007,
+    month = {},
+    pages={},
+    number= {}
+}
+
+
+@article{CuAn06b,
+    author={E. Culurciello and A.G. Andreou},
+    title={{CMOS image sensors for sensor networks}},
+    journal={Analog Integrated Circuits and Signal Processing},
+    publisher={Springer Netherlands},
+    volume= 49,
+    year= 2006,
+    pages={39 - 51},
+    number= 1
+}
+
+@article{CuAn06c,
+    author={E. Culurciello and A.G. Andreou},
+    title={{An 8-bit, 1mW Successive Approximation ADC in SOI CMOS}},
+    journal={IEEE TCAS-II Letters},
+    volume= {53},
+    year= 2006,
+    month = {September},
+    pages={858-862},
+    number= {9}
+}
+
+@article{CuAn06d,
+    author={E. Culurciello and A.G. Andreou},
+    title={Capacitive Inter-Chip Data and Power Transfer for {3D} {VLSI}},
+    journal={IEEE TCAS-II Letters},
+    volume= {53},
+    year= 2006,
+    month = {December},
+    pages={1348 - 1352},
+    number= {12}
+}
+
+@article{KaKoCu06,
+    author={T. Kaya and H. Koser and E. Culurciello},
+    title={{A Low-Voltage Temperature Sensor for Micro Power Harvesters in Silicon-on-Sapphire CMOS}},
+    journal={IEE Electronics Letters},
+    volume= {42},
+    year= 2006,
+    pages={526-528},
+    number= {9}
+}
+
+@article{FuWeCu06,
+    author={Z.M. Fu and P. Weerakoon and E. Culurciello},
+    title={{A nano-Watt Silicon-on-Sapphire ADC using 2C-1C Capacitor Chain}},
+    journal={IEE Electronics Letters},
+    volume= {42},
+    year= 2006,
+    pages={526-528},
+    number= {6}
+}
+
+@article{LaKlSi06,
+    author={F. Laiwalla and K.G. Klemic and F.J. Sigworth and E. Culurciello},
+    title={{An Integrated Patch-Clamp Amplifier in Silicon-on-Sapphire CMOS}},
+    journal={IEEE Transactions on Circuits and Systems, TCAS-I, special issue on Life Science and Applications},
+    volume= {53},
+    year= 2006,
+    month = {November},
+    pages={2364 - 2370},
+    number= {11}
+}
+
+@article{MaStJa06,
+    author={G. Marcus and K. Strohben and S. Jaskulek and A.G. Andreou and E. Culurciello},
+    title={{A Monolithic Isolation Amplifier in Silicon-on-Insulator CMOS: Testing and Applications}},
+    journal={Analog Integrated Circuits and Signal Processing},
+    publisher={Springer Netherlands},
+    volume= {49},
+    year= 2006,
+    month = {October},
+    pages={63 - 70},
+    number= {1}
+}
+
+
+@article{CuPoAn05a,
+    author={E. Culurciello and P.O. Pouliquen and A.G. Andreou},
+    title={An isolation charge pump fabricated in silicon on sapphire {CMOS} technology},
+    journal={IEE Electronics Letters},
+    volume= 41,
+    year= 2005,
+    month={April},
+    pages={520 - 592},
+    number= 10
+}
+
+
+
+@article{CuPoAn05b,
+    author={E. Culurciello and P.O. Pouliquen and A.G. Andreou and K. Strohbehn and S. Jaskulek},
+    title={A monolithic digital galvanic isolation buffer fabricated in silicon on sapphire {CMOS}},
+    journal={IEE Electronics Letters},
+    volume= 41,
+    year= 2005,
+    pages={526 - 528},
+    number = 9
+}
+
+@inproceedings{VoMaCu04a,
+    author={R.J. Vogelstein and U. Mallik and  E. Culurciello and R. Etienne-Cummings and G. Cauwenberghs},
+    title={Saliency-Driven Image Acuity Modulation on a Reconfigurable Silicon Array of Spiking Neurons},
+    booktitle={Adv. Neural Information Processing Systems {NIPS} '04},
+    year= 2004,
+    month={December},
+    publisher={{MIT} Press},
+    volume= 17
+}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% CONFERENCES
+
+
+@inproceedings{DeLiCu10,
+    author={Clement Farabet and Berin Martini and Polina Akselrod and Benoit Corda and Selcuk Talay and Yann LeCun and Eugenio Culurciello},
+    title={Demonstration: NeuFlow: a dataflow processor for convolutional nets and other real-time algorithms},
+    booktitle={Neural Information Processing Systems conference, {NIPS 2010}},
+    year={2010},
+    publisher = {},
+    month={December},
+    pages = {},
+    address={}
+}
+
+
+@inproceedings{DeLiCu10,
+    author={Clement Farabet and Berin Martini and Polina Akselrod and Benoit Corda and Selcuk Talay and Yann LeCun and Eugenio Culurciello},
+    title={NeuFlow: a neural vision processor for real-time object categorization in megapixel videos},
+    booktitle={{IEEE} Applied Imagery Pattern Recognition {AIPR 2010}},
+    year={2010},
+    publisher = {IEEE},
+    month={October},
+    pages = {},
+    address={Washington, DC,}
+}
+
+
+@inproceedings{FaMaAk10,
+    author={Clement Farabet and Berin Martini and Polina Akselrod and Benoit Corda and Selcuk Talay and Yann LeCun and Eugenio Culurciello},
+    title={Bio-Inspired Vision Processor for Ultra-Fast Object Categorization},
+    booktitle={High Performance Embedded Computing Workshop, {HPEC 2010}},
+    year={2010},
+    publisher = {IEEE},
+    month={September},
+    pages = {},
+    address={MIT Lincoln Laboratories}
+}
+
+
+@inproceedings{DeLiCu10,
+    author={Tobi Delbruck and Bernabe Linares-Barranco and Eugenio Culurciello and Christoph Posch},
+    title={Activity-Driven, Event-Based Vision Sensors},
+    booktitle={{IEEE} International Symposium on Circuits and Systems, {ISCAS} '10},
+    year={2010},
+    publisher = {IEEE},
+    month={May},
+    pages = {2426 - 2429},
+    address={Paris, France}
+}
+
+
+@inproceedings{GrMoTh10,
+    author={E. Greenwald and M. Mollazadeh and N. Thakor and W. Tang and E. Culurciello},
+    title={A VLSI Neural Monitoring System with Ultra-Wideband Telemetry for Awake Behaving Subjects},
+    booktitle={{IEEE} International Symposium on Circuits and Systems, {ISCAS} '10},
+    year={2010},
+    publisher = {IEEE},
+    month={May},
+    pages = {},
+    address={Paris, France}
+}
+
+
+@inproceedings{DeLiCu10,
+    author={T. Delbruck and B. Linares-Barranco and E. Culurciello and C. Posch},
+    title={Activity-Driven, Event-Based Vision Sensors},
+    booktitle={{IEEE} International Symposium on Circuits and Systems, {ISCAS} '10},
+    year={2010},
+    publisher = {IEEE},
+    month={May},
+    pages = {},
+    address={Paris, France}
+}
+
+@inproceedings{WeSiKi10,
+    author={P. Weerakoon and F. Sigworth and P. Kindlmann and J. Santos-Sacchi and Y. Yang and E. Culurciello},
+    title={An Integrated Patch-Clamp System with Dual Input},
+    booktitle={{IEEE} International Symposium on Circuits and Systems, {ISCAS} '10},
+    year={2010},
+    publisher = {IEEE},
+    month={May},
+    pages = {},
+    address={Paris, France}
+}
+
+
+@inproceedings{ChTaCu10,
+    author={D. Kim and W. Tang and B. Goldstein and P. Weerakoon and E. Culurciello},
+    title={Performance Comparison of Low Current Measurement Systems for Biomedical Applications},
+    booktitle={{IEEE} International Symposium on Circuits and Systems, {ISCAS} '10},
+    year={2010},
+    publisher = {IEEE},
+    month={May},
+    pages = {},
+    address={Paris, France}
+}
+
+
+@inproceedings{FaMaAk10b,
+    author={C. Farabet and B. Martini and P. Akselrod and S. Talay and Y. LeCun and E. Culurciello},
+    title={Hardware Accelerated Convolutional Neural Networks for Synthetic Vision Systems},
+    booktitle={{IEEE} International Symposium on Circuits and Systems, {ISCAS} '10},
+    year={2010},
+    publisher = {IEEE},
+    month={May},
+    pages = {},
+    address={Paris, France}
+}
+
+
+@inproceedings{KiCu10,
+    author={D. Kim and E. Culurciello},
+    title={A Compact-pixel Tri-mode Vision Sensor},
+    booktitle={{IEEE} International Symposium on Circuits and Systems, {ISCAS} '10},
+    year={2010},
+    publisher = {IEEE},
+    month={May},
+    pages = {},
+    address={Paris, France}
+}
+
+
+@inproceedings{TaHuKi10,
+    author={W. Tang and C. Huang and D. Kim and B. Martini and E. Culurciello},
+    title={4-Channel Asynchronous Bio-Potential Recording System},
+    booktitle={{IEEE} International Symposium on Circuits and Systems, {ISCAS} '10},
+    year={2010},
+    publisher = {IEEE},
+    month={May},
+    pages = {},
+    address={Paris, France}
+}
+
+@inproceedings{ChTaCu10b,
+    author={S.S. Chen and W. Tang and E. Culurciello},
+    title={A 64x64 Pixels UWB Wireless Temporal-Difference Digital Image Sensor},
+    booktitle={{IEEE} International Symposium on Circuits and Systems, {ISCAS} '10},
+    year={2010},
+    publisher = {IEEE},
+    month={May},
+    pages = {},
+    address={Paris, France}
+}
+
+
+@inproceedings{ChAkCu09,
+    author={S.S. Chen and P. Akselrod and E. Culurciello},
+    title={A Biologically Inspired System for Human Posture Recognition},
+    booktitle={{IEEE} Biomedical Circuits and Systems Conference, {BioCAS} '09},
+    year={2009},
+    publisher = {IEEE},
+    month={November},
+    pages = {},
+    address={}
+}
+
+
+@inproceedings{ChCu09,
+    author={S.S. Chen and E. Culurciello},
+    title={A Bio-Inspired Event-Based Size and Position Invariant Human Posture Recognition Algorithm},
+    booktitle={{IEEE} International Symposium on Circuits and Systems, {ISCAS} '09},
+    year={2009},
+    publisher = {IEEE},
+    month={May},
+    pages = {775 - 778},
+    address={Taipei, Taiwan}
+}
+
+
+@inproceedings{ChMaCu09,
+    author={S.S. Chen and B. Martini and E. Culurciello},
+    title={A bio-inspired event-based size and position invariant human posture recognition algorithm},
+    booktitle={{IEEE} International Symposium on Circuits and Systems, {ISCAS} '09, Live demonstration},
+    year={2009},
+    publisher = {IEEE},
+    month={May},
+    pages = {779 - 779},
+    address={Taipei, Taiwan}
+}
+
+
+@inproceedings{TaCu09a,
+    author={W. Tang and E. Culurciello},
+    title={A low-power high-speed ultra wideband pulse radio system},
+    booktitle={{IEEE} International Symposium on Circuits and Systems, {ISCAS} '09},
+    year={2009},
+    publisher = {IEEE},
+    month={May},
+    pages = {1916 - 1916},
+    address={Taipei, Taiwan}
+}
+
+
+@inproceedings{TaCu09b,
+    author={W. Tang and E. Culurciello},
+    title={A Pulse-Based Amplifier and Data Converter for Bio-Potentials},
+    booktitle={{IEEE} International Symposium on Circuits and Systems, {ISCAS} '09},
+    year={2009},
+    publisher = {IEEE},
+    month={May},
+    pages = {337 - 340},
+    address={Taipei, Taiwan}
+}
+
+
+@inproceedings{PaPiVe09,
+    author={J.H. Park and V. Pieribone and J.V. Verhagen and C. vonHehn and E. Culurciello},
+    title={High-Speed Fluorescence Imaging System for Freely Moving Animals},
+    booktitle={{IEEE} International Symposium on Circuits and Systems, {ISCAS} '09},
+    year={2009},
+    publisher = {IEEE},
+    month={May},
+    pages = {2429 - 2432},
+    address={Taipei, Taiwan}
+}
+
+
+@inproceedings{PaPiKi09,
+    author={J.H. Park and V. Pieribone and D. Kim and J.V. Verhagen and S.H. Gautam and E. Culurciello},
+    title={Miniature Voltage Sensitive Dye Imaging System for In Vivo Experiments},
+    booktitle={{IEEE-NIH LIfe Science Systems and Applications Workshop, LiSSA 2009}},
+    year={2009},
+    publisher = {IEEE},
+    month={April},
+    pages = {70 - 73}
+}
+
+
+
+@inproceedings{PaCuKi08,
+    author={J.H. Park and E. Culurciello and D. Kim and J. V. Verhagen and S.H. Gautam and V. Pieribone},
+    title={Voltage Sensitive Dye Imaging System for Awake and Freely Moving Animals},
+    booktitle={{IEEE Biomedical Circuits and Systems Conference}},
+    year={2008},
+    publisher = {IEEE},
+    month={November},
+    pages = {89 - 92},
+    address={Seattle, USA}
+}
+
+
+@inproceedings{ChFoVo08,
+    author={S. Chen and F. Folowosele and R.J. Vogelstein and R. Etienne-Cummings and E. Culurciello},
+    title={A Size and Position Invariant Event-based Human Posture Recognition Algorithm},
+    booktitle={{IEEE Biomedical Circuits and Systems Conference}},
+    year={2008},
+    publisher = {IEEE},
+    month={November},
+    pages = {285 - 288},
+    address={Seattle, USA}
+}
+
+@inproceedings{Culurciello08,
+    author={Eugenio Culurciello},
+    title={Mixed Signal Microsystems in Emerging SOI Technologies},
+    booktitle={{IEEE SOI International Conference}},
+    year={2008},
+    publisher = {IEEE},
+    month={October},
+    pages = {107-108},
+    address={Seattle, USA},
+    note={invited paper}
+}
+
+
+@inproceedings{WeKaSi08a,
+    author={P. Weerakoon and Kate Klemic and F.J. Sigworth and E. Culurciello},
+    title={An Integrated Patch-Clamp Amplifier for High-Throughput Planar Patch-Clamp Systems},
+    booktitle={{IEEE} International Symposium on Circuits and Systems, {ISCAS} '08},
+    year={2008},
+    publisher = {IEEE},
+    month={May},
+    pages = {},
+    address={Seattle, USA}
+}
+
+@inproceedings{TaAnCu08,
+    author={W. Tang and A.G. Andreou and E. Culurciello},
+    title={A Low-Power Silicon-on-Sapphire Tunable Ultra-Wideband Transmitter},
+    booktitle={{IEEE} International Symposium on Circuits and Systems, {ISCAS} '08},
+    year={2008},
+    publisher = {IEEE},
+    month={May},
+    pages = {},
+    address={Seattle, USA}
+}
+
+@inproceedings{PaCu08b,
+    author={J.H. Park and E. Culurciello},
+    title={Phototransistor Image Sensor in Silicon on Sapphire},
+    booktitle={{IEEE} International Symposium on Circuits and Systems, {ISCAS} '08},
+    year={2008},
+    publisher = {IEEE},
+    month={May},
+    pages = {},
+    address={Seattle, USA}
+}
+
+@inproceedings{PaCu08a,
+    author={J.H. Park and E. Culurciello},
+    title={High-Speed Back-Illuminated Image Sensor in Silicon-on-Sapphire},
+    booktitle={{IEEE} International Symposium on Circuits and Systems, {ISCAS} '08},
+    year={2008},
+    publisher = {IEEE},
+    month={May},
+    pages = {},
+    address={Seattle, USA}
+}
+
+@inproceedings{FuCu08b,
+    author={Z. M. Fu and E. Culurciello},
+    title={A 1.2mW CMOS Temporal-Difference Image Sensor for Sensor Networks},
+    booktitle={{IEEE} International Symposium on Circuits and Systems, {ISCAS} '08},
+    year={2008},
+    publisher = {IEEE},
+    month={May},
+    pages = {},
+    address={Seattle, USA}
+}
+
+@inproceedings{FuCu08a,
+    author={Z.M. Fu and E. Culurciello},
+    title={Fall Detection Using an Address-Event Temporal Contrast Vision Sensor},
+    booktitle={{IEEE} International Symposium on Circuits and Systems, {ISCAS} '08},
+    year={2008},
+    publisher = {IEEE},
+    month={May},
+    pages = {},
+    address={Seattle, USA}
+}
+
+
+@inproceedings{FiYaCu07,
+    author={A. Fish and O Yadid-Pecht and E. Culurciello},
+    title={Responsivity of Gated Photodiode in SOS Technology},
+    booktitle={{IEEE} Conference on Sensors},
+    year={2007},
+    publisher = {IEEE},
+    month={October},
+    pages = {},
+    address={Atlanta, GA}
+}
+
+
+@inproceedings{WeCu07b,
+    author={P. Weerakoon and E. Culurciello},
+    title={An Integrated Patch-Clamp Amplifier for High-Density Whole-Cell Recordings},
+    booktitle={{IEEE} International Symposium on Circuits and Systems, {ISCAS} '07},
+    year={2007},
+    publisher = {IEEE},
+    month={May},
+    pages = {1205-1209},
+    address={New Orleans, LA}
+}
+
+@inproceedings{PaCu07,
+    author={E. Park and E. Culurciello},
+    title={Address-Event Video Streaming Over Wireless Sensor Networks},
+    booktitle={{IEEE} International Symposium on Circuits and Systems, {ISCAS} '07},
+    year={2007},
+    publisher = {IEEE},
+    month={May},
+    pages = {849-852},
+    address={New Orleans, LA}
+}
+
+
+@inproceedings{KaKoCu07,
+    author={T. Kaya and H. Koser and E. Culurciello},
+    title={A Silicon-on-Sapphire Low-Voltage Temperature Sensor for Energy Scavengers},
+    booktitle={{IEEE} International Symposium on Circuits and Systems, {ISCAS} '07},
+    year={2007},
+    publisher = {IEEE},
+    month={May},
+    pages = {2455-2458},
+    address={New Orleans, LA}
+}
+
+
+@inproceedings{YeCu07,
+    author={C.C. Yeh and E. Culurciello},
+    title={Nonvolatile Flash Memories in Silicon-on-Sapphire {CMOS}},
+    booktitle={{IEEE} International Symposium on Circuits and Systems, {ISCAS} '07},
+    year={2007},
+    publisher = {IEEE},
+    month={May},
+    pages = {2782-2785},
+    address={New Orleans, LA}
+}
+
+
+@inproceedings{WeCu07a,
+    author={P. Weerakoon and E. Culurciello},
+    title={Vertically-Integrated Three-Dimensional {SOI} Photodetectors},
+    booktitle={{IEEE} International Symposium on Circuits and Systems, {ISCAS} '07},
+    year={2007},
+    publisher = {IEEE},
+    month={May},
+    pages = {2498-2501},
+    address={New Orleans, LA}
+}
+
+
+@inproceedings{FuCu07a,
+    author={Z.M. Fu and E. Culurciello},
+    title={A {3D} Integrated Feature-Extracting Image Sensor},
+    booktitle={{IEEE} International Symposium on Circuits and Systems, {ISCAS} '07},
+    year={2007},
+    publisher = {IEEE},
+    month={May},
+    pages = {3964-3967},
+    address={New Orleans, LA}
+}
+
+@inproceedings{FuCu06b,
+    author={Z. Fu and E. Culurciello},
+    title={A 1.8mW 10-bit analog-to-digital converter in silicon-on-sapphire CMOS},
+    booktitle={Connecticut Microelectronics and Optoelectronics Symposium},
+    year={2006},
+    month={March},
+    address = {Connecticut, USA}
+}
+
+
+@inproceedings{TeLyCu06,
+    author={T. Teixeira and D. Lymberopoulos and E. Culurciello and Y. Aloimonos and A. Savvides},
+    title={A Lightweight Camera Sensor Network Operating on Symbolic Information},
+    booktitle={Proceedings of First Workshop on Distributed Smart Cameras},
+    year={2006},
+    note = {held in conjunction with ACM SenSys 2006}
+}
+
+
+@inproceedings{LaKlSiCu06b,
+    author={F. Laiwalla and K.G. Klemic and F.J. Sigworth and E. Culurciello},
+    title={An Integrated Silicon-on-Sapphire Patch-Clamp Amplifier},
+    booktitle={{IEEE/NLM} Life Science Systems and Application Workshop},
+    year={2006},
+    publisher = {IEEE},
+    month={July},
+    address = {Bethesda MD}
+}
+
+
+@inproceedings{TeCuPa06,
+    author={T. Teixeira and E. Culurciello and E. Park and D. Lymberopoulos and A. Barton-Sweeney and A. Savvides},
+    title={Address-Event Imagers for Sensor Networks: Evaluation and Modeling},
+    booktitle={Proceedings of Information Processing in Sensor Networks {(IPSN)}},
+    year={2006},
+    month = {April},
+    pages={458 - 466}
+}
+
+@inproceedings{LaKlSiCu06,
+    author={F. Laiwalla and K.G. Klemic and F.J. Sigworth and E. Culurciello},
+    title={An Integrated Patch-Clamp Amplifier in Silicon-on-Sapphire {CMOS}},
+    booktitle={{IEEE} International Symposium on Circuits and Systems, {ISCAS} '06},
+    year={2006},
+    publisher = {IEEE},
+    month={May},
+    pages = {4054-4057},
+    address={Kos, Greece}
+}
+
+@inproceedings{CuAn06a,
+    author={E. Culurciello, A. Andreou},
+    title={{3D Integrated Sensors in Silicon-on-Sapphire CMOS}},
+    booktitle={{IEEE} International Symposium on Circuits and Systems, {ISCAS} '06},
+    year={2006},
+    publisher = {IEEE},
+    month={May},
+    pages = {4959-4962},
+    address={Kos, Greece}
+}
+
+@inproceedings{AdTeCu06,
+    author={M. Adlestein and F. Tejada and E. Culurciello and P. Pouliquen and A.G. Andreou},
+    title={{Dark Current and Noise in 100nm thick lateral PIN photodiodes fabricated in SOS CMOS technology}},
+    booktitle={{IEEE} International Symposium on Circuits and Systems, {ISCAS} '06},
+    year={2006},
+    publisher = {IEEE},
+    month={May},
+    pages = {4583 - 4586},
+    address={Kos, Greece}
+}
+
+
+@inproceedings{CuSa06a,
+    author={E. Culurciello and A. Savvides},
+    title={Address-Event Image Sensor Network},
+    booktitle={{IEEE} International Symposium on Circuits and Systems, {ISCAS} '06},
+    year={2006},
+    publisher = {IEEE},
+    month={May},
+    pages = {955-958},
+    address={Kos, Greece}
+}
+
+
+@inproceedings{TeAnCu06,
+    author={T. Teixeira, A.G. Andreou, E. Culurciello},
+    title={An Address-Event Image Sensor Network},
+    booktitle={{IEEE} International Symposium on Circuits and Systems, {ISCAS} '06},
+    year={2006},
+    publisher = {IEEE},
+    month={May},
+    pages ={4467 - 4470},
+    address={Kos, Greece}
+}
+
+@inproceedings{FuCu06a,
+    author={Z.M. Fu and E. Culurciello},
+    title={{An Ultra-Low Power Silicon-on-Sapphire ADC for Energy-Scavenging Sensors}},
+    booktitle={{IEEE} International Symposium on Circuits and Systems, {ISCAS} '06},
+    year={2006},
+    publisher = {IEEE},
+    month={May},
+    address={Kos, Greece}
+}
+
+@inproceedings{LaFuCu05,
+    author={F. Laiwalla and Z. M. Fu and E. Culurciello  and F. J. Sigworth and K. Klemic},
+    title={A {CMOS} Integrated Patch Clamp Amplifier},
+    booktitle={Connecticut Symposium on Microelectronics and Optoelectronics},
+    year= 2005,
+    month={March},
+    publisher={CMOC},
+    address={New Haven, CT}
+}
+
+@inproceedings{TeCuAn05,
+    author={T. Teixeira and E. Culurciello and A.G. Andreou},
+    title={Event-Based Imaging With Active Illumination In Sensor Networks},
+    booktitle={IEEE International Symposium on Circuits and Systems, ISCAS},
+    year={2005},
+    month={May},
+    address = {Kobe, Japan},
+    Pages = {644 - 647},
+    Volume = 1
+}
+
+
+@inproceedings{CuAn05c,
+    author={E. Culurciello and A.G. Andreou},
+    title={Capacitive Coupling Of Data And Power For {3D} Silicon-On-Insulator {VLSI}},
+    booktitle={IEEE International Symposium on Circuits and Systems, ISCAS},
+    year={2005},
+    month={May},
+    address = {Kobe, Japan},
+    pages ={4142 - 4145},
+    volume = 4
+}
+
+@inproceedings{CuPoAn05c,
+    author={E. Culurciello and P. Pouliquen and A.G. Andreou and K. Strohbehn and S. Jaskulek},
+    title={A Monolithic Isolation Amplifier In Silicon-On-Insulator {CMOS}},
+    booktitle={IEEE International Symposium on Circuits and Systems, ISCAS},
+    year={2005},
+    month={May},
+    Pages ={137 - 140},
+    Volume = 1,
+    address = {Kobe, Japan}
+}
+
+
+@inproceedings{MaVoCu05,
+    author={U. Mallik and R.J. Vogelstein and E. Culurciello and R. Etienne-Cummings and G. Cauwenberghs},
+    title={{A real-time spike-domain sensory information processing system [image processing applications]}},
+    booktitle={{IEEE International Symposium on Circuits and Systems, ISCAS '05}},
+    year={2005},
+    month={May},
+    pages = {1919 - 1922},
+    volume = 3,
+    address = {Kobe, Japan}
+}
+
+@inproceedings{VoMaCu05,
+    author={R.J. Vogelstein and U. Mallik and E. Culurciello and G. Cauwenberghs and R. Etienne-Cummings},
+    title={Saliency-Driven Image Acuity Modulation on a Reconfigurable Silicon Array of Spiking Neurons},
+    booktitle={{Adv. Neural Information Processing Systems, NIPS '04}},
+    year={2005},
+    volume = 17,
+    month={May},
+    publisher = {Cambridge: MIT Press}
+}
+
+
+@inproceedings{SaCu05a,
+    author={A. Savvides and E. Culurciello},
+    title={Imager Based Sensor Networks for Understanding and Creating Behaviors},
+    booktitle={Proceedings of IEEE Basenets '05},
+    publisher = {IEEE},
+    year={2005},
+    month={October}
+}
+
+
+
+@inproceedings{VoMaCu04b,
+    author={R.J. Vogelstein and U. Mallik and E. Culurciello and G. Cauwenberghs and R. Etienne-Cummings},
+    title={Spatial acuity modulation of an address-event imager},
+    booktitle={{IEEE International Conference on Electronics, Circuits and Systems, ICECS '04}},
+    year={2004},
+    month={December},
+    pages = {207 - 210}
+}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% WEBSITES ELSE
+
+@booklet{Elab05,
+    author={{E-Lab, E. Culurciello's laboratory at Yale University}},
+    title = {URL http://www.eng.yale.edu/elab/}
+}
+
+@booklet{NeuFlow,
+    author={{NeuFlow} dataflow computer site},
+    title = {URL http://www.neuflow.org}
+}
+
+
+
+
+
+
+
+

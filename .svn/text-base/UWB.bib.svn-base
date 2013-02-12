@@ -1,0 +1,3210 @@
+% This file was created with JabRef 2.5.
+% Encoding: MacRoman
+
+@ARTICLE{AiRo03,
+  author = {Aiello, G.R. and Rogerson, G.D.},
+  title = {Ultra-wideband wireless systems},
+  journal = {Microwave Magazine, IEEE},
+  year = {2003},
+  volume = {4},
+  pages = { 36-47},
+  number = {2},
+  month = {June},
+  doi = {10.1109/MMW.2003.1201597},
+  file = {:Research/Reference/Ultra Wideband/[AiRo03]Ultra-wideband wireless systems.pdf:PDF},
+  issn = {1527-3342},
+  keywords = { IEEE standards, frequency allocation, frequency hop communication,
+	personal communication networks 110 Mbit/s, 200 Mbit/s, 480 Mbit/s,
+	500 MHz, FCC frequency allocation, IEEE 802.15.3a, Spectral Keying,
+	UWB, frequency hopping, high-bit-rate PAN applications, low-power
+	spectral density, transmit signal, ultra-wideband wireless systems},
+  owner = {wei tang},
+  timestamp = {2009.11.15}
+}
+
+@INPROCEEDINGS{AnSvDr03,
+  author = {Andersson, S. and Svenson, C. and Drugge, O.},
+  title = {Wideband LNA for a multistandard wireless receiver in 0.18µm CMOS},
+  booktitle = {Solid-State Circuits Conference, 2003. ESSCIRC '03. Proceedings of
+	the 29th European},
+  year = {2003},
+  pages = { 655-658},
+  month = {Sept.},
+  abstract = {A differential wideband LNA for a multistandard receiver has been
+	designed and implemented in 0.18?m CMOS. The circuit topology is
+	a two-stage amplifier with active feedback. The input stage is a
+	common-source stage with a common-drain stage in the feedback loop
+	for impedance matching. Bandwidth enhancement with inductive shunt-peaking
+	is used for maximizing the bandwidth. Measurements on the fabricated
+	device show a power gain of 13.1 dB and a 3-dB bandwidth of nearly
+	7 GHz together with an IIP3 and a 1-dB compression point of -4.7
+	dBm and -15.2 dBm respectively. The measured noise figures are 3.3
+	dB at 1 GHz and 5.5 dB at 6 GHz. Reported LNAs with similar performance
+	are usually implemented with bipolar transistors or MESFETs.},
+  doi = {10.1109/ESSCIRC.2003.1257220},
+  file = {:Research/Reference/Ultra Wideband/[AnSvDr03]Wideband LNA for a multistandard wireless receiver in 0.18 ?m CMOS.pdf:PDF},
+  issn = { },
+  keywords = { CMOS integrated circuits, integrated circuit design, radio receivers,
+	wideband amplifiers 0.18 micron, 1 GHz, 3.3 dB, 5.5 dB, 6 GHz, CMOS,
+	MESFET, active feedback, bandwidth enhancement, bipolar transistors,
+	circuit topology, common drain stage, common source stage, feedback
+	loop, impedance matching, inductive shunt-peaking, multistandard
+	wireless receiver, two stage amplifier, wideband LNA},
+  owner = {wei tang},
+  timestamp = {2009.11.15}
+}
+
+@TECHREPORT{An03,
+  author = {Andrews, J.R.},
+  title = {UWB signal sources, antennas and propagation},
+  institution = {Picosecond Pulse Labs},
+  year = {2003},
+  month = {Oct.},
+  abstract = {This paper discusses the history of ultra-wideband (UWB) wireless
+	and considers spectrum issues. It deals with UWB signal sources,
+	including step, impulse, monocycle and RF pulses. It introduces new
+	NLTL technology which can generate 6 V, 4 ps pulses and which could
+	be used for 10 Gbit/s, millimeter wave, UWB wireless LAN. Several
+	UWB antennas are presented including conical, TEM horn, D*dot, monopole
+	and waveguide horn. Experimental proof is given that UWB free space
+	propagation is not wavelength-dependent.},
+  booktitle = {Wireless Communication Technology, 2003. IEEE Topical Conference
+	on},
+  doi = {10.1109/WCT.2003.1321594},
+  file = {:/Research/Reference/Ultra Wideband/[An03]UWB Signal Sources, Antennas & Propagation.pdf:PDF},
+  issn = { },
+  keywords = { broadband antennas, conical antennas, electromagnetic wave propagation,
+	horn antennas, millimetre wave antennas, monopole antennas, wireless
+	LAN 10 Gbit/s, D*dot antenna, NLTL technology, RF pulses, TEM horn,
+	UWB antennas, conical antennas, free space propagation, impulse source,
+	millimeter wave wireless LAN, monocycle source, monopole antenna,
+	spectrum issues, step source, ultra-wideband wireless, waveguide
+	horn},
+  owner = {wei tang},
+  pages = { 439-440},
+  timestamp = {2009.10.31},
+  url = {http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1321594}
+}
+
+@INPROCEEDINGS{AnTiWe08,
+  author = {Anis, M. and Tielert, R. and Wehn, N.},
+  title = {Super-regenerative UWB impulse detector with synchronized quenching
+	mechanism},
+  booktitle = {Solid-State Circuits Conference, 2008. ESSCIRC 2008. 34th European},
+  year = {2008},
+  pages = {390-393},
+  month = {Sept.},
+  abstract = {This paper presents low power fully integrated super-regenerative
+	UWB impulse detector with automatic adjustment of incoming pulses
+	at highly sensitive region by using synchronized voltage controlled
+	quenching mechanism. In-band and out-of-band interferences are eliminated
+	by logic comparison and redundancy check between the outputs of multiple
+	super-regenerators tuned within UWB spectrum. The test structure
+	has been implemented on 0.18 mum CMOS technology, active area of
+	1.4 mm2. The UWB signal to in-band interferer ratio of -36 dB is
+	achieved with sensitivity of -95 dBm at data rate of 20 Mb/s and
+	power consumption of 5 mW at 1.5 V.},
+  doi = {10.1109/ESSCIRC.2008.4681874},
+  file = {:Research/Reference/Ultra Wideband/[AnTiWe08]Super-regenerative UWB impulse detector with synchronized quenching mechanism.pdf:PDF},
+  issn = {1930-8833},
+  keywords = {CMOS integrated circuits, ultra wideband technologyCMOS technology,
+	bit rate 20 Mbit/s, in-band interferences, logic comparison, multiple
+	super-regenerators, out-of-band interferences, power 5 mW, power
+	consumption, redundancy check, size 0.18 mum, super-regenerative
+	UWB impulse detector, synchronized quenching mechanism, voltage 1.5
+	V},
+  owner = {wei tang},
+  timestamp = {2010.01.21}
+}
+
+@INPROCEEDINGS{AzRePoAl05,
+  author = {Azakkour, A. and Regis, M. and Pourchet, F. and Alquie, G.},
+  title = {A new integrated monocycle generator and transmitter for ultra-wideband
+	(UWB) communications},
+  booktitle = {Radio Frequency integrated Circuits (RFIC) Symposium, 2005. Digest
+	of Papers. 2005 IEEE},
+  year = {2005},
+  pages = { 79-82},
+  month = {June},
+  abstract = {In this paper, we propose a gated pulse generator incorporating two
+	modulation schemes for use in an ultra-wideband impulse radio system.
+	A pseudo-noise sequence prescaler modulates the impulses with specific
+	modulation schemes, such as pulse position, bi-phase modulation or
+	the combination of both. The resulting gated monocycle generator
+	is designed in Jazz Semiconductor BiCMOS SiGe technology. Measurements
+	validate the circuit operation over a supply voltage of 2.7 V and
+	a power consumption of 243 mW. The output monocycles approximate
+	Gaussian monocycles, having a pulse duration of 250 ps. Proper modulations
+	in time are confirmed.},
+  doi = {10.1109/RFIC.2005.1489592},
+  file = {:Research/Reference/Ultra Wideband/[AzRePoAl05]A new integrated monocycle generator and transmitter for ultra-wideband (UWB) communications.pdf:PDF},
+  issn = {1529-2517},
+  keywords = { phase shift keying, prescalers, pulse generators, pulse position
+	modulation, radio transmitters, ultra wideband communication 2.7
+	V, 243 mW, 250 ps, BPSK, BiCMOS, Gaussian monocycles, PPM, SiGe,
+	UWB communications, bi-phase modulation, gated pulse generator, impulse
+	radio, integrated monocycle generator, pseudo-noise sequence prescaler,
+	pulse duration, pulse position modulation, ultra-wideband transmitter},
+  owner = {wei tang},
+  timestamp = {2009.10.31}
+}
+
+@ARTICLE{BaVoHaLo06,
+  author = {Bagga, S. and Vorobyov, A.V. and Haddad, S.A.P. and Yarovoy, A.G.
+	and Serdijn, W.A. and Long, J.R.},
+  title = {Codesign of an impulse generator and miniaturized antennas for IR-UWB},
+  journal = {Microwave Theory and Techniques, IEEE Transactions on},
+  year = {2006},
+  volume = {54},
+  pages = { 1656-1666},
+  number = {4},
+  month = {June},
+  doi = {10.1109/TMTT.2006.872036},
+  file = {:Research/Reference/Ultra Wideband/[BaVoHaLo06]Codesign of an impulse generator and miniaturized antennas for IR-UWB.pdf:PDF},
+  issn = {0018-9480},
+  keywords = { BiCMOS integrated circuits, antenna feeds, pulse generators, pulse
+	modulation, ultra wideband antennas, ultra wideband communication
+	0.18 micron, 1.8 V, 45 mW, BiCMOS IC technology, Gaussian monocycle
+	waveform, IR-UWB, antenna fed, baluns, impulse generator, miniaturized
+	antennas, programmable modulator, pulse-position modulation, triangular
+	pulse generator, ultra-wideband impulse radio},
+  owner = {wei tang},
+  timestamp = {2009.11.21}
+}
+
+@INPROCEEDINGS{BaMeZhTe09,
+  author = {Baghaei-Nejad, M. and Mendoza, D.S. and Zhuo Zou and Radiom, S. and
+	Gielen, G. and Li-Rong Zheng and Tenhunen, H.},
+  title = {A remote-powered RFID tag with 10Mb/s UWB uplink and ?18.5dBm sensitivity
+	UHF downlink in 0.18µm CMOS},
+  booktitle = {Solid-State Circuits Conference - Digest of Technical Papers, 2009.
+	ISSCC 2009. IEEE International},
+  year = {2009},
+  pages = {198-199,199a},
+  month = {Feb.},
+  abstract = {In this work, a 10 Mb/s impulse UWB RFID tag in 0.18 mum CMOS is presented.
+	The tag is remotely powered by a UHF signal with a minimum input
+	RF power as low as 14.1 muW. The primary innovation is to employ
+	two different communication links (UWB and UHF) respectively in the
+	uplink and downlink of the tag. This is because the amount of data
+	or instructions from a reader to a tag is small and as a result a
+	conventional UHF-RFID link at 900MHz can be used as the downlink.
+	The UHF signal also provides remote power to the tag. The uplink
+	requires higher data rates and precise positioning capability therefore
+	an l-UWB transmitter is employed.},
+  doi = {10.1109/ISSCC.2009.4977376},
+  file = {:Research/Reference/Ultra Wideband/[BaMeZhTe09]A remote-powered RFID tag with 10Mb\:s UWB uplink and ?18.5dBm sensitivity UHF downlink in 0.18µm CMOS.pdf:PDF},
+  keywords = {CMOS integrated circuits, radiofrequency identification, ultra wideband
+	communicationCMOS, UHF downlink, UWB uplink, bit rate 100 Mbit/s,
+	frequency 900 MHz, power 14.1 muW, remote-powered RFID tag, size
+	0.18 mum},
+  owner = {wei tang},
+  timestamp = {2009.10.31}
+}
+
+@INPROCEEDINGS{BaMiChAb06,
+  author = {Bagheri, R. and Mirzaei, A. and Chehrazi, S. and Heidari, M. and
+	Lee, M. and Mikhemar, M. and Tang, M. and Abidi, A.},
+  title = {An 800MHz to 5GHz Software-Defined Radio Receiver in 90nm CMOS},
+  booktitle = {Solid-State Circuits Conference, 2006. ISSCC 2006. Digest of Technical
+	Papers. IEEE International},
+  year = {2006},
+  pages = {1932-1941},
+  month = {Feb.},
+  abstract = {A 90nm CMOS RX operates over the 800MHz to 5GHz band uses a passive
+	FET mixer driven by a capacitively coupled RF transconductor, and
+	a combination of CT and DT analog FIR and MR filters to achieve >100dB
+	of programmable anti-aliasing. The RX chain has 5 to 5.5dB NF, -3.5dBm
+	IIP3, 39dBm IIP2, 10 to 66dB of gain, and draws 11.4mA from 2.5V
+	and 8 to 28mA (depending on RX mode) from 1V},
+  comment = {test comment},
+  doi = {10.1109/ISSCC.2006.1696251},
+  file = {:Research/Reference/Ultra Wideband/[BaMiChAb06]An 800MHz to 5GHz Software-Defined Radio Receiver in 90nm CMOS.pdf:PDF},
+  issn = {0193-6530},
+  keywords = {CMOS integrated circuits, FIR filters, microwave mixers, radio receivers,
+	software radio0.8 to 5 GHz, 1 V, 10 to 66 dB, 2.5 V, 5 to 5.5 dB,
+	8 to 28 mA, 90 nm, CMOS integrated circuits, MR filters, analog FIR
+	filters, passive FET mixer, programmable anti-aliasing, software-defined
+	radio receiver},
+  owner = {wei tang},
+  timestamp = {2010.01.22}
+}
+
+@INPROCEEDINGS{BaKo08,
+  author = {Balashov, E.V. and Korotkov, A.S.},
+  title = {Ultra wideband low noise amplifier with source degeneration and shunt
+	series fedback},
+  year = {2008},
+  pages = {87 -92},
+  month = {july},
+  abstract = {In this paper the new type of UWB LNA is presented. The amplifier
+	has a novel feedback topology and load circuit that allows the designer
+	to obtain high voltage gain and matching in the wide frequency range
+	from 3.1 GHz to 10.6 GHz without cascading, current reuse technique
+	and without an additional matching circuit. The key point of the
+	amplifier is the source degeneration with resistive shunt series
+	feedback and the load circuit based on combined parallel-series resonance
+	circuit. The voltage gain of the amplifier is 11 dB, the matching
+	is better than -10 dB, the noise figure lies between 3.2 and 4 dB
+	in the whole frequency range. The value of CP1dB is -15 dB at the
+	frequency near the amplitude response maximum 7.6 GHz. The amplifier
+	consumes the power of 11.5 mW from the voltage supply 1.8 V. These
+	characteristics are obtained by simulation of the amplifier using
+	Virtuoso custom design platform, Cadence Design Systems, using 0.18
+	um CMOS parameters.},
+  doi = {10.1109/ECCSC.2008.4611652},
+  file = {:Research/Reference/Ultra Wideband/[BaKo08]Ultra wideband low noise amplifier with source degeneration and shunt series fedback.pdf:PDF},
+  journal = {Circuits and Systems for Communications, 2008. ECCSC 2008. 4th European
+	Conference on},
+  keywords = {CMOS parameters;Cadence Design Systems;UWB LNA;Virtuoso custom design
+	platform;current reuse technique;feedback topology;frequency 3.1
+	GHz to 10.6 GHz;load circuit;parallel-series resonance circuit;power
+	11.5 mW;shunt series feedback;size 0.18 mum;source degeneration;ultra
+	wideband low noise amplifier;voltage 1.8 V;CMOS integrated circuits;MMIC
+	amplifiers;circuit feedback;integrated circuit design;low noise amplifiers;network
+	topology;ultra wideband technology;},
+  owner = {wei tang},
+  timestamp = {2010.03.16}
+}
+
+@ARTICLE{BaMeBuJa09,
+  author = {Barras, D. and Meyer-Piening, R. and von Bueren, G. and Hirt, W.
+	and Jaeckel, H.},
+  title = {A Low-Power Baseband ASIC for an Energy-Collection IR-UWB Receiver},
+  journal = {Solid-State Circuits, IEEE Journal of},
+  year = {2009},
+  volume = {44},
+  pages = {1721-1733},
+  number = {6},
+  month = {June },
+  abstract = {This paper reports on the realization and the characterization of
+	an application-specific integrated circuit (ASIC) intended for the
+	processing of impulse radio ultra-wideband (IR-UWB) baseband signals.
+	The incoming baseband signals result from the direct down-conversion
+	of IR-UWB radio-frequency pulses, which are modulated by a binary
+	frequency-shift keying (BFSK) scheme. The realized mixed-signal integrated
+	circuit features an analog demodulation based on the quadricorrelation
+	method, a non-coherent pulse detector using an integrate-and-dump
+	operation and a bit-level synchronization digital circuit. An novel
+	acquisition algorithm intended for low duty-cycled IR-UWB signals
+	enabling a signal-to-noise ratio (SNR) estimate is proposed. The
+	baseband ASIC is able to demodulate, acquire and decode BFSK IR-UWB
+	signals. It requires 13 mW of supply power during the initial acquisition
+	and 6.5 mW during the signal tracking phase at a pulse repetition
+	rate (PRR) of 5 MHz. The circuit is fabricated in a 0.18-mum CMOS
+	technology.},
+  doi = {10.1109/JSSC.2009.2020199},
+  file = {:Research/Reference/Ultra Wideband/[BaMeBuJa09]A Low-Power Baseband ASIC for an Energy-Collection IR-UWB Receiver.pdf:PDF},
+  issn = {0018-9200},
+  keywords = {CMOS integrated circuits, application specific integrated circuits,
+	demodulation, phase shift keying, radio receivers, ultra wideband
+	communicationBFSK scheme, CMOS, IR-UWB radio-frequency pulses, analog
+	demodulation, application-specific integrated circuit, binary frequency-shift
+	keying, bit-level synchronization digital circuit, energy-collection
+	IR-UWB receiver, frequency 5 MHz, impulse radio ultra-wideband baseband
+	signal, integrate-and-dump operation, low-power baseband ASIC, mixed-signal
+	integrated circuit, noncoherent pulse detector, power 13 mW, power
+	6.5 mW, quadricorrelation method, size 0.18 micron},
+  owner = {wei tang},
+  timestamp = {2009.10.31}
+}
+
+@INPROCEEDINGS{BeNi04,
+  author = {Bevilacqua, A. and Niknejad, A.M.},
+  title = {An ultra-wideband CMOS LNA for 3.1 to 10.6 GHz wireless receivers},
+  booktitle = {Solid-State Circuits Conference, 2004. Digest of Technical Papers.
+	ISSCC. 2004 IEEE International},
+  year = {2004},
+  pages = { 382-533 Vol.1},
+  month = {Feb.},
+  abstract = {A UWB 3.1 to 10.6 GHz LNA employing an input three-section band-pass
+	Chebyshev filter is reported. Fabricated in a 0.18 ?m CMOS process,
+	-10 dB over the band, a NF of 4 dB, and an IIP3 of -6.7 dBm while
+	consuming the IC achieves a power gain of 9.3 dB with an input match
+	of 9 mW.},
+  comment = {LC filter for Matching in LNA},
+  doi = {10.1109/ISSCC.2004.1332754},
+  file = {:Research/Reference/Ultra Wideband/[BeNi04]An ultra-wideband CMOS LNA for 3.1 to 10.6 GHz wireless receivers.pdf:PDF},
+  issn = {0193-6530},
+  keywords = { CMOS analogue integrated circuits, Chebyshev filters, MMIC amplifiers,
+	band-pass filters, field effect MMIC, integrated circuit measurement,
+	radio receivers, wideband amplifiers 0.18 micron, 3.1 to 10.6 GHz,
+	4 dB, 9 mW, 9.3 dB, CMOS process, IC power gain, IIP3, NF, UWB LNA,
+	input match, input three-section band-pass Chebyshev filter, ultra-wideband
+	CMOS LNA, wireless receivers},
+  owner = {wei tang},
+  timestamp = {2009.11.18}
+}
+
+@INPROCEEDINGS{BrKlNa02,
+  author = {Bruccoleri, F. and Klumperink, E.A.M. and Nauta, B.},
+  title = {Noise cancelling in wideband CMOS LNAs},
+  booktitle = {Solid-State Circuits Conference, 2002. Digest of Technical Papers.
+	ISSCC. 2002 IEEE International},
+  year = {2002},
+  volume = {1},
+  pages = {406-407 vol.1},
+  abstract = {Summary form only given. A noise-cancelling technique in a wideband
+	LNA achieves low noise figure (NF) and source impedance matching
+	without global feedback. The 0.25 ?m LNA provides <2.4 dB NF from
+	0.01-2 GHz, total voltage gain is 13.7 dB, -3 dB bandwidth is 0.01-1.6
+	GHz, S12 is <-36 dB, and S11 is <-10 dB. IIP2 is 12 dBm, and IIP3
+	is 0 dBm drawing 14 mA at 2.5 V },
+  doi = {10.1109/ISSCC.2002.993104},
+  file = {:Research/Reference/Ultra Wideband/[BrKlNa02]Noise Cancelling in Wideband CMOS LNAs.pdf:PDF},
+  keywords = {CMOS analogue integrated circuits, UHF amplifiers, UHF integrated
+	circuits, impedance matching, integrated circuit noise, interference
+	suppression, wideband amplifiers0.01 to 2 GHz, 0.25 micron, 1.59
+	GHz, 13.7 dB, 14 mA, 2.4 dB, 2.5 V, low-noise amplifiers, noise-cancelling
+	technique, source impedance matching, wideband CMOS LNA},
+  owner = {wei tang},
+  timestamp = {2009.11.15}
+}
+
+@ARTICLE{CaBuGaPa08,
+  author = {Camus, M. and Butaye, B. and Garcia, L. and Sie, M. and Pellat, B.
+	and Parra, T.},
+  title = {A 5.4 mW/0.07 mm 2.4 GHz Front-End Receiver in 90 nm CMOS for IEEE
+	802.15.4 WPAN Standard},
+  journal = {Solid-State Circuits, IEEE Journal of},
+  year = {2008},
+  volume = {43},
+  pages = {1372-1383},
+  number = {6},
+  month = {June },
+  doi = {10.1109/JSSC.2008.922720},
+  file = {:Research/Reference/Ultra Wideband/[CaBuGaPa08]A 5.4 mW\:0.07 mm 2.4 GHz Front-End Receiver in 90 nm CMOS for IEEE 802.15.4 WPAN Standard.pdf:PDF},
+  issn = {0018-9200},
+  keywords = {CMOS integrated circuits, UHF devices, channel bank filters, low noise
+	amplifiers, personal area networks, radio receivers, telecommunication
+	network topologyIEEE 802.15.4 WPAN standard, channel filter, current
+	4 mA, frequency 2.4 GHz, frequency 6 MHz, front-end receiver, inductorless
+	LNA, input integrated balun, integrated CMOS receiver, low-IF topology,
+	size 90 nm, voltage 1.35 V},
+  owner = {wei tang},
+  timestamp = {2009.11.21}
+}
+
+@ARTICLE{CaSaGiPa10,
+  author = {Cavallaro, M. and Sapone, G. and Giarrizzo, G. and Italia, A. and
+	Palmisano, G.},
+  title = {A 3Ð5-GHz UWB Front-End for Low-Data Rate WPANs in 90-nm CMOS},
+  journal = {Microwave Theory and Techniques, IEEE Transactions on},
+  pages = {854 -865},
+  number = {4},
+  month = {april },
+  doi = {10.1109/TMTT.2010.2042653},
+  file = {:Research/Reference/Ultra Wideband/[CaSaGiPa10]A 3Ð5-GHz UWB Front-End for Low-Data Rate WPANs in 90-nm CMOS.pdf:PDF},
+  issn = {0018-9480},
+  keywords = {CMOS technology;Gaussian pulse shape;Gaussian-envelope carrier-based
+	transmitter;LO frequency synthesizer;UWB front-end;binary phase-shift-keying
+	modulation;current 8 mA;digital modulator;direct-conversion down-converter;frequency
+	3 GHz to 5 GHz;gain 29 dB;low-data rate WPAN;modulation timing parameters;noise
+	figure 5.2 dB;nonlinear pulse-forming approach;off-chip wideband
+	balun;power consumption;pulse repetition frequencies;pulse-position
+	modulation;single-ended low-noise amplifier;size 90 nm;time-hopping
+	functions;ultra-wideband communication;voltage 1.2 V;wireless personal
+	area networks;CMOS integrated circuits;baluns;frequency synthesizers;low
+	noise amplifiers;personal area networks;phase shift keying;pulse
+	position modulation;radio networks;spectral analysis;ultra wideband
+	communication;},
+  owner = {wei tang},
+  timestamp = {2010.06.28}
+}
+
+@INPROCEEDINGS{MoChWeYu08,
+  author = {Moosung Chae and Wentai Liu and Zhi Yang and Tungchien Chen and Jungsuk
+	Kim and Sivaprakasam, M. and Yuce, M.},
+  title = {A 128-Channel 6mW Wireless Neural Recording IC with On-the-Fly Spike
+	Sorting and UWB Tansmitter},
+  booktitle = {IEEE International Solid-State Circuits Conference, 2008. ISSCC 2008.
+	Digest of Technical Papers.},
+  year = {2008},
+  pages = {146 -603},
+  month = {feb.},
+  abstract = {The chip is composed of eight 16-channel front-end blocks, data serializing
+	circuits, a DSP for on-chip spike sorting, digital MUX, encoder,
+	UWB TX, and bias generators. The chip operates in one of the two
+	modes. In sorting mode, a selected channel is connected to the on-the-fly
+	spike sorting block and the extracted features of the spikes are
+	transmitted for off-chip classification. In streaming mode, all the
+	sampled data from the 128 channels are recorded and transmitted without
+	any additional processing.},
+  doi = {10.1109/ISSCC.2008.4523099},
+  journal = {Solid-State Circuits Conference, 2008. ISSCC 2008. Digest of Technical
+	Papers. IEEE International},
+  keywords = {DSP;UWB transmitter;bias generators;data serializing circuits;digital
+	MUX;feature extraction;neural prosthetic applications;neural signal
+	recording;off-chip classification;on-chip spike sorting;on-the-fly
+	spike sorting block;sampled data recording;sampled data transmission;streaming
+	mode;wireless data transmission;wireless neural recording IC;biomedical
+	electronics;biomedical telemetry;digital signal processing chips;feature
+	extraction;medical signal detection;medical signal processing;multiplexing;neurophysiology;prosthetics;transmitters;ultra
+	wideband communication;},
+  owner = {wei tang},
+  timestamp = {2010.09.28}
+}
+
+@ARTICLE{ChLeWeBl09,
+  author = {Chandrakasan, A.P. and Lee, F.S. and Wentzloff, D.D. and Sze, V.
+	and Ginsburg, B.P. and Mercier, P.P. and Daly, D.C. and Blazquez,
+	R.},
+  title = {Low-Power Impulse UWB Architectures and Circuits},
+  journal = {Proceedings of the IEEE},
+  year = {2009},
+  volume = {97},
+  pages = {332-352},
+  number = {2},
+  month = {Feb. },
+  doi = {10.1109/JPROC.2008.2008787},
+  file = {:Research/Reference/Ultra Wideband/[ChLeWeBl09]Low-Power Impulse UWB Architectures and Circuits.pdf:PDF},
+  issn = {0018-9219},
+  keywords = {analogue circuits, radiofrequency identification, ultra wideband communicationUWB
+	circuits, analog circuits, low-power impulse UWB architectures, radio-frequency
+	identification tags, ultra-wide-band communication, wireless USB},
+  owner = {wei tang},
+  timestamp = {2009.11.21}
+}
+
+@ARTICLE{ChFlHa07,
+  author = {Jia-Yi Chen and Flynn, M.P. and Hayes, J.P.},
+  title = {A Fully Integrated Auto-Calibrated Super-Regenerative Receiver in
+	0.13-?m CMOS},
+  journal = {Solid-State Circuits, IEEE Journal of},
+  year = {2007},
+  volume = {42},
+  pages = {1976-1985},
+  number = {9},
+  month = {Sept. },
+  doi = {10.1109/JSSC.2007.903092},
+  file = {:Research/Reference/Ultra Wideband/[ChFlHa07]A Fully Integrated Auto-Calibrated Super-Regenerative Receiver in 0.13-?m CMOS.pdf:PDF},
+  issn = {0018-9200},
+  keywords = {CMOS integrated circuits, UHF integrated circuits, digital-analogue
+	conversion, frequency synthesizers, logic circuits, radio receiversCMOS,
+	Q-enhanced filter, digital-to-analog converter, frequency 2.4 GHz,
+	frequency synthesizer, power efficiency, quench signal, successive
+	approximation register logic, super-regenerative receiver},
+  owner = {wei tang},
+  timestamp = {2009.11.21}
+}
+
+@ARTICLE{ChLuChLi07,
+  author = {Ke-Hou Chen and Jian-Hao Lu and Bo-Jiun Chen and Shen-Iuan Liu},
+  title = {An Ultra-Wide-Band 0.4-10-GHz LNA in 0.18-um CMOS},
+  journal = {Circuits and Systems II: Express Briefs, IEEE Transactions on},
+  year = {2007},
+  volume = {54},
+  pages = {217 -221},
+  number = {3},
+  month = {march },
+  abstract = {A two-stage ultra-wide-band CMOS low-noise amplifier (LNA) is presented.
+	With the common-gate configuration employed as the input stage, the
+	broad-band input matching is obtained and the noise does not rise
+	rapidly at higher frequency. By combining the common-gate and common-source
+	stages, the broad-band characteristic and small area are achieved
+	by using two inductors. This LNA has been fabricated in a 0.18-mum
+	CMOS process. The measured power gain is 11.2-12.4 dB and noise figure
+	is 4.4-6.5 dB with -3-dB bandwidth of 0.4-10 GHz. The measured IIP3
+	is -6 dBm at 6 GHz. It consumes 12 mW from a 1.8-V supply voltage
+	and occupies only 0.42 mm2},
+  doi = {10.1109/TCSII.2006.886880},
+  file = {:Research/Reference/Ultra Wideband/[ChLuChLi07]An Ultra-Wide-Band 0.4-10-GHz LNA in 0.18-um CMOS.pdf:PDF},
+  issn = {1549-7747},
+  keywords = {0.18 micron;0.4 to 10 GHz;1.8 V;11.2 to 12.4 dB;12 mW;4.4 to 6.5 dB;UWB
+	LNA;broadband input matching;common-gate configuration;common-source
+	stage;inductors;noise figure;power gain;ultrawideband CMOS low-noise
+	amplifier;CMOS integrated circuits;inductors;low noise amplifiers;ultra
+	wideband technology;wideband amplifiers;},
+  owner = {wei tang},
+  timestamp = {2010.03.16}
+}
+
+@INPROCEEDINGS{ChTaCu10a,
+  author = {Shoushun Chen and Wei Tang and Culurciello, E.},
+  title = {A 64x64 pixels UWB wireless temporal-difference digital image sensor},
+  booktitle = {Circuits and Systems (ISCAS), Proceedings of 2010 IEEE International
+	Symposium on},
+  year = {2010},
+  pages = {1404 -1407},
+  month = {302010-june2},
+  abstract = {In this paper we present a low power temporal-difference image sensor
+	with wireless communication capability designed specifically for
+	imaging sensor networks. The event-based image sensor features a
+	64 #x00D7; 64 pixel array and can also report standard analog intensity
+	images. An ultra-wideband (UWB) radio channel allows to transmit
+	digital temporal difference images wirelessly to a receiver with
+	high rates and reduced power consumption. The sensor wakes up when
+	it detects enough scene changes and only communicates meaningful
+	frames. Power consumption is 0.9 mW for the sensor and 15 mW for
+	radio transmission to 4 m with rates of 1.3 Mbps and 160 fps.},
+  doi = {10.1109/ISCAS.2010.5537283},
+  keywords = {UWB;bit rate 1.3 Mbit/s;distance 4 m;pixel array;power 0.9 mW;power
+	15 mW;radio channel;temporal difference digital image sensor;ultra
+	wideband;wireless communication;image sensors;ultra wideband communication;wireless
+	channels;},
+  owner = {wei tang},
+  timestamp = {2011.03.07}
+}
+
+@INPROCEEDINGS{ChTaCu10b,
+  author = {Shoushun Chen and Wei Tang and Culurciello, E.},
+  title = {Live demonstration: A 64x64 pixels UWB wireless temporal-difference
+	digital image sensor},
+  booktitle = {Circuits and Systems (ISCAS), Proceedings of 2010 IEEE International
+	Symposium on},
+  year = {2010},
+  pages = {1403},
+  month = {302010-june2},
+  abstract = {We demonstrate a low power temporal-difference image sensor with wireless
+	communication capability designed specifically for imaging sensor
+	networks. The event-based image sensor features a 64 #x00D7;64 pixel
+	array and can also report standard analog intensity images. An ultra-wide-band
+	(UWB) radio channel allows to transmit digital temporal difference
+	images wirelessly to a receiver with high rates and reduced power
+	consumption. The sensor wakes up when it detects enough scene changes
+	and only communicates meaningful frames. A complete demo platform,
+	for both the wireless sensor (transmitter) and a receiver was developed.
+	Power consumption is 0.9 mW for the sensor and 15 mW for radio transmission
+	to 4 m with rates of 1.3 Mbps and 160 fps.},
+  doi = {10.1109/ISCAS.2010.5537280},
+  keywords = {UWB radio channel;digital image sensor;event based image sensor;imaging
+	sensor network;power 0.9 mW;power 15 mW;power consumption;radio transmission;receiver;temporal
+	difference image sensor;ultra wide band radio channel;wireless communication;wireless
+	sensor;image sensors;radio receivers;radiocommunication;ultra wideband
+	communication;wireless channels;wireless sensor networks;},
+  owner = {wei tang},
+  timestamp = {2011.03.07}
+}
+
+@ARTICLE{ChLiZdNi08,
+  author = {Wei-Hung Chen and Gang Liu and Zdravko, B. and Niknejad, A.M.},
+  title = {A Highly Linear Broadband CMOS LNA Employing Noise and Distortion
+	Cancellation},
+  journal = {Solid-State Circuits, IEEE Journal of},
+  year = {2008},
+  volume = {43},
+  pages = {1164-1176},
+  number = {5},
+  month = {May },
+  abstract = {A broadband inductorless low-noise amplifier (LNA) design that utilizes
+	simultaneous noise and distortion cancellation is presented. Concurrent
+	cancellation of the intrinsic third-order distortion from individual
+	stages is exhibited with the common-gate and common-source cascade.
+	The LNA is then limited by the second-order interaction between the
+	common source and common gate stages, which is common in all cascade
+	amplifiers. Further removal of this third-order distortion is achieved
+	by incorporating a second-order-distortion-free circuit technique
+	in the common gate stage. Implemented in 0.13 m CMOS technology,
+	this LNA achieved 16 dBm in both the 900 MHz and 2 GHz bands. Measurements
+	demonstrate that the LNA has a minimum internal gain of 14.5 dB,
+	noise figure of 2.6 dB from 800 MHz to 2.1GHz while drawing 11.6
+	mA from 1.5 V supply voltage.},
+  doi = {10.1109/JSSC.2008.920335},
+  file = {:Research/Reference/Ultra Wideband/[ChLiZdNi08]A Highly Linear Broadband CMOS LNA Employing Noise and Distortion Cancellation.pdf:PDF},
+  issn = {0018-9200},
+  keywords = {CMOS integrated circuits, distortion, interference suppression, low
+	noise amplifiers, wideband amplifiersCMOS LNA, broadband inductorless
+	low-noise amplifier, cascade amplifiers, distortion cancellation,
+	distortion-free circuit, noise cancellation},
+  owner = {wei tang},
+  timestamp = {2009.11.12}
+}
+
+@ARTICLE{ChCaSeCh06,
+  author = {Zhi Ning Chen and Cai, A. and See, T.S.P. and Xianming Qing and Chia,
+	M.Y.W.},
+  title = {Small planar UWB antennas in proximity of the human head},
+  journal = {Microwave Theory and Techniques, IEEE Transactions on},
+  year = {2006},
+  volume = {54},
+  pages = { 1846-1857},
+  number = {4},
+  month = {June},
+  doi = {10.1109/TMTT.2006.872059},
+  file = {:Research/Reference/Ultra Wideband/[ChCaSeCh06]Small planar UWB antennas in proximity of the human head.pdf:PDF},
+  issn = {0018-9480},
+  keywords = { antenna radiation patterns, biological techniques, brain models,
+	planar antenna arrays, ultra wideband antennas UWB antennas, XFDTD
+	software package, antenna radiation pattern, frequency-dependent
+	dielectric constant, human head proximity, printed circuit board,
+	pulse radiation, radiated field distributions, small planar antennas,
+	ultra-wideband antenna, wearable wireless devices},
+  owner = {wei tang},
+  timestamp = {2009.11.21}
+}
+
+@ARTICLE{ChLe03,
+  author = {Choong-Yul Cha, Sang-Gug Lee,},
+  title = {A 5.2-GHz LNA in 0.35- mu;m CMOS utilizing inter-stage series resonance
+	and optimizing the substrate resistance},
+  journal = {Solid-State Circuits, IEEE Journal of},
+  year = {2003},
+  volume = {38},
+  pages = { 669 - 672},
+  number = {4},
+  month = {Apr},
+  abstract = {A current-reused two-stage low-noise amplifier (LNA) topology is proposed,
+	which adopts a series inter-stage resonance and optimized substrate
+	resistance of individual transistors. The characteristics of the
+	series inter-stage resonance in gain enhancement are analyzed and
+	compared with other alternatives. The contradicting effects of substrate
+	resistance on common-source and common-gate amplifiers are analyzed
+	and proposed guidelines for high-gain operation. The LNA is implemented
+	based on a 0.35- mu;m CMOS technology for 5.2-GHz wireless LAN applications.
+	Measurements show 19.3dB of power gain, 2.45 dB of noise figure,
+	and 13.2 dBm of output IP3, respectively, for the dc power supply
+	of 8 mA and 3.3 V.},
+  doi = {10.1109/JSSC.2003.809523},
+  file = {:Research/Reference/Ultra Wideband/[ChLe03]A 5.2-GHz LNA in 0.35- mu\;m CMOS utilizing inter-stage series resonance and optimizing the substrate resistance.pdf:PDF},
+  issn = {0018-9200},
+  keywords = { 0.35 micron; 19.3 dB; 2.45 dB; 3.3 V; 5.2 GHz; 8 mA; RF CMOS LNA;
+	common-gate amplifier; common-source amplifier; current-reused two-stage
+	low-noise amplifier; inter-stage series resonance; noise figure;
+	output IP3; power gain; substrate resistance; wireless LAN; CMOS
+	analogue integrated circuits; circuit resonance; radiofrequency amplifiers;
+	radiofrequency integrated circuits; wireless LAN;},
+  owner = {wei tang},
+  timestamp = {2010.02.23}
+}
+
+@INPROCEEDINGS{CrChDrKi10,
+  author = {Crepaldi, M. and Chen Li and Dronson, K. and Fernandes, J. and Kinget,
+	P.},
+  title = {An Ultra-Low-Power interference-robust IR-UWB transceiver chipset
+	using self-synchronizing OOK modulation},
+  booktitle = {IEEE International Solid-State Circuits Conference Digest of Technical
+	Papers (ISSCC), 2010},
+  year = {2010},
+  pages = {226 -227},
+  month = {feb.},
+  abstract = {A short-range 1 Mb/s 3.8 GHz IR-UWB transceiver in 90 nm CMOS uses
+	1.5 pulse/bit synched-OOK modulation, enabling low-complexity 200
+	pJ/b digital demodulation and synchronization. An interference-robust
+	asynchronous energy detector receiver can tolerate interferers up
+	to -5 dBm. The power-gated oscillator-based transmitter has a power
+	efficiency of 10.4%.},
+  doi = {10.1109/ISSCC.2010.5433960},
+  issn = {0193-6530},
+  journal = {Solid-State Circuits Conference Digest of Technical Papers (ISSCC),
+	2010 IEEE International},
+  keywords = {IR-UWB transceiver chipset;OOK modulation;bit rate 1 Mbit/s;digital
+	demodulation;efficiency 10.4 percent;frequency 3.8 GHz;power-gated
+	oscillator-based transmitter;self synchronization;size 90 nm;ultralow-power
+	interference;amplitude shift keying;demodulation;synchronisation;transceivers;ultra
+	wideband technology;},
+  owner = {wei tang},
+  timestamp = {2010.09.28}
+}
+
+@ARTICLE{CuBrRoSv06,
+  author = {Cusmai, G. and Brandolini, M. and Rossi, P. and Svelto, F.},
+  title = {A 0.18µm CMOS Selective Receiver Front-End for UWB Applications},
+  journal = {Solid-State Circuits, IEEE Journal of},
+  year = {2006},
+  volume = {41},
+  pages = {1764-1771},
+  number = {8},
+  month = {Aug. },
+  doi = {10.1109/JSSC.2006.877256},
+  file = {:Research/Reference/Ultra Wideband/[CuBrRoSv06]A 0.18µm CMOS Selective Receiver Front-End for UWB Applications.pdf:PDF},
+  issn = {0018-9200},
+  keywords = {CMOS integrated circuits, MMIC, OFDM modulation, feedback amplifiers,
+	low noise amplifiers, low-pass filters, microwave receivers, mixers
+	(circuits), ultra wideband communication, wireless LAN0.18 micron,
+	1 dB, 1.8 V, 10 mA, 5 to 6 GHz, CMOS selective receiver front-end,
+	CMOS technology, LNA, OFDM, PCB, UWB applications, WLAN interferer
+	rejection, direct-conversion receiver front-end, low-noise amplifier,
+	multi-band orthogonal frequency division multiplexing, noise figure,
+	quadrature mixer, quadrature topology, second-order low-pass filtering,
+	single-ended voltage-voltage feedback amplifier, single-notch network,
+	ultra-wideband applications},
+  owner = {wei tang},
+  timestamp = {2009.11.21}
+}
+
+@INPROCEEDINGS{DaMeBhCh09,
+  author = {Daly, D.C. and Mercier, P.P. and Bhardwaj, M. and Stone, A.L. and
+	Voldman, J. and Levine, R.B. and Hildebrand, J.G. and Chandrakasan,
+	A.P.},
+  title = {A pulsed UWB receiver SoC for insect motion control},
+  booktitle = {Solid-State Circuits Conference - Digest of Technical Papers, 2009.
+	ISSCC 2009. IEEE International},
+  year = {2009},
+  pages = {200-201,201a},
+  month = {Feb.},
+  abstract = {This paper presents a pulsed ultrawideband (UWB) RX SoC designed for
+	the stringent weight, volume and power constraints of the cyborg
+	moth system.},
+  doi = {10.1109/ISSCC.2009.4977377},
+  file = {:Research/Reference/Ultra Wideband/[DaMeBhCh09]A pulsed UWB receiver SoC for insect motion control.pdf:PDF},
+  keywords = {aerospace control, motion control, radio receivers, system-on-chip,
+	ultra wideband communicationcyborg moth system, insect motion control,
+	pulsed UWB receiver, pulsed ultrawideband RX SoC},
+  owner = {wei tang},
+  timestamp = {2010.01.18}
+}
+
+@ARTICLE{DaMeBhCh10,
+  author = {Daly, D. C. and Mercier, P. P. and Bhardwaj, M. and Stone, A. L.
+	and Aldworth, Z. N. and Daniel, T. L. and Voldman, J. and Hildebrand,
+	J. G. and Chandrakasan, A. P.},
+  title = {A Pulsed UWB Receiver SoC for Insect Motion Control},
+  journal = {Solid-State Circuits, IEEE Journal of},
+  year = {2010},
+  volume = {45},
+  pages = {153-166},
+  number = {1},
+  month = {Jan. },
+  doi = {10.1109/JSSC.2009.2034433},
+  file = {:Research/Reference/Ultra Wideband/[DaMeBhCh10]A Pulsed UWB Receiver SoC for Insect Motion Control.pdf:PDF},
+  issn = {0018-9200},
+  owner = {wei tang},
+  timestamp = {2010.01.03}
+}
+
+@ARTICLE{DaCh07,
+  author = {Daly, D.C., Chandrakasan, A.P.,},
+  title = {An Energy-Efficient OOK Transceiver for Wireless Sensor Networks},
+  journal = {Solid-State Circuits, IEEE Journal of},
+  year = {2007},
+  volume = {42},
+  pages = {1003 -1011},
+  number = {5},
+  month = {May },
+  abstract = {A 1-Mb/s 916.5-MHz on-off keying (OOK) transceiver for short-range
+	wireless sensor networks has been designed in a 0.18-mum CMOS process.
+	The receiver has an envelope detection based architecture with a
+	highly scalable RF front-end. Untuned RF circuits are leveraged and
+	optimized in the receiver to achieve superior energy efficiency compared
+	to tuned RF circuits. The receiver power consumption scales from
+	0.5 mW to 2.6 mW, with an associated sensitivity of -37 dBm to -65
+	dBm at a BER of 10 -3. The transmitter consumes 3.8 mW to 9.1 mW
+	with output power from -11.4 dBm to -2.2 dBm. The receiver achieves
+	a startup time of 2.5 mus, allowing for efficient duty cycling},
+  doi = {10.1109/JSSC.2007.894323},
+  file = {:Research/Reference/Ultra Wideband/[DaCh07]An Energy-Efficient OOK Transceiver for Wireless Sensor Networks.pdf:PDF},
+  issn = {0018-9200},
+  keywords = {0.18 micron;0.5 to 2.6 mW;1 Mbit/s;2.5 mus;3.8 to 9.1 mW;916.5 MHz;CMOS
+	process;energy-efficient OOK transceiver;envelope detection;highly
+	scalable RF front-end;on-off keying transceiver;short-range wireless
+	sensor networks;tuned RF circuits;untuned RF circuits;CMOS integrated
+	circuits;amplitude shift keying;radiofrequency integrated circuits;transceivers;wireless
+	sensor networks;},
+  owner = {wei tang},
+  timestamp = {2010.02.23}
+}
+
+@ARTICLE{DeSp08,
+  author = {Demirkan, M. and Spencer, R.R.},
+  title = {A Pulse-Based Ultra-Wideband Transmitter in 90-nm CMOS for WPANs},
+  journal = {Solid-State Circuits, IEEE Journal of},
+  year = {2008},
+  volume = {43},
+  pages = {2820-2828},
+  number = {12},
+  month = {Dec. },
+  abstract = {This paper describes the design of a pulse-based ultra-wideband (UWB)
+	transmitter for wireless personal area networks (WPANs). The transmitter
+	consists of a pulse generator, a phase-locked loop (PLL), and modulation
+	circuitry. All of the components except the transmit antenna and
+	the reference clock source are integrated. The pulse generator employs
+	on-chip finite-impulse response (FIR) filtering so that the transmitted
+	signal is compliant with the indoor FCC spectral emission limits.
+	The frequency-multiplying PLL is included to provide a stable clock
+	that sets the tap delays of the FIR filter. The transmitter architecture
+	is capable of providing simultaneous binary phase shift keying (BPSK)
+	and pulse position modulation (PPM). Implemented in a 90-nm standard
+	digital CMOS process, the 2.83 mm2 prototype transmitter achieves
+	a maximum pulse rate of 1.8 Gpulses/s while dissipating 227 mW from
+	a 1-V supply. The measured jitter at the output of the PLL is 1.9
+	psrms and 15.1 pspp.},
+  doi = {10.1109/JSSC.2008.2005703},
+  file = {:Research/Reference/Ultra Wideband/[DeSp08]A Pulse-Based Ultra-Wideband Transmitter in 90-nm CMOS for WPANs.pdf:PDF},
+  issn = {0018-9200},
+  keywords = {CMOS digital integrated circuits, FIR filters, personal area networks,
+	phase locked loops, phase shift keying, pulse generators, pulse position
+	modulation, radio transmitters, ultra wideband communicationBPSK,
+	FIR filters, PPM, WPAN, binary phase shift keying, digital CMOS technology,
+	frequency-multiplying PLL, indoor FCC spectral emission limits, modulation
+	circuitry, on-chip finite-impulse response filtering, phase-locked
+	loop, power 227 mW, pulse generator, pulse position modulation, pulse-based
+	ultra-wideband transmitter, size 90 nm, voltage 1 V, wireless personal
+	area networks},
+  owner = {wei tang},
+  timestamp = {2009.10.31}
+}
+
+@ARTICLE{DePa05,
+  author = {Demosthenous, A. and Panovic, M.},
+  title = {Low-voltage MOS linear transconductor/squarer and four-quadrant multiplier
+	for analog VLSI},
+  journal = {Circuits and Systems I: Regular Papers, IEEE Transactions on},
+  year = {2005},
+  volume = {52},
+  pages = { 1721-1731},
+  number = {9},
+  month = {Sept.},
+  doi = {10.1109/TCSI.2005.852483},
+  file = {:Research/Reference/Ultra Wideband/[DePa05]Low-voltage MOS linear transconductor\:squarer and four-quadrant multiplier for analog VLSI.pdf:PDF},
+  issn = {1549-8328},
+  keywords = { CMOS integrated circuits, VLSI, analogue integrated circuits, analogue
+	multipliers, harmonic distortion, low-power electronics 0.8 micron,
+	2 V, CMOS process, MOS analog circuits, analog VLSI computational
+	systems, analog signal processing systems, floating voltage sources,
+	four quadrant multiplier, harmonic distortion, linear transconductor,
+	linear voltage-to-current conversion, low power operation, low voltage
+	operation},
+  owner = {wei tang},
+  timestamp = {2009.11.21}
+}
+
+@INPROCEEDINGS{DiZh08,
+  author = {Shengxi Diao and Yuanjin Zheng},
+  title = {An ultra low power and high efficiency UWB transmitter for WPAN applications},
+  booktitle = {Solid-State Circuits Conference, 2008. ESSCIRC 2008. 34th European},
+  year = {2008},
+  pages = {334-337},
+  month = {Sept.},
+  abstract = {This paper presents a single-chip transmitter for ultra wide band
+	(UWB) wireless communication system based on impulse radio technology.
+	It is implemented in a CMOS 0.18-mum technology with 3.3 V voltage
+	supply. The transmitter can generate UWB pulse with 2 GHz bandwidth
+	with 20-dB side-lobe rejection. The differential output swing is
+	7.2 V under 100 Omega loads. The average current consumption of the
+	transmitter is 224 muA at 1 Mbps with the highest energy efficiency
+	of 10.5%.},
+  doi = {10.1109/ESSCIRC.2008.4681860},
+  file = {:Research/Reference/Ultra Wideband/[DiZh08]An ultra low power and high efficiency UWB transmitter for WPAN applications.pdf:PDF},
+  issn = {1930-8833},
+  keywords = {CMOS integrated circuits, low-power electronics, personal area networks,
+	pulse generators, ultra wideband communicationWPAN applications,
+	bandwidth 2 GHz, high efficiency UWB transmitter, impulse radio technology,
+	pulse generator, size 0.18 mum, ultra low power UWB transmitter,
+	ultra wide band wireless communication system, voltage 3.3 V, voltage
+	7.2 V},
+  owner = {wei tang},
+  timestamp = {2010.01.21}
+}
+
+@ARTICLE{DiZhHe09,
+  author = {Shengxi Diao and Yuanjin Zheng and Chun-Huat Heng},
+  title = {A CMOS Ultra Low-Power and Highly Efficient UWB-IR Transmitter for
+	WPAN Applications},
+  journal = {IEEE Transactions on Ciruits and Systems II: Express Briefs,},
+  year = {2009},
+  volume = {56},
+  pages = {200-204},
+  number = {3},
+  month = {March },
+  abstract = {This brief presents an on-off LC oscillator-based ultrawideband impulse
+	radio (UWB-IR) transmitter for long-range application. A thorough
+	theoretical analysis of the pulse generation is provided. Implemented
+	in a 0.18-mum CMOS, the transmitter works in the UWB lower band of
+	3-5 GHz and consumes an ultralow average power of 236 muW at 1.8-V
+	power supply. UWB pulses with a bandwidth of 2 GHz and 10-dB sidelobe
+	suppression are generated. The transmitter can deliver a large differential
+	output swing of 4.9 V under 100-Omega load with the highest power
+	efficiency of 25.4% to date. It is targeted for wireless sensor network
+	(WSNs) and wireless personal area network (WPAN) applications.},
+  doi = {10.1109/TCSII.2009.2015369},
+  file = {:/Research/Reference/Ultra Wideband/[DiZhHe09]A CMOS Ultra Low-Power and Highly Efficient UWB-IR Transmitter for WPAN Applications.pdf:PDF},
+  issn = {1549-7747},
+  keywords = {CMOS integrated circuits, low-power electronics, oscillators, personal
+	area networks, pulse generators, radio transmitters, ultra wideband
+	communication, wireless sensor networksCMOS ultra low-power electronics,
+	LC oscillator, UWB-IR transmitter, WPAN applications, bandwidth 2
+	GHz, frequency 3 GHz to 5 GHz, impulse radio, pulse generation, size
+	0.18 mum, voltage 1.8 V, wireless personal area network, wireless
+	sensor network},
+  owner = {wei tang},
+  timestamp = {2009.10.31}
+}
+
+@ARTICLE{Fc02,
+  author = {FCC},
+  title = {Revision of Part 15 of the Commission's Rules Regarding Ultra-Wideband
+	Transmission Systems},
+  year = {2002},
+  volume = {02-48},
+  month = {April},
+  address = {Washington DC},
+  file = {:/Research/Reference/Ultra Wideband/[FCC]02-48.pdf:PDF},
+  owner = {wei tang},
+  timestamp = {2009.10.31}
+}
+
+@ARTICLE{FeGoOlSi08,
+  author = {Fernandes, J.R. and Goncalves, H.B. and Oliveira, L.B. and Silva,
+	M.M.},
+  title = {A Pulse Generator for UWB-IR Based on a Relaxation Oscillator},
+  journal = {Circuits and Systems II: Express Briefs, IEEE Transactions on},
+  year = {2008},
+  volume = {55},
+  pages = {239-243},
+  number = {3},
+  month = {March },
+  abstract = {We propose the adaptation of a well-known relaxation oscillator to
+	produce a modulated Gaussian pulse suitable for ultra-wide-band (UWB)
+	impulse radio (IR). The proposed circuit has low area and low power
+	consumption, can easily be modulated by a digital signal, and requires
+	no special technology options; these features make it suitable for
+	UWB-IR low-cost applications. The circuit behavior is confirmed by
+	simulation and by experimental results on a prototype designed in
+	austriamicrosystems 0.35-mum SiGe-BiCMOS technology.},
+  doi = {10.1109/TCSII.2008.918968},
+  file = {:/Research/Reference/Ultra Wideband/[FeGoOlSi08]A Pulse Generator for UWB-IR Based on a Relaxation Oscillator.pdf:PDF},
+  issn = {1549-7747},
+  keywords = {BiCMOS integrated circuits, Ge-Si alloys, pulse generators, relaxation
+	oscillators, ultra wideband communicationGaussian pulse, SiGe, SiGe-BiCMOS
+	technology, UWB-IR, digital signal, pulse generator, relaxation oscillator,
+	size 0.35 mum, ultra-wide-band impulse radio},
+  owner = {wei tang},
+  timestamp = {2009.10.31}
+}
+
+@ARTICLE{FoGrSo01,
+  author = {Jeff Foerster and Evan Green and Srinivasa Somayazulu and David Leeper},
+  title = {Ultra-Wideband Technology for Short- or Medium-Range Wireless Communications},
+  journal = {Intel Technology Journal},
+  year = {2001},
+  volume = {5},
+  pages = {1-11},
+  number = {2},
+  month = {May},
+  file = {:/Research/Reference/Ultra Wideband/[FoGrSo01]Ultra-Wideband Technology for Short- or Medium-Range.pdf:PDF},
+  owner = {wei tang},
+  timestamp = {2009.10.31}
+}
+
+@ARTICLE{Fo04,
+  author = {Fontana, R.J.},
+  title = {Recent system applications of short-pulse ultra-wideband (UWB) technology},
+  journal = {Microwave Theory and Techniques, IEEE Transactions on},
+  year = {2004},
+  volume = {52},
+  pages = { 2087-2104},
+  number = {9},
+  month = {Sept.},
+  abstract = { Developed in the early 1960s, time-domain electromagnetics, the study
+	of electromagnetic-wave propagation from a time-domain perspective,
+	has given birth to a fascinating new technology, which today is commonly
+	referred to as ultra-wideband (UWB). It has now been slightly more
+	than 25 years since the 1978 seminal paper of Bennett and Ross, which
+	summarized UWB's early applications. It thus seems appropriate, given
+	the tremendous increase in interest in the technology since the Federal
+	Communications Commission modified its Part 15 rules to accommodate
+	UWB transmissions, to take a look at more recent system applications
+	of this unique technology. This paper provides a brief historical
+	perspective of UWB, discusses recent techniques for the generation
+	and reception of short-pulse electromagnetic waveforms, and examines
+	a number of recently developed UWB systems in the communications,
+	radar, and precision-positioning fields. Finally, a brief assessment
+	of future trends for the technology is provided.},
+  doi = {10.1109/TMTT.2004.834186},
+  file = {:/Research/Reference/Ultra Wideband/[Fo04]Recent system applications of short-pulse ultra-wideband (UWB) technology.pdf:PDF},
+  issn = {0018-9480},
+  keywords = { broadband networks, military radar, radar equipment, radio equipment,
+	radiowave propagation, time-domain analysis electromagnetic-wave
+	propagation, historical perspective, precision-positioning fields,
+	radar, short-pulse electromagnetic waveforms, short-pulse ultra-wideband
+	technology, time-domain electromagnetics},
+  owner = {wei tang},
+  timestamp = {2009.10.31}
+}
+
+@INPROCEEDINGS{GaZhHe08,
+  author = {Yuan Gao and Yuanjin Zheng and Chun-Huat Heng},
+  title = {Low-Power CMOS RF front-end for non-coherent IR-UWB receiver},
+  booktitle = {Solid-State Circuits Conference, 2008. ESSCIRC 2008. 34th European},
+  year = {2008},
+  pages = {386-389},
+  month = {Sept.},
+  abstract = {This paper presents a low-power CMOS RF front-end for 3-5 GHz non-coherent
+	impulse-radio ultra-wideband (IR-UWB) receiver. The proposed front-end
+	comprises a variable-gain low noise amplifier (VG-LNA), an active
+	balun and an analog squarer. Current reuse topology has been adopted
+	in both VG-LNA and active balun to reduce the power consumption.
+	The squarer design is based on the quadratic law of MOSFET in saturation
+	and the performance is optimized for 3-5 GHz UWB signal detection
+	using cascode stage and active load. The VG-LNA has a measured maximum
+	voltage gain of 33 dB/12 dB for high/low gain modes with minimum
+	noise figure 3.7 dB/4.2 dB respectively. Measurements show that the
+	proposed RF front-end achieves an input sensitivity of -91 dBm for
+	UWB on-off keying (OOK) input signal at 1 Mbps pulse rate with an
+	energy efficiency of 3.1 nJ/bit.},
+  doi = {10.1109/ESSCIRC.2008.4681873},
+  file = {:Research/Reference/Ultra Wideband/[GaZhHe08]Low-Power CMOS RF front-end for non-coherent IR-UWB receiver.pdf:PDF},
+  issn = {1930-8833},
+  keywords = {CMOS integrated circuits, baluns, field effect integrated circuits,
+	low noise amplifiers, microwave integrated circuits, radio receivers,
+	ultra wideband communicationCMOS RF front-end, MOSFET, active balun,
+	analog squarer, bit rate 1 Mbit/s, frequency 3 GHz to 5 GHz, gain
+	12 dB, gain 33 dB, noise figure 3.7 dB, noise figure 4.2 dB, noncoherent
+	IR-UWB receiver, noncoherent impulse radio ultrawideband receiver,
+	on-off keying input signal, quadratic law, variable-gain low noise
+	amplifier},
+  owner = {wei tang},
+  timestamp = {2010.01.21}
+}
+
+@ARTICLE{GeSoBeNe09,
+  author = {Gerosa, A. and Solda, S. and Bevilacqua, A. and Vogrig, D. and Neviani,
+	A.},
+  title = {An Energy-Detector for Noncoherent Impulse-Radio UWB Receivers},
+  journal = {Circuits and Systems I: Regular Papers, IEEE Transactions on},
+  year = {2009},
+  volume = {56},
+  pages = {1030-1040},
+  number = {5},
+  month = {May },
+  abstract = {This study proposes an energy detector for a noncoherent impulse-radio
+	UWB receiver, designed in a 0.18-mum CMOS technology. The squaring
+	functionality is realized exploiting the quadratic characteristic
+	of MOS transistors, and the deviation from such a characteristic
+	due to short channel effects and device mismatch is carefully considered
+	in the paper. The squared signal is integrated using a Gm-C integrator
+	that is interfaced with the squarer using a flipped voltage follower
+	current sensor as a current to voltage converter. The proposed circuit
+	dissipates 5.4 mW for a receiver sensitivity at the antenna of -89
+	dBm. Synchronization is demonstrated at the system level and some
+	considerations on robustness to narrowband interferers are presented.},
+  doi = {10.1109/TCSI.2009.2016125},
+  file = {:Research/Reference/Ultra Wideband/[GeSoBeNe09]An Energy-Detector for Noncoherent Impulse-Radio UWB Receivers.pdf:PDF},
+  issn = {1549-8328},
+  keywords = {CMOS integrated circuits, MOSFET, electric sensing devices, radio
+	receivers, ultra wideband communicationCMOS technology, Gm-C integrator,
+	MOS transistor quadratic characteristics, current-to voltage converter,
+	energy-detector, noncoherent impulse-radio UWB receivers, power 5.4
+	mW, short channel effects, size 0.18 mum, synchronization, voltage
+	follower current sensor},
+  owner = {wei tang},
+  timestamp = {2009.11.11}
+}
+
+@ARTICLE{HaHa01,
+  author = {Ham, D. and Hajimiri, A.},
+  title = {Concepts and methods in optimization of integrated LC VCOs},
+  journal = {Solid-State Circuits, IEEE Journal of},
+  year = {2001},
+  volume = {36},
+  pages = {896-909},
+  number = {6},
+  month = {Jun},
+  doi = {10.1109/4.924852},
+  file = {:Research/Reference/Ultra Wideband/[HaHa01]Concepts and methods in optimization of integrated LC VCOs.pdf:PDF},
+  issn = {0018-9200},
+  keywords = {CMOS analogue integrated circuits, UHF integrated circuits, UHF oscillators,
+	circuit optimisation, circuit tuning, inductors, integrated circuit
+	noise, phase noise, voltage-controlled oscillators0.35 micron, 2.4
+	GHz, 2.5 V, 4 mA, MOS transistors, diameters, graphical optimization
+	method, inductance selection, integrated LC VCOs, inversion mode
+	MOSCAP tuning, noise properties, oscillator noise optimization, phase
+	noise, power dissipation, spiral inductors, startup condition, tank
+	amplitude, tuning range},
+  owner = {wei tang},
+  timestamp = {2009.11.30}
+}
+
+@INPROCEEDINGS{IiTaSuCh05,
+  author = {Iida, S. and Tanaka, K. and Suzuki, H. and Yoshikawa, N. and Shoji,
+	N. and Griffiths, B. and Mellor, D. and Hayden, F. and Butler, I.
+	and Chatwin, J.},
+  title = {A 3.1 to 5 GHz CMOS DSSS UWB transceiver for WPANs},
+  booktitle = {Solid-State Circuits Conference, 2005. Digest of Technical Papers.
+	ISSCC. 2005 IEEE International},
+  year = {2005},
+  pages = {214-594 Vol. 1},
+  month = {Feb.},
+  abstract = {A DSSS UWB transceiver using the 3.1 to 5 GHz band is implemented
+	in 0.18 ?m CMOS and includes a programmable pulse shaping circuit
+	in the transmitter, an LNA with a NF of 4 dB and a 6th-order active
+	LPF with a bandwidth of 500 MHz in the receiver. Die area of the
+	transceiver is around 9 mm2. and the transceiver consumes 105 mW
+	in the transmit mode and 280 mW in the receive mode from a 1.8 V
+	supply.},
+  doi = {10.1109/ISSCC.2005.1493945},
+  file = {:Research/Reference/Ultra Wideband/[IiTaSuCh05]A 3.1 to 5 GHz CMOS DSSS UWB transceiver for WPANs.pdf:PDF},
+  issn = {0193-6530},
+  keywords = {CMOS analogue integrated circuits, MMIC power amplifiers, active filters,
+	integrated circuit design, low-pass filters, personal area networks,
+	power consumption, pulse shaping circuits, spread spectrum communication,
+	transceivers, ultra wideband communication0.18 micron, 1.8 V, 105
+	mW, 280 mW, 3.1 to 5 GHz, 4 dB, 500 MHz, CMOS DSSS UWB transceiver,
+	WPAN, active filters, low-pass filters, noise figure, power amplifier,
+	programmable pulse shaping circuit, wideband LNA, wireless personal
+	area networks},
+  owner = {wei tang},
+  timestamp = {2009.11.04}
+}
+
+@INPROCEEDINGS{IsAb04,
+  author = {Ismail, A. and Abidi, A.},
+  title = {A 3 to 10 GHz LNA using a wideband LC-ladder matching network},
+  booktitle = {Solid-State Circuits Conference, 2004. Digest of Technical Papers.
+	ISSCC. 2004 IEEE International},
+  year = {2004},
+  pages = { 384-534 Vol.1},
+  month = {Feb.},
+  abstract = { Reactive matching is extended to wide bandwidths using the impedance
+	property of LC-ladder filters. A SiGe amplifier with on-chip matching
+	network spanning 3 to 10 GHz delivers 22 dB peak gain, 2.5 dB NF
+	and 0 dBm input IP3 at 5 GHz, with 10 mA bias current.},
+  doi = {10.1109/ISSCC.2004.1332755},
+  file = {:Research/Reference/Ultra Wideband/[IsAb04]A 3 to 10 GHz LNA using a wideband LC-ladder matching network.pdf:PDF},
+  issn = {0193-6530},
+  keywords = { Ge-Si alloys, MMIC amplifiers, impedance matching, integrated circuit
+	measurement, integrated circuit noise, ladder filters, microwave
+	filters, radio receivers, wideband amplifiers 10 mA, 2.5 dB, 22 dB,
+	3 to 10 GHz, 5 GHz, LC-ladder filters, LNA, NF, SiGe, SiGe amplifier,
+	bias current, impedance property, input IP3, multi-band wireless
+	communications receivers, on-chip matching network, peak gain, reactive
+	matching, ultrawideband wireless communications receivers, wideband
+	LC-ladder matching network},
+  owner = {wei tang},
+  timestamp = {2009.11.18}
+}
+
+@ARTICLE{JeKiKwAs09,
+  author = {Jeong, J. and Kimball, D. F. and Kwak, M. and Hsia, C. and Draxler,
+	P. and Asbeck, P. M.},
+  title = {Wideband Envelope Tracking Power Amplifiers With Reduced Bandwidth
+	Power Supply Waveforms and Adaptive Digital Predistortion Techniques},
+  journal = {Microwave Theory and Techniques, IEEE Transactions on},
+  year = {2009},
+  volume = {57},
+  pages = {3307-3314},
+  number = {12},
+  month = {Dec. },
+  doi = {10.1109/TMTT.2009.2033298},
+  file = {:Research/Reference/Ultra Wideband/[JeKiKwAs09]Wideband Envelope Tracking Power Amplifiers With Reduced Bandwidth Power Supply Waveforms and Adaptive Digital Predistortion Techniques.pdf:PDF},
+  issn = {0018-9480},
+  owner = {wei tang},
+  timestamp = {2010.01.04}
+}
+
+@INPROCEEDINGS{JeSuLi04,
+  author = {Youngkyun Jeong and Sungyong Jung and Jin Liu},
+  title = {A CMOS impulse generator for UWB wireless communication systems},
+  booktitle = {Circuits and Systems, 2004. ISCAS '04. Proceedings of the 2004 International
+	Symposium on},
+  year = {2004},
+  volume = {4},
+  pages = { IV-129-32 Vol.4},
+  month = {May},
+  abstract = {A fully integrated CMOS impulse generator was designed as a part of
+	the System-on-Chip (SOC) implementation of an Ultra-Wide-Bandwidth
+	(UWB) wireless communication system. Three interpolation delay blocks
+	in series and an XOR block are utilized for the pulse generation.
+	The Gaussian Mono-pulse is generated with a RLC Band-Pass Filter
+	(BPF), and a substrate RF inductor is utilized to avoid using off-chip
+	components. The ideal BPF and the substrate BPF simulation results
+	were compared to predict the actual performance of the impulse generator.
+	The substrate BPF brings wider -3 dB bandwidth (BW), less ripple
+	ratio, and smaller output amplitude. It operates with a center frequency
+	of 3.27 GHz and a -3 dB BW of 3.34 GHz with an inductor value of
+	10 nH. The impulse generator was designed with MOS current mode logic
+	(MCML) in the TSMC 0.18 ?m CMOS process.},
+  file = {:Research/Reference/Ultra Wideband/[JeSuLi04]A CMOS impulse generator for UWB wireless communication systems.pdf:PDF},
+  issn = { },
+  keywords = { CMOS digital integrated circuits, RLC circuits, band-pass filters,
+	current-mode logic, delay circuits, inductors, integrated circuit
+	design, integrated circuit modelling, logic gates, microwave generation,
+	pulse generators, radio access networks, system-on-chip 0.18 micron,
+	3.27 GHz, 3.34 GHz, Gaussian Mono pulse generation, MOS CML, MOS
+	current mode logic, RLC band pass filter, SOC, Taiwan Semiconductor
+	Manufacturing Company, UWB wireless communication systems, XOR block,
+	integrated CMOS impulse generator design, interpolation delay blocks,
+	ripple ratio, substrate RF inductor, system-on-chip},
+  owner = {wei tang},
+  timestamp = {2009.10.31}
+}
+
+@INPROCEEDINGS{JuTsHaHa05,
+  author = {Byunghoo Jung and Yi-Hung Tseng and Harvey, J. and Harjani, R.},
+  title = {Pulse generator design for UWB IR communication systems},
+  booktitle = {Circuits and Systems, 2005. ISCAS 2005. IEEE International Symposium
+	on},
+  year = {2005},
+  pages = { 4381-4384 Vol. 5},
+  month = {May},
+  abstract = {This paper presents a low power impulse generator design for ultra-wideband
+	(UWB) impulse radio (IR) applications. Simple digital delay elements
+	and a NAND gate are used to generate short duration pulses. A varactor
+	controls the pulse width of the generated signal. The low-end of
+	the spectrum of the generated pulse is attenuated using an integrated
+	high-pass filter while the high-end of the spectrum is extended using
+	a peaking inductor. This makes efficient use of the FCC spectral
+	mask. The designed pulse generator in 0.18 ?m TSMC CMOS technology
+	consumes 0.4 mW at 100 MHz pulse repetition rate, and the spectral
+	efficiency is more than 55%. The proposed IR generator topology gives
+	a spectral efficiency improvement of more than 14% relative to the
+	topology without the peaking inductor.},
+  doi = {10.1109/ISCAS.2005.1465602},
+  file = {:Research/Reference/Ultra Wideband/[JuTsHaHa05]Pulse generator design for UWB IR communication systems.pdf:PDF},
+  keywords = { CMOS integrated circuits, delay circuits, high-pass filters, inductors,
+	logic gates, low-power electronics, pulse generators, pulse shaping
+	circuits, ultra wideband communication, varactors 0.18 micron, 0.4
+	mW, 100 MHz, 55 percent, CMOS, FCC spectral mask, NAND gate, UWB
+	IR communication systems, digital delay elements, impulse generator,
+	impulse radio, integrated high-pass filter, low-power pulse generator,
+	peaking inductor, pulse repetition rate, short duration pulses, spectral
+	efficiency, ultra-wideband radio, varactor pulse width control},
+  owner = {wei tang},
+  timestamp = {2009.12.07}
+}
+
+@ARTICLE{KiKaAnLe05,
+  author = {Chang-Wan Kim and Min-Suk Kang and Phan Tuan Anh and Hoon-Tae Kim
+	and Sang-Gug Lee},
+  title = {An ultra-wideband CMOS low noise amplifier for 3-5-GHz UWB system},
+  journal = {Solid-State Circuits, IEEE Journal of},
+  year = {2005},
+  volume = {40},
+  pages = { 544-547},
+  number = {2},
+  month = {Feb.},
+  doi = {10.1109/JSSC.2004.840951},
+  file = {:Research/Reference/Ultra Wideband/[KiKaAnLe05]An ultra-wideband CMOS low noise amplifier for 3-5-GHz UWB system.pdf:PDF},
+  issn = {0018-9200},
+  keywords = { CMOS integrated circuits, feedback, network topology, ultra wideband
+	technology, wideband amplifiers 12.6 mW, 3 to 5 GHz, 9.8 dB, CMOS
+	integrated circuit, UWB system, circuit topology, g-factor, gain
+	bandwidth, noise figure degradation, power gain, resistive shunt-feedback,
+	ultra-wideband CMOS low noise amplifier, wideband input matching},
+  owner = {wei tang},
+  timestamp = {2009.11.18}
+}
+
+@INPROCEEDINGS{KiJo05,
+  author = {Hyunseok Kim and Youngjoong Joo},
+  title = {Fifth-derivative Gaussian pulse generator for UWB system},
+  booktitle = {Radio Frequency integrated Circuits (RFIC) Symposium, 2005. Digest
+	of Papers. 2005 IEEE},
+  year = {2005},
+  pages = { 671-674},
+  month = {June},
+  abstract = {A noble pulse shaping method to generate an ultra wideband (UWB) pulse
+	is designed and tested with the AMI 0.5-?m CMOS process. The output
+	pulse width is 2.4 ns, and the average power consumption is 1.159
+	mW with pulse repletion frequency (PRF) of 20 MHz. Test results show
+	the feasibility of all digital low power UWB pulse generator design
+	which complies with FCC regulations.},
+  doi = {10.1109/RFIC.2005.1489903},
+  file = {:Research/Reference/Ultra Wideband/[KiJo05]Fifth-derivative Gaussian pulse generator for UWB system.pdf:PDF},
+  issn = {1529-2517},
+  keywords = { CMOS digital integrated circuits, Gaussian distribution, integrated
+	circuit design, pulse generators, pulse shaping, ultra wideband technology
+	0.5 micron, 2.4 ns, 20 MHz, CMOS process, FCC regulations, UWB system,
+	fifth-derivative Gaussian pulse generator, power consumption, pulse
+	shaping method, pulse width, ultra wideband pulse},
+  owner = {wei tang},
+  timestamp = {2009.10.31}
+}
+
+@ARTICLE{KlPoRoEg06,
+  author = {Kluge, W. and Poegel, F. and Roller, H. and Lange, M. and Ferchland,
+	T. and Dathe, L. and Eggert, D.},
+  title = {A Fully Integrated 2.4-GHz IEEE 802.15.4-Compliant Transceiver for
+	ZigBeeª Applications},
+  journal = {Solid-State Circuits, IEEE Journal of},
+  year = {2006},
+  volume = {41},
+  pages = {2767-2775},
+  number = {12},
+  month = {Dec. },
+  doi = {10.1109/JSSC.2006.884802},
+  file = {:Research/Reference/Ultra Wideband/[KlPoRoEg06]A Fully Integrated 2.4-GHz IEEE 802.15.4-Compliant Transceiver for ZigBeeª Applications.pdf:PDF},
+  issn = {0018-9200},
+  keywords = {CMOS integrated circuits, IEEE standards, low noise amplifiers, phase
+	locked loops, power amplifiers, transceivers0.18 micron, 100 ohm,
+	14.7 mA, 15.7 mA, 2.4 GHz, 2.4 mA, CMOS integrated circuits, CMOS
+	radio transceiver, IEEE 802.15.4-compliant transceiver, PLL direct-modulation
+	scheme, RF front-end design, ZigBee applications, bidirectional RF
+	pins, differential antenna port, integrated baseband processing,
+	low-IF topology, low-noise amplifier, phase locked loop, power amplifier,
+	receive mode, spread-spectrum communication, switching mixers, transmit
+	mode, wireless communication},
+  owner = {wei tang},
+  timestamp = {2009.11.21}
+}
+
+@ARTICLE{KuMuNiKu09,
+  author = {Kulkarni, V.V. and Muqsith, M. and Niitsu, K. and Ishikuro, H. and
+	Kuroda, T.},
+  title = {A 750 Mb/s, 12 pJ/b, 6-to-10 GHz CMOS IR-UWB Transmitter With Embedded
+	On-Chip Antenna},
+  journal = {Solid-State Circuits, IEEE Journal of},
+  year = {2009},
+  volume = {44},
+  pages = {394-403},
+  number = {2},
+  month = {Feb. },
+  abstract = {This paper presents a novel impulse radio based ultra-wideband transmitter.
+	The transmitter is designed in 0.18 mum CMOS process realizing extremely
+	low complexity and low power. It exploits the 6-to-10 GHz band to
+	generate short duration bi-phase modulated UWB pulses with a center
+	frequency of 8 GHz. No additional RF filtering circuits are required
+	since the pulse generator circuit itself has the functionality of
+	pulse shaping. Generated pulses comply with the FCC spectral emission
+	mask. Measured results show that the transmitter consumes 12 pJ/b
+	to achieve a maximum pulse repetition rate of 750 Mb/s. An optional
+	embedded on-chip antenna and a power amplifier operating in 6-10
+	GHz band are also designed and investigated as a future low cost
+	solution for very short distance IR-UWB communications.},
+  doi = {10.1109/JSSC.2008.2011034},
+  file = {:Research/Reference/Ultra Wideband/[KuMuNiKu09]A 750 Mb\:s, 12 pJ\:b, 6-to-10 GHz CMOS IR-UWB Transmitter With Embedded On-Chip Antenna.pdf:PDF},
+  issn = {0018-9200},
+  keywords = {CMOS integrated circuits, radio transmitters, system-on-chip, ultra
+	wideband antennas, ultra wideband communicationCMOS IR-UWB transmitter,
+	FCC spectral emission, bit rate 750 Mbit/s, embedded on chip antenna,
+	frequency 6 GHz to 10 GHz, impulse radio},
+  owner = {wei tang},
+  timestamp = {2009.10.31}
+}
+
+@INPROCEEDINGS{LaDeMoVi09,
+  author = {Lachartre, D. and Denis, B. and Morche, D. and Ouvry, L. and Pezzin,
+	M. and Piaget, B. and Prouvee, J. and Vincent, P.},
+  title = {A 1.1nJ/b 802.15.4a-compliant fully integrated UWB transceiver in
+	0.13µm CMOS},
+  booktitle = {Solid-State Circuits Conference - Digest of Technical Papers, 2009.
+	ISSCC 2009. IEEE International},
+  year = {2009},
+  pages = {312-313,313a},
+  month = {Feb.},
+  abstract = {The work presented in this paper is the first integrated design that
+	conciliates full digital reception, emission and baseband with low
+	power consumption in the 4-to-5 GHz band. Power consumption is an
+	important issue of digital reception when digitization of the RF
+	signals into N bits needs frequencies up to 20 GHz. We hereafter
+	describe a non-coherent receiver that simply digitizes the signal
+	asynchronously on only one bit and calculates the signal power in
+	a 500 MHz bandwidth. The sampling frequency is hence reduced to 1
+	GHz while the 1b conversion simplifies the design and consequently
+	reduces the power consumption. The proposed transmitter also has
+	mostly-digital architecture. It achieves low power consumption by
+	generating pulses without use of high frequency synthesis and by
+	activating the generator only during pulse emission. Low power consumption
+	and integration level are further improved by using an integrated
+	digital baseband that can be optionally activated.},
+  doi = {10.1109/ISSCC.2009.4977433},
+  file = {:Research/Reference/Ultra Wideband/[LaDeMoVi09]A 1.1nJ\:b 802.15.4a-compliant fully integrated UWB transceiver in 0.13µm CMOS.pdf:PDF},
+  keywords = {CMOS integrated circuits, low-power electronics, transceivers, ultra
+	wideband communication802.15.4a-compliant fully integrated UWB transceiver,
+	CMOS, digital reception, frequency 4 GHz to 5 GHz, frequency synthesis,
+	integrated digital baseband, low power consumption, size 0.13 mum},
+  owner = {wei tang},
+  timestamp = {2010.01.18}
+}
+
+@ARTICLE{LeCh07,
+  author = {Lee, F.S. and Chandrakasan, A.P.},
+  title = {A 2.5 nJ/bit 0.65 V Pulsed UWB Receiver in 90 nm CMOS},
+  journal = {Solid-State Circuits, IEEE Journal of},
+  year = {2007},
+  volume = {42},
+  pages = {2851-2859},
+  number = {12},
+  month = {Dec. },
+  abstract = {A noncoherent 0-16.7 Mb/s ultra-wideband (UWB) receiver using 3-5
+	GHz subbanded pulse-position modulation (PPM) signaling is implemented
+	in a 90 nm CMOS process. The RF and mixed-signal baseband circuits
+	operate at 0.65 V and 0.5 V, respectively. Using duty-cycling, adjustable
+	bandpass filters, and a relative-compare baseband, the receiver achieves
+	2.5 nJ/bit at 10-3 BER with -99 dBm best case sensitivity at 100
+	kb/s. The energy efficiency is maintained across three orders of
+	magnitude in data rate. For data rates less than 10 kb/s, leakage
+	power dominates energy/bit.},
+  doi = {10.1109/JSSC.2007.908723},
+  file = {:/Research/Reference/Ultra Wideband/[LeCh07]A 2.5 nJ\:bit 0.65 V Pulsed UWB Receiver in 90 nm CMOS.pdf:PDF},
+  issn = {0018-9200},
+  keywords = {CMOS integrated circuits, band-pass filters, error statistics, pulse
+	position modulation, receivers, ultra wideband communicationBER,
+	CMOS, RF circuits, adjustable bandpass filters, frequency 3 GHz to
+	5 GHz, mixed-signal baseband circuits, pulse-position modulation,
+	pulsed UWB receiver, size 90 nm, ultra-wideband receiver, voltage
+	0.65 V},
+  owner = {wei tang},
+  timestamp = {2009.10.31}
+}
+
+@ARTICLE{LePaKiKi06,
+  author = {Junwoo Lee and Young-Jin Park and Myunghoi Kim and Yoon, C. and Joungho
+	Kim and Kwan-Ho Kim},
+  title = {System-on-package ultra-wideband transmitter using CMOS impulse generator},
+  journal = {Microwave Theory and Techniques, IEEE Transactions on},
+  year = {2006},
+  volume = {54},
+  pages = { 1667-1674},
+  number = {4},
+  month = {June},
+  doi = {10.1109/TMTT.2006.872002},
+  file = {:Research/Reference/Ultra Wideband/[LePaKiKi06]System-on-package ultra-wideband transmitter using CMOS impulse generator.pdf:PDF},
+  issn = {0018-9480},
+  keywords = { CMOS analogue integrated circuits, band-pass filters, pulse generators,
+	radio transmitters, radiofrequency integrated circuits, strip line
+	filters, system-in-package, ultra wideband antennas, ultra wideband
+	communication 0.35 micron, 1 m, 10 dB, 3.3 V, CMOS impulse generator,
+	Federal Communications Commission spectrum, compact bandpass filter,
+	coupled strip line, impulse-radio communications, low-noise amplifier,
+	printed planar UWB antenna, system-on-package technology, tapered
+	stub, ultra wideband impulse transmitter module, ultra wideband transmitter},
+  owner = {wei tang},
+  timestamp = {2009.11.21}
+}
+
+@INPROCEEDINGS{LeVaBeCh09,
+  author = {Leenaerts, D. and van de Beek, R. and Bergervoet, J. and Kundur,
+	H. and van der Weide, G. and Kapoor, A. and Tian Yan Pu and Yu Fang
+	and Yu Juan Wang and Mukkada, B.J. and Lim, H.S. and Kiran, M. and
+	Chun Swee Lim and Badiu, S. and Chang, A.},
+  title = {A 65nm CMOS inductorless triple-band-group WiMedia UWB PHY},
+  booktitle = {Solid-State Circuits Conference - Digest of Technical Papers, 2009.
+	ISSCC 2009. IEEE International},
+  year = {2009},
+  pages = {410-411,411a},
+  month = {Feb.},
+  abstract = {Ultra-wideband (UWB) is an emerging broadband wireless technology
+	enabling data rates up to 480Mb/s. To allow world-wide operability
+	the WiMedia Alliance addresses three frequency band groups (BGs):
+	BG1 (3168-4752MHZ), BG3 (6336-7920MHz) and BG6 (7392-8976MHz). With
+	an application as wireless USB, highly integrated all-CMOS SoCs offer
+	competitive advantages over less integrated approaches. Here we present
+	a fully integrated single-die PHY covering the three BGs and realized
+	in 65nm CMOS. The PHY is compliant with WiMedia v1.2. The circuits
+	are completely inductorless, even though the LO generation as well
+	as other RF circuits need to operate up to almost 9GHz. This feature
+	reduces unwanted coupling mechanisms which may lead to system performance
+	degradation. Furthermore, one single RF signal path is used to cover
+	all three BGs in TX and RXmode.},
+  doi = {10.1109/ISSCC.2009.4977482},
+  file = {:Research/Reference/Ultra Wideband/[LeVaBeCh09]A 65nm CMOS inductorless triple-band-group WiMedia UWB PHY.pdf:PDF},
+  keywords = {CMOS integrated circuits, field effect MMIC, system-on-chip, ultra
+	wideband communicationCMOS, WiMedia Alliance, all-CMOS SoC, broadband
+	wireless technology, frequency 3168 MHz to 4752 MHz, frequency 6336
+	MHz to 7920 MHz, frequency 7392 MHz to 8976 MHz, inductorless circuits,
+	size 65 nm, system-on-chip, triple-band-group WiMedia UWB PHY, ultra-wideband
+	technology},
+  owner = {wei tang},
+  timestamp = {2010.01.18}
+}
+
+@ARTICLE{LeWo05,
+  author = {Lerdworatawee, J. and Won Namgoong},
+  title = {Wide-band CMOS cascode low-noise amplifier design based on source
+	degeneration topology},
+  journal = {Circuits and Systems I: Regular Papers, IEEE Transactions on},
+  year = {2005},
+  volume = {52},
+  pages = { 2327 - 2334},
+  number = {11},
+  month = {nov.},
+  abstract = {A design methodology for a wide-band CMOS low noise amplifier (LNA)
+	with source degeneration is presented. By allowing an arbitrary source
+	degeneration and employing a general input matching network, the
+	proposed wide-band CMOS LNA can be shown for any choice of transistor
+	width to achieve the minimum noise figure at all frequencies of interest.
+	The transistor width simply affects the gain of the LNA at the cost
+	of power dissipation. These results apply uniquely to CMOS LNAs,
+	as they are derived from a quasi-static MOSFET model. To validate
+	these design concepts, a wide-band LNA was realized in 0.25- mu;m
+	CMOS technology. The measured noise figure ranges from 2.7 to 3.7
+	dB over 3.2-4.8 GHz with power consumption of 20 mW. A close agreement
+	with the theoretical results is observed.},
+  doi = {10.1109/TCSI.2005.853585},
+  file = {:Research/Reference/Ultra Wideband/[LeWo05]Wide-band CMOS cascode low-noise amplifier design based on source degeneration topology.pdf:PDF},
+  issn = {1549-8328},
+  keywords = { 0.25 micron; 2.7 to 3.7 dB; 20 mW; 3.2 to 4.8 GHz; CMOS LNA; CMOS
+	analog integrated circuits; MOSFET model; active circuits; arbitrary
+	source degeneration; broadband amplifier; cascode low-noise amplifier;
+	communication circuits; design methodology; input matching network;
+	integrated circuit noise; low-noise design; minimum noise figure;
+	power dissipation; wideband CMOS; CMOS analogue integrated circuits;
+	MMIC amplifiers; cascade networks; impedance matching; wideband amplifiers;},
+  owner = {wei tang},
+  timestamp = {2010.03.16}
+}
+
+@INPROCEEDINGS{LiKuMa05,
+  author = {Keren Li and Kurita, D. and Matsui, T.},
+  title = {A novel UWB bandpass filter and its application to UWB pulse generation},
+  booktitle = {Ultra-Wideband, 2005. ICU 2005. 2005 IEEE International Conference
+	on},
+  year = {2005},
+  pages = { 446-451},
+  month = {Sept.},
+  abstract = { This paper presented an ultra-wideband (UWB) bandpass filter using
+	broadside-coupled microstrip-coplanar waveguide structure. The filter
+	consists of a microstrip line coupled to a coplanar waveguide (CPW)
+	that was fabricated on the ground of the microstrip line. The proposed
+	filter has been simulated, fabricated and measured for UWB system.
+	The measured results of a 3-section filter demonstrated the best
+	UWB performance around the world; bandwidth from 3.0 GHz to 10.63
+	GHz ((@-10 dB); insertion loss at central frequency about 0.32 dB
+	and very flat over the whole band; group delay, which is important
+	to an impulse radio UWB system, about 0.42 ns over the most central
+	bund, and less than 0.95 ns over the whole band. The filter also
+	exhibited a good performance outside the band, both at low frequency
+	end (to meet FCC limit) and high frequency end higher than 18 GHz
+	with insertion loss better than 30 dB. The developed bandpass filter
+	has been successfully applied to the UWB pulse generation. The experimental
+	results demonstrated that a step-like negative pulse with less than
+	5 ps failtime, generated from a pulse generator, was reshaped through
+	the filter as a Gaussian doublet-like UWB pulse.},
+  doi = {10.1109/ICU.2005.1570029},
+  file = {:Research/Reference/Ultra Wideband/[LiKuMa05]A novel UWB bandpass filter and its application to UWB pulse generation  .pdf:PDF},
+  keywords = { Gaussian processes, band-pass filters, coplanar waveguides, microstrip
+	lines, ultra wideband communication 0.32 dB, 0.42 ns, 3.0 to 10.63
+	GHz, Gaussian doublet-like UWB pulse, UWB bandpass filter, UWB pulse
+	generation, broadside-coupled microstrip-coplanar waveguide structure,
+	coplanar waveguide, impulse radio UWB system, microstrip line, ultrawideband
+	filter},
+  owner = {wei tang},
+  timestamp = {2009.11.04}
+}
+
+@ARTICLE{LiZh07,
+  author = {Qiang Li and Yue Ping Zhang},
+  title = {A 1.5-V 2Ð9.6-GHz Inductorless Low-Noise Amplifier in 0.13-µm CMOS},
+  journal = {Microwave Theory and Techniques, IEEE Transactions on},
+  year = {2007},
+  volume = {55},
+  pages = {2015-2023},
+  number = {10},
+  month = {Oct. },
+  abstract = {This paper presents an inductorless low-noise amplifier (LNA) design
+	for an ultra-wideband (UWB) receiver front-end. A current-reuse gain-enhanced
+	noise canceling architecture is proposed, and the properties and
+	limitations of the gain-enhancement stage are discussed. Capacitive
+	peaking is employed to improve the gain flatness and -3-dB bandwidth,
+	at the cost of absolute gain value. The LNA circuit is fabricated
+	in a 0.13-mum triple-well CMOS technology. Measurement result shows
+	that a small-signal gain of 11 dB and a -3-dB bandwidth of 2-9.6
+	GHz are obtained. Over the -3-dB bandwidth, the input return loss
+	is less than -8.3 dB, and the noise figure is 3.6-4.8 dB. The LNA
+	consumes 19 mW from a low supply voltage of 1.5 V. It is shown that
+	the LNA designed without on-chip inductors achieves comparable performances
+	with inductor-based designs. The silicon area is reduced significantly
+	in the inductorless design, the LNA core occupies only 0.05 mm2,
+	which is among the smallest reported designs.},
+  doi = {10.1109/TMTT.2007.905495},
+  file = {:Research/Reference/Ultra Wideband/[LiZh07]A 1.5-V 2Ð9.6-GHz Inductorless Low-Noise Amplifier in 0.13-?m CMOS.pdf:PDF},
+  issn = {0018-9480},
+  keywords = {CMOS integrated circuits, MMIC amplifiers, UHF amplifiers, low noise
+	amplifiers, ultra wideband technologyCMOS, LNA, UWB, capacitive peaking,
+	current-reuse gain-enhanced noise canceling, frequency 2 GHz to 9.6
+	GHz, inductor-based designs, inductorless low-noise amplifier, size
+	0.13 mum, ultra-wideband receiver front-end, voltage 1.5 V},
+  owner = {wei tang},
+  timestamp = {2009.11.09}
+}
+
+@ARTICLE{LiLi07,
+  author = {Liao, C.-F. and Liu, S.-I.},
+  title = {A Broadband Noise-Canceling CMOS LNA for 3.1Ð10.6-GHz UWB Receivers},
+  journal = {Solid-State Circuits, IEEE Journal of},
+  year = {2007},
+  volume = {42},
+  pages = {329-339},
+  number = {2},
+  month = {Feb. },
+  abstract = {An ultra-wideband 3.1-10.6-GHz low-noise amplifier employing a broadband
+	noise-canceling technique is presented. By using the proposed circuit
+	and design methodology, the noise from the matching device is greatly
+	suppressed over the desired UWB band, while the noise from other
+	devices performing noise cancellation is minimized by the systematic
+	approach. Fabricated in a 0.18-mum CMOS process, the IC prototype
+	achieves a power gain of 9.7 dB over a -3 dB bandwidth of 1.2-11.9-GHz
+	and a noise figure of 4.5-5.1 dB in the entire UWB band. It consumes
+	20 mW from a 1.8-V supply and occupies an area of only 0.59 mm2},
+  doi = {10.1109/JSSC.2006.889356},
+  file = {:Research/Reference/Ultra Wideband/[LiLi07]A Broadband Noise-Canceling CMOS LN[LiLi07]A for 3.1Ð10.6-GHz UWB Receivers.pdf:PDF},
+  issn = {0018-9200},
+  keywords = {CMOS analogue integrated circuits, low noise amplifiers, radio receivers,
+	ultra wideband technology, wideband amplifiers0.18 micron, 1.2 to
+	11.9 GHz, 1.8 V, 20 mW, 3.1 to 10.6 GHz, 4.5 to 5.1 dB, 9.7 dB, broadband
+	noise-canceling CMOS LNA, low noise amplifiers, noise cancellation,
+	ultra wideband receivers},
+  owner = {wei tang},
+  timestamp = {2009.11.12}
+}
+
+@ARTICLE{LiHu09,
+  author = {Wen-Piao Lin and Chao-Hsiang Huang},
+  title = {Coplanar Waveguide-Fed Rectangular Antenna With an Inverted-L Stub
+	for Ultrawideband Communications},
+  journal = {Antennas and Wireless Propagation Letters, IEEE},
+  year = {2009},
+  volume = {8},
+  pages = {228 -231},
+  month = { },
+  abstract = {This study presents a new compact coplanar waveguide (CPW)-fed rectangular
+	antenna with a patched inverted-L stub. The proposed antenna transmits
+	narrow pulses over a short range and provides a wide impedance bandwidth
+	by adequately selecting the dimensions of inverted-L stub on the
+	radiating path. The experimental results demonstrate that the proposed
+	antenna maintains the bandwidth of radiated power spectrum of 4 GHz
+	ranging from 3.5 to 7.5 GHz under a 500 Mb/s data rate. The proposed
+	antenna performs well in both frequency and time domain for impulse-radio
+	ultrawideband (IR-UWB) communications.},
+  doi = {10.1109/LAWP.2009.2014573},
+  file = {:Research/Reference/Ultra Wideband/[LiHu09]Coplanar Waveguide-Fed Rectangular Antenna With an Inverted-L Stub for Ultrawideband Communications.pdf:PDF},
+  issn = {1536-1225},
+  keywords = {bandwidth 3.5 GHz to 7.5 GHz;coplanar waveguide-fed rectangular antenna;impulse-radio;patched
+	inverted-L stub;ultrawideband communications;antenna feeds;coplanar
+	waveguides;microstrip antennas;ultra wideband communication;},
+  owner = {wei tang},
+  timestamp = {2010.03.16}
+}
+
+@INPROCEEDINGS{LoZhLu06,
+  author = {Shuzuo Lou and Hui Zheng and Luong, H.C.},
+  title = {A 1.5-V CMOS Receiver Front-End for 9-Band MB-OFDM UWB System},
+  booktitle = {Custom Integrated Circuits Conference, 2006. CICC '06. IEEE},
+  year = {2006},
+  pages = {801-804},
+  month = {Sept.},
+  abstract = {This paper presents the design of a CMOS receiver front-end (RFE)
+	with dual-conversion zero-IF architecture for multi-band OFDM (MB-OFDM)
+	system covering the first 9 frequency bands from 3.1 GHz to 8.0 GHz,
+	each with a bandwidth of 528 MHz. A 3-stage wideband variable-gain
+	LNA and a novel mixer with bottom LO input devices are proposed.
+	A fully integrated frequency synthesizer is included to generate
+	the desired LO signals with a band switching time of less than Ins.
+	Fabricated in TSMC 0.18mum CMOS process and operated at 1.5 V, the
+	RFE measures a maximum noise figure of 8.1 dB and an in-band IIP3
+	of -11.1 dBm while consuming a total current of 81.5 mA},
+  doi = {10.1109/CICC.2006.321000},
+  file = {:Research/Reference/Ultra Wideband/[LoZhLu06]A 1.5-V CMOS Receiver Front-End for 9-Band MB-OFDM UWB System.pdf:PDF},
+  keywords = {CMOS integrated circuits, OFDM modulation, low noise amplifiers, mixers
+	(circuits), radio receivers, ultra wideband technology1.5 V, 3.1
+	to 8.0 GHz, 528 MHz, 8.1 dB, 81.5 mA, CMOS receiver, LNA, MB-OFDM
+	UWB system, mixer, multi-band OFDM, receiver front end},
+  owner = {wei tang},
+  timestamp = {2009.11.12}
+}
+
+@ARTICLE{MaLeDoLe03,
+  author = {Marsden , K. and Hyung-Jin Lee and Dong Ha and Hyung-Soo Lee},
+  title = {Low power CMOS re-programmable pulse generator for UWB systems},
+  year = {2003},
+  pages = { 443-447},
+  month = {Nov.},
+  abstract = {In this paper we discuss the design of a CMOS based pulse generator
+	for impulse-based UWB systems. The basic structure of our design
+	involves a power amplifier with four control taps, which essentially
+	decides the shape of the generated pulse. The design is versatile
+	and may be used in a variety of UWB modulation schemes and systems.
+	In addition, this design can also be incorporated into a multiband
+	approach as a rectified cosine generator.},
+  booktitle = {Ultra Wideband Systems and Technologies, 2003 IEEE Conference on},
+  doi = {10.1109/UWBST.2003.1267881},
+  file = {:Research/Reference/Ultra Wideband/[MaLeDoLe03]Low power CMOS re-programmable pulse generator for UWB systems.pdf:PDF},
+  issn = { },
+  keywords = { CMOS integrated circuits, broadband networks, power amplifiers, pulse
+	generators, radio networks CMOS re-programmable pulse generator,
+	UWB modulation schemes, UWB systems, control taps, impulse-based
+	UWB systems, power amplifier, rectified cosine generator},
+  owner = {wei tang},
+  timestamp = {2009.10.31}
+}
+
+@ARTICLE{MeWo08,
+  author = {Medi, A. and Won Namgoong},
+  title = {A High Data-Rate Energy-Efficient Interference-Tolerant Fully Integrated
+	CMOS Frequency Channelized UWB Transceiver for Impulse Radio},
+  journal = {Solid-State Circuits, IEEE Journal of},
+  year = {2008},
+  volume = {43},
+  pages = {974-980},
+  number = {4},
+  month = {April },
+  abstract = {A pulse-based ultra-wideband transceiver (UWB-IR) operating in the
+	3.25-4.75 GHz band designed for low power and high data rate communication
+	is implemented in 0.18 mum CMOS technology. When operating at 1 Gbps
+	data rate, it dissipates 98 mW (98 pJ/b) in the receive-mode and
+	108 mW (108 pJ/b) in the transmit-mode from a 1.8 V supply [1]. Compared
+	to UWB transceivers reported in the literature, this chip dissipates
+	the lowest energy per bit. In addition, the combination of the frequency
+	channelized architecture, high-linearity RF circuits, aggressive
+	baseband filtering, and low local oscillator spurs results in an
+	interference-tolerant receiver that is able to co-exist with systems
+	operating in the 2.4 GHz and 5 GHz ISM bands as well as interfering
+	systems operating within the signal band. The receiver provides a
+	maximum voltage gain of 82 dB. Within the band of interest and at
+	a typical gain of 57 dB, overall noise figure of 4.5 to 5.4 dB, IIP3
+	of -5 to -10 dBm, and 47 dB channel-to-channel isolation are measured.
+	The receiver can tolerate in-band and out-of-band narrowband interferers
+	that are as large as -20 dBm and 0 dBm, respectively. The mostly
+	digital programmable transmitter delivers maximum output swing of
+	800 mVpp to a 50-ohm antenna at rates as high as 1.5 Gbps.},
+  doi = {10.1109/JSSC.2008.917513},
+  file = {:Research/Reference/Ultra Wideband/[MeWo08]A High Data-Rate Energy-Efficient Interference-Tolerant Fully Integrated CMOS Frequency Channelized UWB Transceiver for Impulse Radio.pdf:PDF},
+  issn = {0018-9200},
+  keywords = {CMOS integrated circuits, microwave integrated circuits, radiofrequency
+	interference, transceivers, ultra wideband communicationCMOS technology,
+	UWB transceiver, bit rate 1 Gbit/s, bit rate 1.5 Gbit/s, channel-to-channel
+	isolation, digital programmable transmitter, frequency 2.4 GHz, frequency
+	3.25 GHz to 4.75 GHz, frequency 5 GHz, frequency channelized architecture,
+	gain -5 dB to -10 dB, gain 57 dB, gain 82 dB, high data rate communication,
+	high-linearity RF circuits, impulse radio, noise figure 4.5 dB to
+	5.4 dB, power 108 mW, power 98 mW, pulse-based ultra-wideband transceiver,
+	resistance 50 ohm, size 0.18 mum, voltage 1.8 V},
+  owner = {wei tang},
+  timestamp = {2009.10.31}
+}
+
+@INPROCEEDINGS{MeBhDaCh09,
+  author = {Mercier, P.P. and Bhardwaj, M. and Daly, D.C. and Chandrakasan, A.P.},
+  title = {A 0.55V 16Mb/s 1.6mW non-coherent IR-UWB digital baseband with ±1ns
+	synchronization accuracy},
+  booktitle = {IEEE International Solid-State Circuits Conference - Digest of Technical
+	Papers, 2009. ISSCC 2009.},
+  year = {2009},
+  pages = {252-253,253a},
+  month = {Feb.},
+  abstract = {IR-UWB radios are finding increasing use in low data rate sensing
+	applications, in part because they can be easily duty-cycled to achieve
+	extreme energy efficiency. Within pulsed radios, noncoherent (NC)
+	RF front ends that use simple square-and-integrate samplers offer
+	significant energy-per-bit savings over their coherent counterparts.
+	However, such samplers lose phase information and accumulate squared
+	noise over the integration period. While this increases the SNR required
+	to relay a bit reliably, the greater challenge is achieving signal
+	synchronization. Telemetry applications often have small pay- loads
+	(10 to 100 bits) where synchronization time dominates. Furthermore,
+	synchronization performance is being continually pushed to enable
+	positioning capability. Hence, the ultimate advantage of NC receivers
+	relies on their ability to synchronize efficiently.},
+  doi = {10.1109/ISSCC.2009.4977403},
+  file = {:Research/Reference/Ultra Wideband/[MeBhDaCh09]A 0.55V 16Mb\:s 1.6mW non-coherent IR-UWB digital baseband with ±1ns synchronization accuracy.pdf:PDF},
+  keywords = {ultra wideband communicationIR-UWB radios, bit rate 16 Mbit/s, low
+	data rate sensing applications, noncoherent IR-UWB digital baseband,
+	power 1.6 mW, pulsed radios, time -1 ns, time 1 ns, voltage 0.55
+	V},
+  owner = {wei tang},
+  timestamp = {2010.01.18}
+}
+
+@INPROCEEDINGS{MeDaCh08,
+  author = {Mercier, P.P. and Daly, D.C. and Chandrakasan, A.P.},
+  title = {A 19pJ/pulse UWB transmitter with dual capacitively-coupled digital
+	power amplifiers},
+  booktitle = {Radio Frequency Integrated Circuits Symposium, 2008. RFIC 2008. IEEE},
+  year = {2008},
+  pages = {47-50},
+  month = {17 2008-April 17},
+  abstract = {A fully integrated pulsed-UWB transmitter that communicates in the
+	3-to-5 GHz 802.15.4a bands is presented. Enabled by relaxed frequency
+	tolerances of non-coherent communication, the all-digital architecture
+	generates FCC-compliant UWB pulse-bursts using discrete four-level
+	pulse shaping. BPSK-modulation is achieved without the use of a balun
+	through dual capacitively-coupled digital power amplifiers. The transmitter
+	consumes zero static bias power and achieves an energy efficiency
+	of 113-to-19 pJ/pulse at data rates from 100 kbps-to-15.6 Mbps.},
+  doi = {10.1109/RFIC.2008.4561383},
+  file = {:Research/Reference/Ultra Wideband/[MeDaCh08]A 19pJ\:pulse UWB transmitter with dual capacitively-coupled digital power amplifiers.pdf:PDF},
+  issn = {1529-2517},
+  keywords = {phase shift keying, power amplifiers, radio transmitters, ultra wideband
+	communicationBPSK-modulation, discrete four-level pulse shaping,
+	dual capacitively-coupled digital power amplifier, frequency 3 GHz
+	to 5 GHz, pulsed-UWB transmitter},
+  owner = {wei tang},
+  timestamp = {2010.01.21}
+}
+
+@ARTICLE{MiNg06,
+  author = {Meng Miao and Cam Nguyen},
+  title = {On the development of an Integrated CMOS-Based UWB Tunable-Pulse
+	Transmit Module},
+  journal = {IEEE Transactions on Microwave Theory and Technologies},
+  year = {2006},
+  volume = {54},
+  pages = {3681-3687},
+  number = {10},
+  month = {Oct},
+  file = {:/Research/Reference/Ultra Wideband/[MiNg06]On the Development of an Integrated CMOS-Based UWB Tunable-Pulse Transmit Module.pdf:PDF},
+  owner = {wei tang},
+  timestamp = {2009.10.31}
+}
+
+@ARTICLE{MoHeBoLe00,
+  author = {Mohan, S.S. and Hershenson, M.D.M. and Boyd, S.P. and Lee, T.H.},
+  title = {Bandwidth extension in CMOS with optimized on-chip inductors},
+  journal = {Solid-State Circuits, IEEE Journal of},
+  year = {2000},
+  volume = {35},
+  pages = {346-355},
+  number = {3},
+  month = {Mar},
+  doi = {10.1109/4.826816},
+  file = {:Research/Reference/Ultra Wideband/[MoHeBoLe00]Bandwidth extension in CMOS with optimized on-chip inductors.pdf:PDF},
+  issn = {0018-9200},
+  keywords = {CMOS analogue integrated circuits, circuit optimisation, geometric
+	programming, inductors, integrated circuit design, integrated circuit
+	modelling0.5 micron, 0.6 pF, 1.6 kohm, 14 GHz, 2.125 Gbit/s, 225
+	mW, CMOS, area, bandwidth extension, bandwidth extension technique,
+	capacitance, cascoded common-source stage, common-gate input stage,
+	fully differential topology, geometric programming, gigahertz broad-band
+	circuitry, global optimization method, load resistance, lumped circuit
+	inductor model, on-chip shunt peaking, optimized on-chip spiral inductors,
+	output driver, photodiode capacitance, series resistance, shunt-peaking
+	elements, transimpedance},
+  owner = {wei tang},
+  timestamp = {2009.11.18}
+}
+
+@INPROCEEDINGS{JuKiAnLe05,
+  author = {Mun-Sook Jung, Chang-Wan Kim, Phan Tuan Anh, Hoon-Tae Kim, Sang-Gug
+	Lee,},
+  title = {A 2.7 to 9.3 GHz CMOS wideband amplifier combined with high pass
+	filter for UWB system},
+  booktitle = {7th Interational Conference on Advanced Communication Thechnology
+	(ICACT2005)},
+  year = {2005},
+  address = {Phoenix Park, Korea},
+  month = {Feb},
+  file = {:Research/Reference/Ultra Wideband/[JuKiAnLe05]A 2.7 to 9.3 GHz CMOS wideband amplifier combined with high pass filter for UWB system.pdf:PDF},
+  owner = {wei},
+  timestamp = {2010.02.23}
+}
+
+@INPROCEEDINGS{NeDoSp04,
+  author = {Faranak Nekoogar and Farid Dowla and Alex Spiridon},
+  title = {Self Organization of Wireless Sensor Networks Using Ultra- Wideband
+	Radios},
+  booktitle = {Radio and Wireless Conference, 2004 IEEE},
+  year = {2004},
+  pages = {451- 454},
+  month = {September},
+  file = {:/Research/Reference/Ultra Wideband/[NeDoSp04]Self Organization of Wireless Sensor Networks Using Ultra-.pdf:PDF},
+  owner = {wei tang},
+  timestamp = {2009.10.31}
+}
+
+@ARTICLE{NgKiIhLe04,
+  author = {Trung-Kien Nguyen and Chung-Hwan Kim and Gook-Ju Ihm and Moon-Su
+	Yang and Sang-Gug Lee},
+  title = {CMOS low-noise amplifier design optimization techniques},
+  journal = {Microwave Theory and Techniques, IEEE Transactions on},
+  year = {2004},
+  volume = {52},
+  pages = { 1433-1442},
+  number = {5},
+  month = {May},
+  doi = {10.1109/TMTT.2004.827014},
+  file = {:Research/Reference/Ultra Wideband/[NgKiIhLe04]CMOS low-noise amplifier design optimization techniques.pdf:PDF},
+  issn = {0018-9480},
+  keywords = {CMOS integrated circuits, UHF amplifiers, UHF integrated circuits,
+	circuit optimisation, integrated circuit design, integrated circuit
+	noise, network topology 0.25 micron, 0.7 mA, 1.25 V, 1.35 dB, 1.6
+	mA, 12 dB, 900 MHz, CMOS low noise amplifier design, CMOS technology,
+	NMOS transistor, cascode topology, noise matching, noise parameter,
+	optimization technique, power constrained noise optimization, power
+	gain, simultaneous noise input matching, third order intermodulation
+	product},
+  owner = {wei tang},
+  timestamp = {2009.11.18}
+}
+
+@ARTICLE{NoFuKoSa07,
+  author = {Norimatsu, T. and Fujiwara, R. and Kokubo, M. and Miyazaki, M. and
+	Maeki, A. and Ogata, Y. and Kobayashi, S. and Koshizuka, N. and Sakamura,
+	K.},
+  title = {A UWB-IR Transmitter With Digitally Controlled Pulse Generator},
+  journal = {Solid-State Circuits, IEEE Journal of},
+  year = {2007},
+  volume = {42},
+  pages = {1300-1309},
+  number = {6},
+  month = {June },
+  abstract = {A novel transmitter for ultra-wideband (UWB) impulse radio has been
+	developed. The proposed architecture enables low-power operation,
+	simple design, and accurate pulse-shape generation. The phase and
+	amplitude of the pulse are controlled separately and digitally to
+	generate a desired pulse shape. This digital control method also
+	contributes to the low-power transmission and eliminates the need
+	for a filter. The transmitter is fabricated using a 0.18-mum CMOS
+	process. The core chip size is only 0.40 mm2. From experimental measurements,
+	it was found that the generated signal satisfied the FCC spectrum
+	mask, and the average power dissipation was only 29.7 mW at A 2.2-V
+	supply voltage. Therefore, the developed UWB transmitter generates
+	accurate pulses with low power consumption and simple design architecture},
+  doi = {10.1109/JSSC.2007.897137},
+  file = {:/Research/Reference/Ultra Wideband/[NoFuKoSa07]A UWB-IR Transmitter With Digitally Controlled Pulse Generator.pdf:PDF},
+  issn = {0018-9200},
+  keywords = {CMOS digital integrated circuits, field effect MIMIC, field effect
+	MMIC, low-power electronics, pulse generators, radio transmitters0.18
+	micron, 2.2 V, 29.7 mW, CMOS process, FCC spectrum mask, UWB transmitter,
+	digitally controlled pulse generator, ultra-wideband impulse radio
+	transmitter, wireless sensor network},
+  owner = {wei tang},
+  timestamp = {2009.10.31}
+}
+
+@INPROCEEDINGS{NoFuKoSa05,
+  author = {Norimatsu, T. and Fujiwara, R. and Kokubo, M. and Miyazaki, M. and
+	Ookuma, Y. and Hayakawa, M. and Kobayashi, S. and Koshizuka, N. and
+	Sakamura, K.},
+  title = {A novel UWB impulse-radio transmitter with all-digitally-controlled
+	pulse generator},
+  booktitle = {Solid-State Circuits Conference, 2005. ESSCIRC 2005. Proceedings
+	of the 31st European},
+  year = {2005},
+  pages = { 267-270},
+  month = {Sept.},
+  abstract = {A novel transmitter for ultra-wideband (UWB) impulse radio was developed.
+	The proposed architecture realizes low power, low complexity, and
+	generation of a highly accurate pulse. The phase and amplitude of
+	a pulse are controlled separately and digitally to generate a highly
+	accurate pulse. This control method also contributes to the transmitter's
+	low power and eliminates the need for a filter. The transmitter was
+	fabricated by a 0.18-?m bulk CMOS process. The core chip size is
+	only 0.40 mm2. Measurement of this transmitter found that the FCC
+	spectrum mask is satisfied and average power dissipation is 29.7
+	mW under a supply voltage of 2.2 V. These results show that the developed
+	UWB transmitter can generate an accurate pulse with low power and
+	low complexity.},
+  doi = {10.1109/ESSCIR.2005.1541611},
+  file = {:Research/Reference/Ultra Wideband/[NoFuKoSa05]A novel UWB impulse-radio transmitter with all-digitally-controlled pulse generator.pdf:PDF},
+  keywords = { CMOS integrated circuits, low-power electronics, pulse generators,
+	radio transmitters, ultra wideband technology 0.18 micron, 2.2 V,
+	29.7 mW, CMOS process, FCC spectrum mask, UWB impulse-radio transmitter,
+	UWB transmitter, digital controlled pulse generator, ultra-wideband
+	impulse radio},
+  owner = {wei tang},
+  timestamp = {2009.10.31}
+}
+
+@ARTICLE{OnWaFu07,
+  author = {Oncu, A. and Wasanthamala Badalawa, B.B.M. and Fujishima, M.},
+  title = {22Ð29 GHz Ultra-Wideband CMOS Pulse Generator for Short-Range Radar
+	Applications},
+  journal = {Solid-State Circuits, IEEE Journal of},
+  year = {2007},
+  volume = {42},
+  pages = {1464-1471},
+  number = {7},
+  month = {July },
+  abstract = {The pseudo-millimeter-wave ultra-wideband (UWB) is attractive for
+	applications in short-range automotive radar systems using 22 to
+	29 GHz in order to realize road safety and intelligent transportation.
+	Although the CMOS is suitable for short- range radar since processing
+	units can be implemented in the same chip as the UWB front-end building
+	block, it is difficult to operate CMOS pulse generators at such a
+	high frequency. To realize the pseudo-millimeter-wave band using
+	CMOS, we have proposed a new pulse generator consisting of a series
+	of delay cells and edge combiners with waveform shaping for short-range
+	radar. As a result of measurement using 90-nm CMOS technology, 1
+	Gb/s/bit pulses with 71 mV peak-to-peak, 39.2 ps monopulse width
+	and 552 ps envelope width are successfully generated with a power
+	consumption of 1.4 mW at a supply voltage of 0.91 V. This result
+	can be the basis for developing the key technology for one-chip short-range
+	radar sensors.},
+  doi = {10.1109/JSSC.2007.899099},
+  file = {:Research/Reference/Ultra Wideband/[OnWaFu07]22Ð29 GHz Ultra-Wideband CMOS Pulse Generator for Short-Range Radar Applications.pdf:PDF},
+  issn = {0018-9200},
+  keywords = {CMOS integrated circuits, MMIC, pulse generators, road safety, road
+	vehicle radar, ultra wideband technologyMMIC, UWB front-end, automotive
+	radar systems, bit rate 1 Gbit/s, delay cells, edge combiners, frequency
+	22 GHz to 29 GHz, intelligent transportation, power 1.4 mW, road
+	safety, ultra-wideband CMOS pulse generator, voltage 71 mV, voltage
+	910 mV, waveform shaping},
+  owner = {wei tang},
+  timestamp = {2009.11.04}
+}
+
+@BOOK{OpHaIi04,
+  title = {UWB theory and applications},
+  publisher = {John Wiley {\&} Sons},
+  year = {2004},
+  author = {TIan Opperman and Matti Hamalainen and Jari Iinatti.},
+  month = {September},
+  owner = {wei tang},
+  timestamp = {2009.10.31}
+}
+
+@INPROCEEDINGS{PhKrLe07,
+  author = {Tuan-Anh Phan and Krizhanovskii, V. and Sang-Gug Lee},
+  title = {Low-Power CMOS Energy Detection Transceiver for UWB Impulse Radio
+	System},
+  booktitle = {Custom Integrated Circuits Conference, 2007. CICC '07. IEEE},
+  year = {2007},
+  pages = {675-678},
+  month = {Sept.},
+  abstract = {This paper presents an ultra low-power noncoherent transceiver (TRx)
+	operating in 3-5 GHz band using energy detection (ED) receiver for
+	impulse radio ultra-wideband (IR-UWB) systems. The proposed low-complexity
+	ED receiver consists of a wideband LNA, a squarer, an analog integrator,
+	and a sample and hold circuit, of which only the LNA consumes static
+	current. The transmitter consists of a pulser which is based on the
+	ON/OFF operation of an LC oscillator. Fabricated in 0.18-mum CMOS
+	technology with 1.5 V supply, measurements show the FCC-compliant
+	output pulses with the duration of 3.5 ns, which corresponds to 520
+	MHz bandwidth. Maximum pulse rate is up to over 200 MHz. The pulser
+	dissipates only the dynamic current with average energy of 16.8 pJ
+	per pulse, and the receiver dissipates 3.5 mA of static current.
+	The receiver shows 9 dB of NF and a sensitivity of -70 dBm. Transceiver
+	die size is 1.3times1 mm.},
+  doi = {10.1109/CICC.2007.4405822},
+  file = {:Research/Reference/Ultra Wideband/[PhKrLe07]Low-Power CMOS Energy Detection Transceiver for UWB Impulse Radio System.pdf:PDF},
+  keywords = {CMOS integrated circuits, MMIC, integrating circuits, low noise amplifiers,
+	low-power electronics, microwave amplifiers, microwave receivers,
+	sample and hold circuits, transceivers, ultra wideband technology,
+	wideband amplifiersCMOS energy detection transceiver, LC oscillator,
+	UWB impulse radio system, analog integrator, current 3.5 mA, frequency
+	520 MHz, low-power noncoherent transceiver, noise figure 9 dB, sample
+	and hold circuit, size 0.18 mum, squarer, time 3.5 ns, voltage 1.5
+	V, wideband LNA},
+  owner = {wei tang},
+  timestamp = {2010.01.22}
+}
+
+@ARTICLE{PhLeKrLe07,
+  author = {Tuan-Anh Phan and Jeongseon Lee and Krizhanovskii, V. and Seok-Kyun
+	Han and Sang-Gug Lee},
+  title = {A 18-pJ/Pulse OOK CMOS Transmitter for Multiband UWB Impulse Radio},
+  journal = {Microwave and Wireless Components Letters, IEEE},
+  year = {2007},
+  volume = {17},
+  pages = {688-690},
+  number = {9},
+  month = {Sept. },
+  abstract = {This letter presents a new transmitter for multiband impulse radio
+	ultra-wideband (IR-UWB) systems. The ultra low-power, low-complexity
+	UWB transmitter operates over three 528-MHz subbands in 3-5 GHz band.
+	It consists of an on-off keying (OOK) modulator and a pulse generator
+	which is based on the ON/OFF switching operation of an LC oscillator.
+	Measurements show a pulse duration of 3.5 ns and a spectrum that
+	fully complies with the FCC spectral mask with more than 20 dB of
+	sidelobe rejection. Implemented in 0.18-mum CMOS technology, the
+	transmitter operates in burst mode and dissipates only 18 pJ of energy
+	consumption per pulse. The transmitter is best suited for energy
+	detection receivers.},
+  doi = {10.1109/LMWC.2007.903464},
+  file = {:/Research/Reference/Ultra Wideband/[PhLeKrLe07]A 18-pJ\:Pulse OOK CMOS Transmitter for Multiband UWB Impulse Radio.pdf:PDF},
+  issn = {1531-1309},
+  keywords = {energy consumption, low-power electronics, pulse generators, ultra
+	wideband communicationCMOS technology, CMOS transmitter, FCC spectral
+	mask, LC oscillator, ON/OFF switching, bandwidth 3 GHz to 5 GHz,
+	energy 18 pJ, energy consumption, energy detection receivers, frequency
+	528 MHz, multiband impulse radio ultra-wideband systems, on-off keying
+	modulator, pulse generator, size 0.18 mum, time 3.5 ns},
+  owner = {wei tang},
+  timestamp = {2009.10.31}
+}
+
+@ARTICLE{Ra09,
+  author = {Razavi, B.},
+  title = {Design of Millimeter-Wave CMOS Radios: A Tutorial},
+  journal = {Circuits and Systems I: Regular Papers, IEEE Transactions on},
+  year = {2009},
+  volume = {56},
+  pages = {4-16},
+  number = {1},
+  month = {Jan. },
+  doi = {10.1109/TCSI.2008.931648},
+  issn = {1549-8328},
+  keywords = {CMOS analogue integrated circuits, field effect MIMIC, frequency dividers,
+	low noise amplifiers, millimetre wave oscillators, mixers (circuits),
+	transceiverscompact transceivers, frequency dividers, local oscillator
+	signal, low-noise amplifiers, low-power transceivers, millimeter-wave
+	CMOS radios, mixers, multiple beamforming transceivers},
+  owner = {wei tang},
+  timestamp = {2009.11.23}
+}
+
+@ARTICLE{RyDeFo05,
+  author = {Julien Ryckaert and Claude Desset and Andrew Fort and Mustafa Badaroglu
+	and Vincent De Heyn and Piet Wambacq and Geert Van der Plas and St¨{\textbar}phane
+	Donnay and Bart Van Poucke and Bert Gyselinc},
+  title = {Ultra-wide-band transmitter for low-power wireless body area networks:
+	design and evaluation},
+  journal = {Circuits and Systems I: Regular Papers, IEEE Transactions on [see
+	also Circuits and Systems I: Fundamental Theory and Applications,
+	IEEE Transactions on]},
+  year = {2005},
+  volume = {52},
+  pages = {2515 - 2525 },
+  number = {12},
+  month = {December},
+  file = {:/Research/Reference/Ultra Wideband/[RyDeFo05]Ultra-wide-band transmitter for low-power wireless body area networks design and evaluation.pdf:PDF},
+  owner = {wei tang},
+  timestamp = {2009.10.31}
+}
+
+@ARTICLE{RyVaDeCr07,
+  author = {Ryckaert, J. and Van der Plas, G. and De Heyn, V. and Desset, C.
+	and Van Poucke, B. and Craninckx, J.},
+  title = {A 0.65-to-1.4 nJ/Burst 3-to-10 GHz UWB All-Digital TX in 90 nm CMOS
+	for IEEE 802.15.4a},
+  journal = {Solid-State Circuits, IEEE Journal of},
+  year = {2007},
+  volume = {42},
+  pages = {2860-2869},
+  number = {12},
+  month = {Dec. },
+  abstract = {We propose an all-digital UWB transmitter architecture that exploits
+	the low duty cycle of impulse-radio UWB to achieve ultra-low power
+	consumption. The design supports the IEEE 802.15.4a standard and
+	is demonstrated for its mandatory mode. A digitally controlled oscillator
+	produces the RF carrier between 3 and 10 GHz. It is embedded in a
+	phase-aligned frequency-locked loop that starts up in 2 ns and thus
+	exploits the signal duty cycle that can be as low as 3%. A fully
+	dynamic modulator shapes the BPSK symbols in discrete steps at the
+	499.2 MHz chip rate as required by the standard. The transmitter
+	can operate in any 499.2 MHz band of the standard between 3.1 and
+	10 GHz, and the generated signal fulfills the emission spectral mask.
+	The jitter accumulation over a burst is below 6 psRMS, which is within
+	specifications. The transmitter was realized in a 1 V 90 nm digital
+	CMOS technology, and its power consumption drawn from a 1 V supply
+	is from 0.65 mW at 3.1 GHz to 1.4 mW at 10 GHz for a 1 Mb/s data
+	rate.},
+  doi = {10.1109/JSSC.2007.908665},
+  file = {:Research/Reference/Ultra Wideband/[RyVaDeCr07]A 0.65-to-1.4 nJ\:Burst 3-to-10 GHz UWB All-Digital TX in 90 nm CMOS for IEEE 802.15.4a.pdf:PDF},
+  issn = {0018-9200},
+  keywords = {CMOS integrated circuits, frequency locked loops, personal area networks,
+	phase shift keying, transmitters, ultra wideband communicationBPSK,
+	CMOS, IEEE 802.15.4a, UWB all-digital TX, all-digital UWB transmitter,
+	digitally controlled oscillator, dynamic modulator, frequency 3 GHz
+	to 10 GHz, impulse-radio UWB, jitter, phase-aligned frequency-locked
+	loop, size 90 nm},
+  owner = {wei tang},
+  timestamp = {2009.10.31}
+}
+
+@ARTICLE{RyVeBaVa07,
+  author = {Ryckaert, J., Verhelst, M., Badaroglu, M., D'Amico, S., De Heyn,
+	V., Desset, C., Nuzzo, P., Van Poucke, B., Wambacq, P., Baschirotto,
+	A., Dehaene, W., Van der Plas, G.,},
+  title = {A CMOS Ultra-Wideband Receiver for Low Data-Rate Communication},
+  journal = {Solid-State Circuits, IEEE Journal of},
+  year = {2007},
+  volume = {42},
+  pages = {2515 -2527},
+  number = {11},
+  month = {Nov. },
+  abstract = {A low-power impulse-radio ultra-wideband receiver is demonstrated
+	for low data-rate applications. A topology selection study demonstrates
+	that the quadrature analog correlation is a good receiver architecture
+	choice when energy consumption must be minimized. The receiver operates
+	in the 3.1-5 GHz band of the UWB FCC spectrum mask on channels of
+	500 MHz bandwidth. The pulse correlation operation is done in the
+	analog domain in order to reduce the ADC sampling speed down to the
+	pulse repetition rate, thereby reducing the power consumption. The
+	receiver comprises a low-noise amplifier with full on-chip matching
+	network, an RF local oscillator generation, two quadrature mixers,
+	two analog baseband chains followed by two ADCs, and a clock generation
+	network. The receiver is implemented in 0.18 mum CMOS technology
+	and achieves 16 mA power consumption at 20 Mpulses/s pulse repetition
+	rate.},
+  doi = {10.1109/JSSC.2007.907195},
+  file = {:Research/Reference/Ultra Wideband/[RyVeBaVa07]A CMOS Ultra-Wideband Receiver for Low Data-Rate Communication.pdf:PDF},
+  issn = {0018-9200},
+  keywords = {ADC;CMOS ultra-wideband receiver;RF local oscillator generation;frequency
+	3.1 GHz to 5 GHz;low data-rate communication;low-noise amplifier;low-power
+	impulse-radio ultra-wideband receiver;pulse correlation operation;quadrature
+	analog correlation;CMOS digital integrated circuits;analogue-digital
+	conversion;low noise amplifiers;radio receivers;radiofrequency oscillators;ultra
+	wideband communication;},
+  owner = {wei tang},
+  timestamp = {2010.02.23}
+}
+
+@ARTICLE{Sake07,
+  author = {Sankaran, S. and O, K.K.},
+  title = {A Ultra-Wideband Amplitude Modulation (AM) Detector Using Schottky
+	Barrier Diodes Fabricated in Foundry CMOS Technology},
+  journal = {Solid-State Circuits, IEEE Journal of},
+  year = {2007},
+  volume = {42},
+  pages = {1058 -1064},
+  number = {5},
+  month = {may },
+  abstract = {Utility of Schottky diodes fabricated in foundry digital 130-nm CMOS
+	technology is demonstrated by implementing an ultra-wideband (UWB)
+	amplitude modulation detector consisting of a low-noise amplifier
+	(LNA), a Schottky diode rectifier, and a low-pass filter. The input
+	and output matching of the detector is better than -10 dB from 0-10.3
+	GHz and 0-1.7 GHz, respectively, and almost covers the entire UWB
+	frequency band (3.1-10.6 GHz). The measured peak conversion gain
+	is -2.2dB. The sensitivity over the band for amplitude modulation
+	with the minimum E b/No of 6 dB is between -53 and -56 dBm. The power
+	consumption is only 8.5 mW},
+  doi = {10.1109/JSSC.2007.894300},
+  file = {:Research/Reference/Ultra Wideband/[Sake07]A Ultra-Wideband Amplitude Modulation (AM) Detector Using Schottky Barrier Diodes Fabricated in Foundry CMOS Technology.pdf:PDF},
+  issn = {0018-9200},
+  keywords = {-2.2 dB;0 to 10.3 GHz;130 nm;8.5 mW;Schottky barrier diodes;Schottky
+	diode rectifier;UWB frequency band;foundry digital CMOS technology;low-noise
+	amplifier;low-pass filter;ultra-wideband amplitude modulation detector;CMOS
+	digital integrated circuits;Schottky diodes;UHF integrated circuits;amplitude
+	modulation;field effect MMIC;peak detectors;ultra wideband technology;},
+  owner = {wei tang},
+  timestamp = {2010.03.16}
+}
+
+@ARTICLE{SeCh09,
+  author = {See, T.S.P. and Zhi Ning Chen},
+  title = {Experimental Characterization of UWB Antennas for On-Body Communications},
+  journal = {Antennas and Propagation, IEEE Transactions on},
+  year = {2009},
+  volume = {57},
+  pages = {866 -874},
+  number = {4},
+  month = {april },
+  abstract = {In this paper, the radiation of three types of ultrawideband (UWB)
+	antennas is experimentally characterized for near/on human body scenarios.
+	The transmission performance for vertical and horizontal polarizations
+	is measured at different body orientations. The received pulses are
+	analyzed in the time domain by selecting Dirac impulse and sine-modulated
+	Gaussian monocycle as source pulses. The peak-to-peak amplitudes,
+	fidelity, and stretch ratio of the waveforms of the received pulses
+	are computed based on the measured results. In measurements, three
+	types of UWB antennas are studied, namely an omnidirectional monopole
+	antenna, directional suspended plate antenna, and printed diversity
+	antenna. From the study, it is found that the omnidirectional antenna
+	experiences an increase in the transmission due to the reflections
+	from the body but suffers from narrower horizontal coverage due to
+	a higher attenuation as the body turns away from the transmit antenna
+	compared to the directional antenna. However, the directional antenna
+	is less sensitive to the distance of the antenna away from the body
+	in vertical and horizontal polarizations. The diversity antenna is
+	able to maintain high peak-to-peak amplitudes in the waveforms of
+	received pulses for both polarizations and the high fidelity when
+	it is placed near the body. Therefore, the printed diversity antenna
+	is suitable for on-body-centric communications with improved quality
+	of the overall radio-frequency link.},
+  doi = {10.1109/TAP.2009.2014595},
+  file = {:Research/Reference/Ultra Wideband/[SeCh09]Experimental Characterization of UWB Antennas for On-Body Communications.pdf:PDF},
+  issn = {0018-926X},
+  keywords = {Dirac impulse;body area networks;directional suspended plate antenna;omnidirectional
+	monopole antenna;on-body communications;printed diversity antenna;sine-modulated
+	Gaussian monocycle;transmit antenna;ultra wideband antennas;body
+	area networks;directive antennas;electromagnetic wave polarisation;microstrip
+	antennas;transmitting antennas;ultra wideband antennas;},
+  owner = {wei tang},
+  timestamp = {2010.03.16}
+}
+
+@ARTICLE{SmTiHeBe06,
+  author = {Smaini, L. and Tinella, C. and Helal, D. and Stoecklin, C. and Chabert,
+	L. and Devaucelle, C. and Cattenoz, R. and Rinaldi, N. and Belot,
+	D.},
+  title = {Single-chip CMOS pulse generator for UWB systems},
+  journal = {Solid-State Circuits, IEEE Journal of},
+  year = {2006},
+  volume = {41},
+  pages = {1551-1561},
+  number = {7},
+  month = {July },
+  abstract = {This paper presents a single-chip pulse generator developed for Ultra
+	Wide Band (UWB) wireless communication systems based on impulse radio
+	technology. The chip has been integrated in a CMOS 130-nm technology
+	with a single supply voltage of 1.2 V. The basic concept is to combine
+	different delayed edges in order to form a very short duration "logical"
+	pulse, and then filter it, so as to obtain an UWB pulse. It is possible
+	to vary the output pulse shape, and thus the corresponding spectrum,
+	just by acting on the delayed edge combination. Furthermore, the
+	pulse generator supports both position modulation (2-PPM) and polarity
+	modulation (BPSK modulation) in order to convey data through the
+	air. Its power consumption remains less than 10 mW for a raw data
+	rate of up to 160 Mb/s. Spectral and temporal measurements of the
+	single-chip pulse generator are presented with an illustration of
+	the modulation effects on the power spectral density (PSD)},
+  doi = {10.1109/JSSC.2006.873896},
+  file = {:/Research/Reference/Ultra Wideband/[SmTiHeBe06]Single-chip CMOS pulse generator for UWB systems.pdf:PDF},
+  issn = {0018-9200},
+  keywords = {CMOS integrated circuits, low-power electronics, phase shift keying,
+	pulse generators, ultra wideband communication1.2 V, 130 nm, BPSK
+	modulation, CMOS technology, UWB systems, binary phase shift keying,
+	impulse radio technology, polarity modulation, position modulation,
+	power spectral density, single-chip CMOS pulse generator, wireless
+	communication systems},
+  owner = {wei tang},
+  timestamp = {2009.10.31}
+}
+
+@ARTICLE{StRaOp06,
+  author = {Stoica, L. and Rabbachin, A. and Oppermann, I.},
+  title = {A low-complexity noncoherent IR-UWB transceiver architecture with
+	TOA estimation},
+  journal = {Microwave Theory and Techniques, IEEE Transactions on},
+  year = {2006},
+  volume = {54},
+  pages = { 1637-1646},
+  number = {4},
+  month = {June},
+  abstract = {Impulse-radio (IR)-based ultra-wideband (UWB) technology is a strong
+	candidate for short-range data communication and positioning systems.
+	This paper examines the performance of time-of-arrival (TOA) position
+	estimation techniques as well as the simulated and measured performances
+	of an IR-UWB noncoherent energy-collection receiver. The noncoherent
+	IR-UWB transceiver has been designed for operation over the frequency
+	range 3.1-4.1 GHz and implemented in 0.35-?m SiGe BiCMOS technology.
+	The performance of two different algorithms, namely, the threshold-crossing
+	and the maximum selection (MAX) algorithms, are compared in terms
+	of TOA estimation error in Saleh Valenzuela channel model 3 and channel
+	model 4. The implemented structure of the TOA MAX algorithm suitable
+	for IR-UWB-based noncoherent receivers is presented. A UWB testbed
+	has been constructed in order to test and measure the transmitted
+	waveform as well the receiver performances. The simulated receiver
+	noise figure is 7.3 dB while the receiver gain is 34 dB. The TOA
+	MAX algorithm can achieve ±5-ns positioning accuracy for 95% of cases.
+	Constant transconductance tuning circuits for improved TOA estimation
+	reliability are also presented.},
+  doi = {10.1109/TMTT.2006.872056},
+  file = {:Research/Reference/Ultra Wideband/[StRaOp06]A low-complexity noncoherent IR-UWB transceiver architecture with TOA estimation.pdf:PDF},
+  issn = {0018-9480},
+  keywords = { BiCMOS integrated circuits, Ge-Si alloys, MMIC, circuit tuning, radio
+	receivers, time-of-arrival estimation, transceivers, ultra wideband
+	communication, wireless channels 0.35 micron, 3.1 to 4.1 GHz, 7.3
+	dB, BiCMOS technology, SiGe, estimation error, estimation reliability,
+	impulse-radio ultra-wideband technology, maximum selection algorithms,
+	noncoherent energy-collection receiver, positioning systems, short-range
+	data communication, threshold-crossing algorithms, time-of-arrival
+	position estimation techniques, transceiver architecture},
+  owner = {wei tang},
+  timestamp = {2009.11.04}
+}
+
+@ARTICLE{StRaReOp05,
+  author = {Stoica, L. and Rabbachin, A. and Repo, H.O. and Tiuraniemi, T.S.
+	and Oppermann, I.},
+  title = {An ultrawideband system architecture for tag based wireless sensor
+	networks},
+  journal = {Vehicular Technology, IEEE Transactions on},
+  year = {2005},
+  volume = {54},
+  pages = { 1632-1645},
+  number = {5},
+  month = {Sept.},
+  doi = {10.1109/TVT.2005.855501},
+  file = {:Research/Reference/Ultra Wideband/[StRaReOp05]An ultrawideband system architecture for tag based wireless sensor networks.pdf:PDF},
+  issn = {0018-9545},
+  keywords = { BiCMOS integrated circuits, application specific integrated circuits,
+	delay lock loops, integrated circuit design, multipath channels,
+	pulse generators, radio transmitters, ultra wideband communication,
+	wireless sensor networks 0.35 mum, 3.3 V, BiCMOS technology, UWB
+	application specific integrated circuit transceiver, UWB monocycle
+	pulse generator, UWB-IR transmitter, delay locked loop, energy detection,
+	impulse radio, multipath channels, noise-like signal, tag based wireless
+	sensor networks, test circuits, time domain resolution, ultrawideband
+	system},
+  owner = {wei tang},
+  timestamp = {2009.12.08}
+}
+
+@INPROCEEDINGS{TaAnCu08,
+  author = {Wei Tang and Andreou, A.G. and Culurciello, E.},
+  title = {A low-power silicon-on-sapphire tunable ultra-wideband transmitter},
+  booktitle = {Circuits and Systems, 2008. ISCAS 2008. IEEE International Symposium
+	on},
+  year = {2008},
+  pages = {1974 -1977},
+  month = may,
+  abstract = {A low-power tunable transmitter for ultra-wide band (UWB) radio was
+	designed and fabricated. The design is based on a ring oscillator
+	VCO, to produce short pulses. Both the pulse duration and frequency
+	is controllable by two voltage biases. The transmitter can be used
+	in both pulse-amplitude modulation (PAM) and pulse-position modulation
+	(PPM). The circuit was fabricated on a 0.5mum silicon-on-sapphire
+	CMOS process, and has been experimentally characterized with a transmitter
+	and receiver module. The UWB transmitter produces monocycle pulses
+	of 800 ps duration. The power consumption is 75muW when the pulse
+	frequency is 3 MHz. The core pulse generator occupies 0.0091mm2 of
+	silicon area.},
+  doi = {10.1109/ISCAS.2008.4541832},
+  keywords = {frequency 3 MHz;frequency control;low-power tunable transmitter;power
+	75 muW;pulse duration control;pulse-amplitude modulation;pulse-position
+	modulation;receiver module;ring oscillator;silicon-on-sapphire CMOS
+	process;silicon-on-sapphire tunable ultra-wideband transmitter;size
+	0.5 mum;time 800 ps;ultra-wide band radio;voltage-controlled oscillator;CMOS
+	integrated circuits;pulse amplitude modulation;pulse position modulation;radio
+	receivers;radio transmitters;sapphire;silicon;ultra wideband communication;voltage-controlled
+	oscillators;},
+  owner = {wei tang},
+  timestamp = {2011.03.07}
+}
+
+@INPROCEEDINGS{TaCu09a,
+  author = {Wei Tang and Culurciello, E.},
+  title = {A low-power high-speed ultra wideband pulse radio system},
+  booktitle = {Circuits and Systems, 2009. ISCAS 2009. IEEE International Symposium
+	on},
+  year = {2009},
+  pages = {1916},
+  month = may,
+  abstract = {We present a low-power high-speed ultra-wideband (UWB) pulse radio
+	transmission test platform. The transmitter circuit is fabricated
+	on the Peregrine semiconductors 0.5 micron silicon-on-sapphire (SOS)
+	CMOS process and packaged in a DIP16 package. 12.5 Mbps data rate
+	of wireless transmission is achieved. The power consumption of the
+	transmitter is 10 mW when the pulse rate is 90 MHz. The core circuit
+	size is 70 mum by 130 mum. The transmission distance is in excess
+	of 4 m. The circuit is a transformative technology candidate for
+	high-data rate and low power wireless biomedical applications.},
+  doi = {10.1109/ISCAS.2009.5118156},
+  keywords = {Peregrine semiconductors;bit rate 12 Mbit/s;frequency 90 MHz;low-power
+	high-speed ultra wideband pulse radio system;silicon-on-sapphire
+	CMOS process;transmitter;wireless biomedical applications;wireless
+	transmission;CMOS integrated circuits;ultra wideband communication;},
+  owner = {wei tang},
+  timestamp = {2011.03.07}
+}
+
+@ARTICLE{TaCu09b,
+  author = {Wei Tang and Culurciello, E.},
+  title = {A Low-Power High-Speed Ultra-Wideband Pulse Radio Transmission System},
+  journal = {Biomedical Circuits and Systems, IEEE Transactions on},
+  year = {2009},
+  volume = {3},
+  pages = {286 -292},
+  number = {5},
+  month = oct.,
+  doi = {10.1109/TBCAS.2009.2031603},
+  issn = {1932-4545},
+  keywords = {Si-Al2O3;bit rate 14 Mbit/s;compact pulse generator;demonstration-testing
+	system;distance 3.2 m to 4 m;frequency 90 MHz to 270 MHz;high-speed
+	pulse radio transmission system;high-speed wireless biosensors;implantable
+	biosensors;integrated transmitter;low-power pulse radio transmission
+	system;power 10 mW to 21 mW;power consumption;pulse modulator;silicon-on-sapphire
+	process;size 0.5 mum;size 130 mum;size 420 mum;size 70 mum;ultra-wideband
+	pulse radio transmission system;ultra-wideband transmitter;biomedical
+	electronics;biosensors;integrated circuits;prosthetics;pulse generators;pulse
+	modulation;radio transmitters;silicon-on-insulator;ultra wideband
+	communication;},
+  owner = {wei tang},
+  timestamp = {2011.03.07}
+}
+
+@ARTICLE{TeFuOnSa09,
+  author = {Terada, T. and Fujiwara, R. and Ono, G. and Norimatsu, T. and Nakagawa,
+	T. and Miyazaki, M. and Suzuki, K. and Yano, K. and Maeki, A. and
+	Ogata, Y. and Kobayashi, S. and Koshizuka, N. and Sakamura, K.},
+  title = {Intermittent Operation Control Scheme for Reducing Power Consumption
+	of UWB-IR Receiver},
+  journal = {Solid-State Circuits, IEEE Journal of},
+  year = {2009},
+  volume = {44},
+  pages = {2702-2710},
+  number = {10},
+  month = {Oct. },
+  abstract = {A low power ultra-wideband impulse radio (UWB-IR) receiver was developed
+	in 0.18-mum CMOS. All circuits of the receiver AFE operate intermittently
+	with a sampling clock of an analog-digital converter (ADC). The sampling
+	rate of the ADC is equal to the pulse repetition frequency of the
+	received signals. Power consumption of the receiver AFE is reduced
+	by 60% using a developed intermittent operation scheme without degrading
+	of receiver sensitivity. As a result, the power consumption of the
+	receiver AFE is 38 mW. The receiver has a data rate of 258 kb/s over
+	a distance of 52 m and of 10.7 Mb/s over a distance of 14 m.},
+  doi = {10.1109/JSSC.2009.2027533},
+  file = {:Research/Reference/Ultra Wideband/[TeFuOnSa09]Intermittent Operation Control Scheme for Reducing Power Consumption of UWB-IR Receiver.pdf:PDF},
+  issn = {0018-9200},
+  keywords = {CMOS digital integrated circuits, analogue-digital conversion, radio
+	receivers, ultra wideband communicationCMOS, UWB-IR receiver, analog-digital
+	converter, bit rate 10.7 Mbit/s, bit rate 258 kbit/s, distance 14
+	m, distance 52 m, intermittent operation control scheme, power 38
+	mW, power consumption reduction, pulse repetition frequency, sampling
+	clock, ultra-wideband impulse radio receiver},
+  owner = {wei tang},
+  timestamp = {2009.11.11}
+}
+
+@ARTICLE{TeYoMuKu06,
+  author = {Terada, T. and Yoshizumi, S. and Muqsith, M. and Sanada, Y. and Kuroda,
+	T.},
+  title = {A CMOS ultra-wideband impulse radio transceiver for 1-mb/s data communications
+	and ±2.5-cm range finding},
+  journal = {Solid-State Circuits, IEEE Journal of},
+  year = {2006},
+  volume = {41},
+  pages = { 891-898},
+  number = {4},
+  month = {April},
+  abstract = {A CMOS ultra-wideband impulse radio (UWB-IR) transceiver was developed
+	in 0.18-?m CMOS technology. It can be used for 1-Mb/s data communications
+	as well as for precise range finding within an error of ±2.5 cm.
+	The power consumptions of the transmitter and receiver for data communication
+	are 0.7 and 4.0 mW, respectively. When an LNA operates intermittently
+	through bias switching, the power consumption of the transceiver
+	is only 1 mW. The range for data communication is 1 m with BER of
+	10-3. For ranging applications, the transmitter can reduce the power
+	to 0.7 ?W for 1k pulses per second, and the receiver consumes little
+	power. The transceiver design, all-digital transmitter, and intermittent
+	circuit operation at the receiver reduce the power consumption dramatically,
+	which makes the transceiver well suited for applications like sensor
+	networks. The electronic field intensity is lower than 35 ?V/m, and
+	thus the UWB system can be operated even under the current Japan
+	radio regulations.},
+  doi = {10.1109/JSSC.2006.870760},
+  file = {:Research/Reference/Ultra Wideband/[TeYoMuKu06]A CMOS ultra-wideband impulse radio transceiver for 1-mb\:s data communications and ±2.5-cm range finding.pdf:PDF},
+  issn = {0018-9200},
+  keywords = {CMOS integrated circuits, data communication equipment, distance measurement,
+	error statistics, transceivers, ultra wideband communication 0.18
+	micron, 0.7 mW, 1 Mbit/s, 1 m, 1 mW, 4.0 mW, CMOS technology, UWB
+	system, UWB-IR transceiver, all-digital transmitter, bias switching,
+	data communications, electronic field intensity, impulse radio transceiver,
+	intermittent circuit operation, range finding, transceiver design,
+	ultrawideband transceiver},
+  owner = {wei tang},
+  timestamp = {2009.10.31}
+}
+
+@INPROCEEDINGS{ThDeDe08,
+  author = {Thoppay, P.E. and Dehollain, C. and Declercq, M.J.},
+  title = {A 7.5mA 500 MHz UWB receiver based on super-regenerative principle},
+  booktitle = {Solid-State Circuits Conference, 2008. ESSCIRC 2008. 34th European},
+  year = {2008},
+  pages = {382-385},
+  month = {Sept.},
+  abstract = {Low power impulse radio-ultra wide band(IRUWB) receivers have potential
+	application in the area of wireless sensor networks. In this paper
+	the possibility of super-regenerative receivers for pulse detection
+	is demonstrated. The super-regenerative receiver is implemented in
+	a 0.18 mum CMOS process for a 500 MHz bandwidth (-3 dB) centered
+	at 3.8 GHz. The receiver is operating at 1.5 V and consumes a peak
+	current of 7.5 mA. The receiver shows a 16.5 mV amplitude difference
+	between the presence and absence of a pulse at an average received
+	power of -91.3 dBm at a pulse repetition rate of 1 MHz.},
+  doi = {10.1109/ESSCIRC.2008.4681872},
+  file = {:Research/Reference/Ultra Wideband/[ThDeDe08]A 7.5mA 500 MHz UWB receiver based on super-regenerative principle.pdf:PDF},
+  issn = {1930-8833},
+  keywords = {low-power electronics, mixers (circuits), radio receivers, ultra wideband
+	communicationUWB receiver, current 7.5 mA, frequency 3.8 GHz, frequency
+	500 MHz, low power impulse radio-ultra wide band receivers, pulse
+	detection, size 0.18 mum, super-regenerative principle, voltage 1.5
+	V},
+  owner = {wei tang},
+  timestamp = {2010.01.21}
+}
+
+@ARTICLE{TzCh07,
+  author = {Tung-Yuan Tzou and Fu-Chiarng Chen},
+  title = {New 0.18-um CMOS Pulse Generator for Impulse Radio Ultra-wideband
+	Communication Systems},
+  journal = {Microwave and Optical Technology Letters},
+  year = {2007},
+  volume = {49},
+  pages = {342-345},
+  number = {2},
+  month = {February},
+  owner = {wei tang},
+  timestamp = {2009.10.31}
+}
+
+@ARTICLE{HeGi09,
+  author = {Van Helleputte, N. and Gielen, G.},
+  title = {A 70 pJ/Pulse Analog Front-End in 130 nm CMOS for UWB Impulse Radio
+	Receivers},
+  journal = {Solid-State Circuits, IEEE Journal of},
+  year = {2009},
+  volume = {44},
+  pages = {1862-1871},
+  number = {7},
+  month = {July },
+  abstract = {This paper presents an integrated ultra-low power analog front-end
+	(AFE) architecture for UWB impulse radio receivers. The receiver
+	is targeted towards applications like wireless sensor networks typically
+	requiring ultra energy-efficient, low data-rate communication over
+	a relative short range. The proposed receiver implements pulse correlation
+	in the analog domain to severely relax the power consumption of the
+	ADCs and digital backend. Furthermore a fully integrated prototype
+	of the analog front-end, containing a PLL, programmable clocking
+	generator, analog pulse correlator, a linear-in-dB variable gain
+	amplifier and a 4-bit ADC, is demonstrated. Several design decisions
+	and techniques, like correlation with a windowed LO instead of with
+	a matched template, exploiting the duty-cycled nature of the system,
+	operation in the sub-1 GHz band as well as careful circuit design
+	are employed to reach ultra-low power consumption. The analog front-end
+	was manufactured in 130 nm CMOS and the active circuit area measures
+	1000 mum times 1500 mum. A maximum channel conversion gain of 50
+	dB can be achieved. Two symbol rates, 39.0625 M pulses per second
+	(Mpps) and 19.531 Mpps are supported. The AFE consumes 2.3 mA from
+	a 1.2 V power supply when operating at 39.0625 Mpps. This corresponds
+	to an energy consumption of 70 pJ/pulse. A wireless link over more
+	than 10 m in an office-like environment has been demonstrated at
+	19.531 Mpps with a PER < 1E -3 under direct LOS conditions.},
+  doi = {10.1109/JSSC.2009.2020220},
+  file = {:/Research/Reference/Ultra Wideband/[HeGi09]A 70 pJ\:Pulse Analog Front-End in 130 nm CMOS for UWB Impulse Radio Receivers.pdf:PDF},
+  issn = {0018-9200},
+  keywords = {CMOS integrated circuits, amplifiers, analogue-digital conversion,
+	integrated circuit manufacture, phase locked loops, pulse generators,
+	radio receivers, ultra wideband communication, wireless sensor networksADC
+	digital backend, CMOS pulse analog front-end in architecture, LOS
+	condition, PLL, UWB impulse radio receiver, analog pulse correlator,
+	bit rate 19.531 Mbit/s, energy 70 PJ, frequency 1 GHz, integrated
+	circuit manufacture, low-data-rate communication, office-like environment
+	application, phase locked loop, programmable clocking generator,
+	size 130 nm, windowed LO duty-cycled nature, wireless sensor network},
+  owner = {wei tang},
+  timestamp = {2009.10.31}
+}
+
+@ARTICLE{VaVeDeGi10,
+  author = {Van Helleputte, N. and Verhelst, M. and Dehaene, W. and Gielen, G.},
+  title = {A Reconfigurable, 130 nm CMOS 108 pJ/pulse, Fully Integrated IR-UWB
+	Receiver for Communication and Precise Ranging},
+  journal = {Solid-State Circuits, IEEE Journal of},
+  year = {2010},
+  volume = {45},
+  pages = {69-83},
+  number = {1},
+  month = {Jan. },
+  doi = {10.1109/JSSC.2009.2031799},
+  file = {:Research/Reference/ADC/[VaJoNo99]Applications of asynchronous circuits.pdf:PDF},
+  issn = {0018-9200},
+  owner = {wei tang},
+  timestamp = {2010.01.03}
+}
+
+@INPROCEEDINGS{VeHeGiDe09,
+  author = {Verhelst, M. and Van Helleputte, N. and Gielen, G. and Dehaene, W.},
+  title = {A reconfigurable, 0.13µm CMOS 110pJ/pulse, fully integrated IR-UWB
+	receiver for communication and sub-cm ranging},
+  booktitle = {Solid-State Circuits Conference - Digest of Technical Papers, 2009.
+	ISSCC 2009. IEEE International},
+  year = {2009},
+  pages = {250-251,251a},
+  month = {Feb.},
+  abstract = {Impulse radio ultra-wideband (IR-UWB) proved to be a strong candidate
+	for energy-efficient communication and ranging, resulting in multiple
+	low-energy IR-UWB implementations. Current state-of the art publications
+	however only realize parts of a complete IR-UWB RX system, lacking
+	either a digital back-end (DBE), an analog front-end (AFE) and/or
+	algorithms for synchronization and ranging. A 110 pJ/pulse, single-chip
+	IR-UWB receiver for operation in the 0 to 960 MHz band is presented
+	in 0.13 mum CMOS.Wireless communication was demonstrated with a radio
+	range in excess of 10 m, the furthest published for similar radios.},
+  doi = {10.1109/ISSCC.2009.4977402},
+  file = {:Research/Reference/Ultra Wideband/[VeHeGiDe09]A reconfigurable, 0.13µm CMOS 110pJ\:pulse, fully integrated IR-UWB receiver for communication and sub-cm ranging.pdf:PDF},
+  keywords = {CMOS integrated circuits, radio receivers, ultra wideband communicationCMOS
+	process, energy 110 pJ, energy-efficient communication, frequency
+	0 MHz to 960 MHz, fully-integrated IR-UWB receiver, impulse radio
+	ultra-wideband receiver, size 0.13 mum, wireless communication},
+  owner = {wei tang},
+  timestamp = {2009.10.31}
+}
+
+@ARTICLE{WaNiBr06,
+  author = {Wang, S.B.T. and Niknejad, A.M. and Brodersen, R.W.},
+  title = {Design of a Sub-mW 960-MHz UWB CMOS LNA},
+  journal = {Solid-State Circuits, IEEE Journal of},
+  year = {2006},
+  volume = {41},
+  pages = {2449-2456},
+  number = {11},
+  month = {Nov. },
+  abstract = {This paper presents a sub-mW ultra-wideband (UWB) fully differential
+	CMOS low-noise amplifier (LNA) operating below 960 MHz for sensor
+	network applications. By utilizing both nMOS and pMOS transistors
+	to boost the transconductance, coupling the input signals to the
+	back-gates of the transistors, and combining the common-gate and
+	shunt-feedback topologies, the LNA achieves 13 dB of power gain,
+	a 3.6 dB minimum noise figure, and -10 dBm of IIP3 with only 0.72
+	mW of power consumption from a 1.2 V supply},
+  doi = {10.1109/JSSC.2006.883321},
+  file = {:Research/Reference/Ultra Wideband/[WaNiBr06]Design of a Sub-mW 960-MHz UWB CMOS LNA.pdf:PDF},
+  issn = {0018-9200},
+  keywords = {CMOS integrated circuits, impedance matching, integrated circuit design,
+	low noise amplifiers, mixed analogue-digital integrated circuits,
+	ultra wideband technology0.72 mW, 1.2 V, 13 dB, 3.6 dB, 960 MHz,
+	CMOS low-noise amplifier, amplifier noise, broadband impedance matching,
+	fully differential low-noise amplifier, integrated circuit design,
+	nMOS transistors, pMOS transistors, sensor network applications,
+	ultra-wideband low-noise amplifier},
+  owner = {wei tang},
+  timestamp = {2009.11.12}
+}
+
+@PHDTHESIS{Wa05,
+  author = {Stanley Bo-Ting Wang},
+  title = {Design of ultra-wideband RF front-end},
+  school = {University of California, Berkeley, CA},
+  year = {2005},
+  file = {:Research/Reference/Ultra Wideband/[Wa05]Design of ultra-wideband RF front-end.pdf:PDF},
+  owner = {wei tang},
+  timestamp = {2009.12.08}
+}
+
+@ARTICLE{WeBlLeCh05,
+  author = {Wentzloff, D.D. and Blazquez, R. and Lee, F.S. and Ginsburg, B.P.
+	and Powell, J. and Chandrakasan, A.P.},
+  title = {System design considerations for ultra-wideband communication},
+  journal = {Communications Magazine, IEEE},
+  year = {2005},
+  volume = {43},
+  pages = { 114-121},
+  number = {8},
+  month = {Aug.},
+  doi = {10.1109/MCOM.2005.1497561},
+  file = {:Research/Reference/Ultra Wideband/[WeBlLeCh05]System design considerations for ultra-wideband communication.pdf:PDF},
+  issn = {0163-6804},
+  keywords = { analogue-digital conversion, phase shift keying, prototypes, radio
+	links, radio receivers, radio transmitters, ultra wideband antennas
+	3.1 to 10.6 GHz, UWB antennas, analog-to-digital conversion, baseband
+	processing, binary phase shift keyed pulses, demodulation, discrete
+	prototype, high-data-rate pulsed ultrawideband system design, receiver,
+	system design considerations, transmitter, ultrawideband communication,
+	wideband direct conversion front-end, wireless link},
+  owner = {wei tang},
+  timestamp = {2009.11.21}
+}
+
+@INPROCEEDINGS{WeCh07,
+  author = {Wentzloff, D.D. and Chandrakasan, A.P.},
+  title = {A 47pJ/pulse 3.1-to-5GHz All-Digital UWB Transmitter in 90nm CMOS},
+  booktitle = {Solid-State Circuits Conference, 2007. ISSCC 2007. Digest of Technical
+	Papers. IEEE International},
+  year = {2007},
+  pages = {118-591},
+  month = {Feb.},
+  abstract = {An all-digital UWB TX is presented that generates PPM pulses with
+	a center frequency tunable to 3 channels in the 3.1-to-5GHz band
+	without the use of an RF oscillator. A delay-based spectral scrambling
+	technique is proposed that exploits the digital architecture. The
+	circuit achieves 47pJ/b at a data rate of 10Mb/s.},
+  doi = {10.1109/ISSCC.2007.373616},
+  file = {:Research/Reference/Ultra Wideband/[WeCh07]A 47pJ\:pulse 3.1-to-5GHz All-Digital UWB Transmitter in 90nm CMOS.pdf:PDF},
+  issn = {0193-6530},
+  keywords = {CMOS digital integrated circuits, pulse position modulation, radio
+	transmitters, ultra wideband technology10 Mbits/s, 3.1 to 5 GHz,
+	90 nm, CMOS integrated circuits, PPM pulses, RF oscillator, all-digital
+	UWB transmitter, delay-based spectral scrambling, digital architecture,
+	pulse position modulation, ultra wideband transmitter},
+  owner = {wei tang},
+  timestamp = {2009.12.03}
+}
+
+@ARTICLE{WeCh06,
+  author = {Wentzloff, D.D. and Chandrakasan, A.P.},
+  title = {Gaussian pulse Generators for subbanded ultra-wideband transmitters},
+  journal = {Microwave Theory and Techniques, IEEE Transactions on},
+  year = {2006},
+  volume = {54},
+  pages = { 1647-1655},
+  number = {4},
+  month = {June},
+  abstract = {This paper presents calculations for approximating the measured spectrum
+	of pulsed signals in the high and low pulse-repetition-frequency
+	(PRF) region. Experimentally verified peak and average power calculations
+	are presented for pulse trains with no modulation and when modulated
+	by random data using binary phase-shift keying (BPSK). A pulse generator
+	is presented that is built using commercially available discrete
+	components. BPSK pulses are generated at a PRF of 50 MHz. The output
+	spectrum has a center frequency of 5.355 GHz and a -10-dB bandwidth
+	of 550 MHz. A technique for pulse shaping is presented that approximates
+	a Gaussian pulse by exploiting the exponential behavior of a bipolar
+	junction transistor. This technique is demonstrated by a pulse generator
+	fabricated in a 0.18-?m SiGe BiCMOS process. BPSK pulses are generated
+	by inverting a local oscillator signal as opposed to the reference
+	pulse, improving matching. Pulses are transmitted at a PRF of 100
+	MHz and centered in 528-MHz-wide channels equally spaced within the
+	3.1-10.6-GHz ultra-wideband band. Measurement results for both transmitters
+	match well with calculated values.},
+  doi = {10.1109/TMTT.2006.872053},
+  file = {:Research/Reference/Ultra Wideband/[WeCh06]Gaussian pulse Generators for subbanded ultra-wideband transmitters.pdf:PDF},
+  issn = {0018-9480},
+  keywords = { phase shift keying, pulse generators, pulse modulation, pulse shaping,
+	radio transmitters, spectral analysers, ultra wideband communication
+	0.18 micron, 100 MHz, 3.1 to 10.6 GHz, 5.355 GHz, 50 MHz, 528 MHz,
+	550 MHz, BiCMOS process, Gaussian pulse generators, SiGe, binary
+	phase-shift keying, bipolar junction transistor, pulse shaping, subbanded
+	ultra-wideband transmitters},
+  owner = {wei tang},
+  timestamp = {2009.11.04}
+}
+
+@INPROCEEDINGS{WeLeDaCh07,
+  author = {Wentzloff, D.D. and Lee, F.S. and Daly, D.C. and Bhardwaj, M. and
+	Mercier, P.P. and Chandrakasan, A.P.},
+  title = {Energy Efficient Pulsed-UWB CMOS Circuits and Systems},
+  booktitle = {Ultra-Wideband, 2007. ICUWB 2007. IEEE International Conference on},
+  year = {2007},
+  pages = {282-287},
+  month = {Sept.},
+  abstract = {A custom UWB transceiver chipset is presented that communicates in
+	three 550 MHz-wide channels in the 3.1 to 5 GHz band by using pulse
+	position modulation (PPM). The transmitter uses an all-digital architecture
+	and calibration technique to synthesize pulses with programmable
+	width and center frequency. No analog bias currents or RF oscillators
+	are required in the transmitter. The receiver performs channel-selection
+	filtering, energy detection, and bit-slicing. The receiver circuits
+	operate at 0.65 V and 0.5 V, and can turn on in 2 ns for duty-cycled
+	operation. The two chips are fabricated in a 90 nm CMOS process,
+	and achieve a combined 2.5 nJ/bit at a data rate of 16.7 Mb/s.},
+  doi = {10.1109/ICUWB.2007.4380956},
+  file = {:Research/Reference/Ultra Wideband/[WeLeDaCh07]Energy Efficient Pulsed-UWB CMOS Circuits and Systems.pdf:PDF},
+  keywords = {CMOS integrated circuits, MMIC, pulse position modulation, transceivers,
+	ultra wideband communication, wireless channelsUWB transceiver, bit
+	rate 16.7 Mbit/s, bit-slicing, calibration technique, channel-selection
+	filtering, energy detection, frequency 3.1 GHz to 5 GHz, pulse position
+	modulation, pulsed-UWB CMOS circuits, size 90 nm, transmitter, voltage
+	0.5 V, voltage 0.65 V},
+  owner = {wei tang},
+  timestamp = {2009.11.21}
+}
+
+@ARTICLE{YaXiZh09,
+  author = {Ying-Ying Yang and Qing-Xin Chu and Zhi-An Zheng},
+  title = {Time Domain Characteristics of Band-Notched Ultrawideband Antenna},
+  journal = {Antennas and Propagation, IEEE Transactions on},
+  year = {2009},
+  volume = {57},
+  pages = {3426 -3430},
+  number = {10},
+  month = {oct. },
+  abstract = {A study of time domain characteristics of band-notched ultrawideband
+	(UWB) antennas is presented. Two parameters - the correlation factor
+	and the pulse width stretch ratio (SR) are resorted to estimate the
+	time domain characteristics. The high correlation and the values
+	of SR show that the previously proposed antennas are suitable for
+	short-range UWB impulse radio. Ringing distortion of receiving antenna
+	signals caused by the band-notched characteristics is discussed.
+	Measured magnitudes of transfer function and group delay are exhibited.
+	The primary study in this communication is to demonstrate the good
+	performances of the previously proposed band-notched UWB antennas
+	in short-range UWB signal transmission, propagation and reception
+	in time domain.},
+  doi = {10.1109/TAP.2009.2028708},
+  file = {:Research/Reference/Ultra Wideband/[YaXiZh09]Time Domain Characteristics of Band-Notched Ultrawideband Antenna.pdf:PDF},
+  issn = {0018-926X},
+  keywords = {band-notched ultrawideband antenna;correlation factor;group delay;receiving
+	antenna signal;ringing distortion;time domain characteristics;transfer
+	function;correlation methods;distortion;notch filters;time-domain
+	analysis;ultra wideband antennas;},
+  owner = {wei tang},
+  timestamp = {2010.03.16}
+}
+
+@ARTICLE{YeLiSoWa10,
+  author = {Ye, L. and Liao, H. and Song, F. and Chen, J. and Li, C. and Zhao,
+	J. and Liu, R. and Wang, C. and Shi, C. and Liu, J. and Huang, R.
+	and Wang, Y.},
+  title = {A Single-Chip CMOS UHF RFID Reader Transceiver for Chinese Mobile
+	Applications},
+  journal = {Solid-State Circuits, IEEE Journal of},
+  year = {2010},
+  volume = {45},
+  pages = {1316 -1329},
+  number = {7},
+  month = {july },
+  abstract = { UHF RFID reader transceiver for Chinese local standard (840 #x2013;845
+	MHz and 920 #x2013;925 MHz), in concord with the protocols of EPC
+	Class-1 Gen-2 and ISO/IEC 18000 #x2013;6C, is presented. A highly
+	linear RF front-end with low flicker noise, an on-chip self-jammer
+	cancellation (SC) circuit with fast time-varying cut-off frequency
+	and a DC-offset cancellation (DCOC) circuit are proposed to deal
+	with the large self-jammer in the receiver. In the presence of 22
+	dBm PA output power, the receiver achieves a sensitivity of $-hbox{79~dBm}$
+	including the 15 dB loss of the directional coupler. A CMOS class-AB
+	PA is integrated in the transmitter, with 22 dBm output power and
+	35% PAE. The spectrum mask achieves ${hbox{ACPR}}_{1}$ of $-{hbox
+	{45~dBc}}$ and ${hbox{ACPR}}_{2}$ of $-{hbox {60~dBc}}$ . A sigma-delta
+	fractional-N PLL with a single LC VCO is also implemented for good
+	phase noise ($-hbox{126~dBc/Hz}$ @ 1 MHz offset) and high frequency
+	resolution within 1 kHz. This single-chip is fabricated in a 0.18$~
+	mu{hbox {m}}$ standard CMOS process. It occupies a silicon area of
+	13.5 $ ~{hbox {mm}}^{2}$ and dissipates 203 mW from a 1.8 V supply
+	voltage when transmitting 7.5 dBm output power. },
+  doi = {10.1109/JSSC.2010.2049459},
+  file = {:Research/Reference/RFIC/[YeLiSoWa10]A Single-Chip CMOS UHF RFID Reader Transceiver for Chinese Mobile Applications.pdf:PDF},
+  issn = {0018-9200},
+  owner = {wei tang},
+  timestamp = {2010.06.28}
+}
+
+@INPROCEEDINGS{ZhToYaLi05,
+  author = {Yuanjin Zheng, Yan Tong, Jiangnan Yan, Yong-Ping Xu, Wooi Gan Yeoh,
+	Fujiang Lin,},
+  title = {A low power noncoherent CMOS UWB transceiver ICs},
+  year = {2005},
+  pages = { 347 - 350},
+  month = {June},
+  abstract = {A fully integrated pulse based UWB transmitter and receiver (TRX)
+	using a novel and simple noncoherent architecture is presented. Fabricated
+	in a 0.18 mu;m CMOS process, the signal from the transmitter is binary
+	amplitude modulated pulses and meets FCC UWB low frequency band (3.1-5
+	GHz) specification. The receiver archives a noise figure of 7.5 dB,
+	IIP3 of -14 dBm, and sensitivity of -72 dBm. The TRX can attain a
+	transmission rate up to 50 Mbps without synchronization circuits
+	and consumes 41.4 mW average power.},
+  doi = {10.1109/RFIC.2005.1489805},
+  file = {:Research/Reference/Ultra Wideband/[ZhToYaLi05]A low power noncoherent CMOS UWB transceiver ICs.pdf:PDF},
+  issn = {1529-2517},
+  journal = {Radio Frequency integrated Circuits (RFIC) Symposium, 2005. Digest
+	of Papers. 2005 IEEE},
+  keywords = { 0.18 micron; 3.1 to 5 GHz; 41.4 mW; 50 Mbit/s; 7.5 dB; CMOS process;
+	FCC UWB low frequency band specification; IIP3; TRX; average power;
+	binary amplitude modulated pulse transmitter signal; fully integrated
+	pulse based UWB transmitter receiver; low power noncoherent CMOS
+	UWB transceiver IC; noncoherent architecture; pulse generator; pulse
+	modulator; receiver noise figure; sensitivity; transmission rate;
+	CMOS integrated circuits; integrated circuit design; integrated circuit
+	measurement; integrated circuit noise; low-power electronics; radio
+	receivers; radio transmitters; telecommunication standards; transceivers;
+	ultra wideband communication;},
+  owner = {wei tang},
+  timestamp = {2010.02.23}
+}
+
+@ARTICLE{ZaMeAl06,
+  author = {Zasowski, T. and Meyer, G. and Althaus, F. and Wittneben, A.},
+  title = {UWB signal propagation at the human head},
+  journal = {Microwave Theory and Techniques, IEEE Transactions on},
+  year = {2006},
+  volume = {54},
+  pages = { 1836-1845},
+  number = {4},
+  month = {June},
+  doi = {10.1109/TMTT.2006.871989},
+  file = {:Research/Reference/Ultra Wideband/[ZaMeAl06]UWB Signal Propagation at the Human Head.pdf:PDF},
+  issn = {0018-9480},
+  keywords = { biological techniques, brain, finite difference time-domain analysis,
+	microwave propagation, microwave receivers, ultra wideband antennas,
+	ultra wideband communication 1.5 to 8 GHz, FDTD simulation, UWB antenna,
+	UWB communication, UWB signal propagation, WBAN antenna, WBAN communication,
+	body area network channel, delay spread, diffraction elimination,
+	finite-difference time-domain simulation, human head, optimize receiver
+	structures, surface waves, ultra-wideband communication, wireless
+	body area networks},
+  owner = {wei tang},
+  timestamp = {2009.11.21}
+}
+
+@ARTICLE{ZhCaTa08,
+  author = {Zhan, J.-H.C. and Carlton, B.R. and Taylor, S.S.},
+  title = {A Broadband Low-Cost Direct-Conversion Receiver Front-End in 90 nm
+	CMOS},
+  journal = {Solid-State Circuits, IEEE Journal of},
+  year = {2008},
+  volume = {43},
+  pages = {1132-1137},
+  number = {5},
+  month = {May },
+  doi = {10.1109/JSSC.2008.920358},
+  file = {:Research/Reference/Ultra Wideband/[ZhCaTa08]A Broadband Low-Cost Direct-Conversion Receiver Front-End in 90 nm CMOS.pdf:PDF},
+  issn = {0018-9200},
+  keywords = {CMOS integrated circuits, broadband networks, receivers, transistorsCMOS,
+	broadband receiver front-ends, direct-conversion receiver, frequency
+	2 GHz to 5.8 GHz, frequency 5 GHz, gain 44 dB, inductor-less prototype,
+	power 85 mW, transistors},
+  owner = {wei tang},
+  timestamp = {2009.11.21}
+}
+
+@ARTICLE{ZhJhKi09,
+  author = {Zhang, F. and Jha, A. and Gharpurey, R. and Kinget, P.},
+  title = {An Agile, Ultra-Wideband Pulse Radio Transceiver With Discrete-Time
+	Wideband-IF},
+  journal = {Solid-State Circuits, IEEE Journal of},
+  year = {2009},
+  volume = {44},
+  pages = {1336-1351},
+  number = {5},
+  month = {May },
+  doi = {10.1109/JSSC.2009.2020681},
+  file = {:Research/Reference/Ultra Wideband/[ZhJhKi09]An Agile, Ultra-Wideband Pulse Radio Transceiver With Discrete-Time Wideband-IF.pdf:PDF},
+  issn = {0018-9200},
+  keywords = {CMOS digital integrated circuits, digital-analogue conversion, discrete
+	time systems, phase locked loops, radio receivers, radio transmitters,
+	transceivers, ultra wideband technologybroadband image cancellation,
+	current 130 mA, digital-to-analog converters, discrete-time intermediate
+	frequency correlators, fast band switching, fast-settling phase-locked
+	loops, frequency 100 MHz, frequency 3.1 GHz to 9.5 GHz, high-speed
+	memories, interferer avoidance, multiband operation, partial-order
+	hold reconstruction filters, pulse generation, pulse-based CMOS ultrawideband
+	receiver, pulse-based CMOS ultrawideband transmitter, pulse-repetition
+	rate, quadrature RF up-converter, transceiver, voltage 1.2 V},
+  owner = {wei tang},
+  timestamp = {2009.12.07}
+}
+
+@ARTICLE{ZhLoLuLu09,
+  author = {Hui Zheng and Shuzuo Lou and Dongtian Lu and Cheng Shen and Tatfu
+	Chan and Luong, H.C.},
+  title = {A 3.1 GHzÐ8.0 GHz Single-Chip Transceiver for MB-OFDM UWB in 0.18-µm
+	CMOS Process},
+  journal = {Solid-State Circuits, IEEE Journal of},
+  year = {2009},
+  volume = {44},
+  pages = {414-426},
+  number = {2},
+  month = {Feb. },
+  abstract = {This paper presents the design and integration of a fully-integrated
+	dual-conversion zero-IF2 CMOS transceiver for 9-band MB-OFDM UWB
+	systems from 3.1 GHz to 8.0 GHz. The transceiver integrates all building
+	blocks including a variable-gain wideband LNA, a single combined
+	mixer for both RF down-conversion in RX and up-conversion in TX,
+	a fast-settling frequency synthesizer, and IQ ADCs and DACs. Fabricated
+	in a standard 0.18- mum CMOS process, the receiver measures maximum
+	S11 of - 13 dB, maximum NF of 8.25 dB, in-band IIP3 of better than
+	-13.7 dBm, and variable gain from 25.3 to 84.0 dB. IQ path gain and
+	phase mismatches of the receiver chain are measured to be 0.8 dB
+	and 4 deg, respectively. The transmitter achieves a minimum output
+	P-1 dB of -8.2 dBm, sideband rejection of better than -42.2 dBc,
+	and LO leakage of smaller than - 46.5 dBc.},
+  doi = {10.1109/JSSC.2008.2010758},
+  file = {:Research/Reference/Ultra Wideband/[ZhLoLuLu09]A 3.1 GHzÐ8.0 GHz Single-Chip Transceiver for MB-OFDM UWB in 0.18-$mu$ m CMOS Process.pdf:PDF},
+  issn = {0018-9200},
+  keywords = {MMIC, OFDM modulation, analogue-digital conversion, digital-analogue
+	conversion, low noise amplifiers, microwave mixers, transceivers,
+	ultra wideband communication, wideband amplifiersCMOS process, DAC,
+	IQ ADC, IQ path gain, LO leakage, MB-OFDM UWB, RF down-conversion,
+	analog-digital converter, digital-analog converter, frequency 3.1
+	GHz to 8.0 GHz, fully-integrated dual-conversion zero-IF2 CMOS transceiver,
+	gain 25.3 dB to 84.0 dB, noise figure 8.25 dB, phase mismatch, receiver
+	chain, single combined mixer, single-chip transceiver, size 0.18
+	mum, variable-gain wideband LNA},
+  owner = {wei tang},
+  timestamp = {2009.11.13}
+}
+
+@INPROCEEDINGS{ZhToAnSi06,
+  author = {Yuanjin Zheng and Yan Tong and Chyuen Wei Ang and Yong-Ping Xu and
+	Wooi Gan Yeoh and Lin, F. and Singh, R.},
+  title = {A CMOS Carrier-less UWB Transceiver for WPAN Applications},
+  booktitle = {Solid-State Circuits Conference, 2006. ISSCC 2006. Digest of Technical
+	Papers. IEEE International},
+  year = {2006},
+  pages = {378-387},
+  month = {Feb.},
+  abstract = {A carrier-less impulse-based UWB transceiver (TRX) chipset is presented.
+	The TRX employs high-order pulse transmission with analog pulse-position
+	modulation. Realized in a 0.18mum CMOS process, the TRX achieves
+	a NF in the range of 7.7 to 8.1dB, an IIP3 of -12.3dBm, and a sensitivity
+	of -80 to -72dBm. It consumes 76mW and 81 mW from a 1.8V supply in
+	transmit and receive modes, respectively},
+  doi = {10.1109/ISSCC.2006.1696069},
+  file = {:Research/Reference/Ultra Wideband/[ZhToAnSi06]A CMOS Carrier-less UWB Transceiver for WPAN Applications.pdf:PDF},
+  issn = {0193-6530},
+  keywords = {CMOS integrated circuits, personal area networks, pulse position modulation,
+	transceivers, ultra wideband technology0.18 micron, 1.8 V, 7.7 to
+	8.1 dB, 76 mW, 81 mW, CMOS process, WPAN, analog pulse position modulation,
+	carrier-less UWB transceiver, high-order pulse transmission},
+  owner = {wei tang},
+  timestamp = {2009.11.04}
+}
+
+@INPROCEEDINGS{ZhWoAsSi07,
+  author = {Yuanjin Zheng and King-Wah Wong and Annamalai Asaru, M. and Dan Shen
+	and Wen Hu Zhao and Yen Ju The and Andrew, P. and Fujiang Lin and
+	Wooi Gan Yeoh and Singh, R.},
+  title = {A 0.18?m CMOS Dual-Band UWB Transceiver},
+  booktitle = {Solid-State Circuits Conference, 2007. ISSCC 2007. Digest of Technical
+	Papers. IEEE International},
+  year = {2007},
+  pages = {114-590},
+  month = {Feb.},
+  abstract = {A dual-band transceiver able to work on both UWB low band (3 to 5GHz)
+	and high band (7 to 9GHz) is presented. A method of DSB upconversion
+	in TX, and SSB downconversion and detection in RX is proposed to
+	achieve high data rate non-coherent communication. Realized in 0.18
+	mum CMOS, the RX achieves an NF of 9.4dB, an IIP3 of -10.3dBm, and
+	a sensitivity of -76dBm. It can attain a transmission rate up to
+	800Mb/s and draw 55mA and 76mA from a 1.8V supply in TX and RX, respectively.},
+  doi = {10.1109/ISSCC.2007.373614},
+  file = {:Research/Reference/Ultra Wideband/[ZhWoAsSi07]A 0.18?m CMOS Dual-Band UWB Transceiver.pdf:PDF},
+  issn = {0193-6530},
+  keywords = {CMOS analogue integrated circuits, microwave integrated circuits,
+	transceivers, ultra wideband technology0.18 micron, 1.8 V, 3 to 5
+	GHz, 55 mA, 7 to 9 GHz, 76 mA, 9.4 dB, CMOS dual-band UWB transceiver,
+	DSB upconversion, SSB downconversion, UWB low band, high data rate
+	noncoherent communication, ultra wideband transceiver},
+  owner = {wei tang},
+  timestamp = {2009.12.03}
+}
+
+@INPROCEEDINGS{ZhWu06,
+  author = {Zhu, Y. and Wu, H.},
+  title = {Integrated Distributed Transversal Filters for Pulse Shaping and
+	Interference Suppression in UWB Impulse Radios},
+  booktitle = {Ultra-Wideband, The 2006 IEEE 2006 International Conference on},
+  year = {2006},
+  pages = {563-568},
+  month = {Sept.},
+  abstract = {The stringent emission mask and interference specifications in ultra-wideband
+	(UWB) impulse radios present great challenges for the transceiver
+	architecture design and circuit implementation. This paper proposes
+	to use integrated distributed transversal filters (DTF) for pulse
+	shaping in the transmitter and for narrow-band interference (NBI)
+	suppression in the receiver. Analyses show that an integrated DTF
+	can accurately generate notches at multiple frequencies with tunability
+	and relatively low power consumption. A 7-tap DTF prototype was implemented
+	using a commercial 0.18 mum SiGe BiCMOS technology. Measurement results
+	demonstrate the pulse shaping and interference suppression capabilities
+	of DTFs. The typical power consumption of the prototype is 30 mW},
+  doi = {10.1109/ICU.2006.281610},
+  file = {:Research/Reference/Ultra Wideband/[ZhWu06]Integrated Distributed Transversal Filters for Pulse Shaping and Interference Suppression in UWB Impulse Radios.pdf:PDF},
+  keywords = {BiCMOS integrated circuits, Ge-Si alloys, interference suppression,
+	pulse shaping, radio networks, transceivers, transversal filters,
+	ultra wideband communication0.18 micron, 0.18 mum SiGe BiCMOS technology,
+	30 mW, 7-tap DTF prototype, NBI, SiGe, UWB impulse radio, integrated
+	distributed transversal filter, narrow-band interference suppression,
+	power consumption, pulse shaping, transceiver architecture design,
+	ultrawideband system},
+  owner = {wei tang},
+  timestamp = {2009.11.04}
+}
+
+@ARTICLE{ZhZuMaWu09,
+  author = {Yunliang Zhu and Zuegel, J.D. and Marciante, J.R. and Hui Wu},
+  title = {Distributed Waveform Generator: A New Circuit Technique for Ultra-Wideband
+	Pulse Generation, Shaping and Modulation},
+  journal = {Solid-State Circuits, IEEE Journal of},
+  year = {2009},
+  volume = {44},
+  pages = {808-823},
+  number = {3},
+  month = {March },
+  abstract = {A new circuit technique, the distributed waveform generator (DWG),
+	is proposed for low-power ultra-wideband pulse generation, shaping
+	and modulation. It time-interleaves multiple impulse generators,
+	and uses distributed circuit techniques to combine generated wideband
+	impulses. Built-in pulse shaping can be realized by programming the
+	delay and amplitude of each impulse similar to an FIR filter. Pulse
+	modulation schemes such as on-off keying (OOK) and pulse position
+	modulation (PPM) can be easily applied in this architecture. Two
+	DWG circuit prototypes were implemented in a standard 0.18 mum digital
+	CMOS technology to demonstrate its advantages. A 10-tap, 10 GSample/s,
+	single-polarity DWG prototype achieves a pulse rate of 1 GHz while
+	consuming 50 mW, and demonstrates OOK modulation using 16 Mb/s PRBS
+	data. A 10-tap, 10 GSample/s, dual-polarity DWG prototype was developed
+	to generate UWB pulses compliant with the transmit power emission
+	mask. Based on the latter DWG design, a reconfigurable impulse radio
+	UWB (IR-UWB) transmitter prototype was implemented. The transmitter's
+	pulse rate can be varied from 16 MHz range up to 2.5 GHz. The bandwidth
+	of generated UWB pulses is also variable, and was measured up to
+	6 GHz (- 10 dB bandwidth). Both OOK and PPM modulation schemes are
+	successfully demonstrated using 32 Mb/s PRBS data. The IR-UWB transmitter
+	achieves a measured energy efficiency of 45 pJ/pulse, independent
+	of pulse rate.},
+  doi = {10.1109/JSSC.2009.2013770},
+  file = {:Research/Reference/Ultra Wideband/[ZhZuMaWu09]Distributed Waveform Generator- A New Circuit Technique for Ultra-Wideband Pulse Generation, Shaping and Modulation.pdf:PDF},
+  issn = {0018-9200},
+  keywords = {CMOS digital integrated circuits, FIR filters, amplitude shift keying,
+	pulse generators, radio transmitters, ultra wideband communication,
+	waveform generatorsFIR filter, IR-UWB transmitter, PRBS data, bit
+	rate 16 Mbit/s, digital CMOS technology, distributed circuit techniques,
+	distributed waveform generator, on-off keying modulation, pulse position
+	modulation, reconfigurable impulse radio, size 0.18 mum, ultra-wideband
+	pulse generation, ultra-wideband pulse modulation, ultra-wideband
+	pulse shaping},
+  owner = {wei tang},
+  timestamp = {2009.10.31}
+}
+
+@STANDARD{IEEE802154,
+  title = {IEEE Standard for Information technologyÑ Telecommunications and
+	information exchange between systemsÑ Local and metropolitan area
+	networksÑ Specific requirements Part 15.4: Wireless Medium Access
+	Control (MAC) and Physical Layer (PHY) Specifications for Low-Rate
+	Wireless Personal Area Networks (WPANs)},
+  organization = {IEEE Std 802.15.4aTM-2007 (Amendment to IEEE Std 802.15.4TM-2006)},
+  institution = {IEEE},
+  year = {2007},
+  file = {:Research/Reference/Ultra Wideband/802.15.4a-2007.pdf:PDF},
+  owner = {wei tang},
+  timestamp = {2010.01.21}
+}
+

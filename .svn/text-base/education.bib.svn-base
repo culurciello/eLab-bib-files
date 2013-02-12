@@ -1,0 +1,18 @@
+% Education papers
+
+@booklet{NHSF05,
+    author={{New Haven Science Fair Program}},
+    title = {http://www.nhsciencefair.org/html/home.html}
+}
+
+
+@article{FeBr05,
+    author={Richard M. Felder and Rebecca Brent},
+    title={Understanding Students Differences},
+    journal={Journal of Engineering Education},
+    volume= 94,
+    year= 2005,
+    pages={57 - 72},
+    month={January},
+    number= 1
+}

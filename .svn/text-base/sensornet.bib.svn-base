@@ -1,0 +1,705 @@
+% SENSORNET.BIB
+% sensor networks, image sensor networks and anything to do with wireless sensor networks (WSN)
+
+@book{IEEEProcSenseNet03,
+    title={Proceedings of IEEE Special Issue on Sensor Networks},
+    year=2003,
+    publisher = {IEEE},
+    month={August}
+}
+
+@inproceedings{Jan03,
+    author={J. Rabaey and J. Ammer and T. Karalar et. al.},
+    title={PicoRadios for wireless Sensor Networks: The Next Challenge in Ultra-Low Power Design},
+    booktitle={2002 IEEE International Solid-State Circuit Conference},
+    year={2002},
+    month={Februrary}
+}
+
+
+@article{WaLaLi01,
+    author={B. Warneke and M. Last and B. Liebowitz and K.S.J. Pister},
+    title={Smart Dust: communicating with a cubic-millimeter computer},
+    journal={Computer},
+    volume= 34,
+    year= 2001,
+    pages={44-51},
+    month={January},
+    issue= 1
+}
+
+@manual{xbow04,
+    author={Crossbow},
+    title={MPR/MIB Mote Hardware Users Manual},
+    organization={Crossbow Technology Inc.},
+    year={2004},
+    address={San Jose, CA 95134-2109},
+    note={http://www.xbow.com/}
+}
+
+@article{AkSuSa02,
+    author={I.F. Akyildiz and W. Su and Y. Sankarasubramanian and E. Cayirci},
+    title={A Survey on Sensor Networks},
+    journal={IEEE Communications Magazine},
+    volume= 42,
+    year={2002},
+    pages={102-114},
+    month={August},
+    number= 5
+}
+
+@inproceedings{GaLeBe03,
+    author={D. Gay and P. Levis and R. vonBehren and M. Welsh and E. Brewer and D. Culler},
+    title={The nesC Language: A Holistic Approach to Networked Embedded Systems},
+    booktitle={Proceedings of Programming Language Design and Implementation, PLDI},
+    year={2003},
+    month={June}
+}
+
+@article{FeAlBa00,
+    author={C. Fermuller and Y. Aloimonos and P. Baker and R. Pless and J. Neumann and B. Stuart},
+    title={Multi-camera networks: eyes from eyes},
+    journal={Proceedings of IEEE Workshop on Omnidirectional Vision, 2000},
+    volume= 12,
+    year={2000},
+    pages={11-18},
+    month={June}
+}
+
+
+@inproceedings{Kulk05,
+    author={Purushottam Kulkarni and Deepak Ganesan and Prashant Shenoy},
+    title={The Case for Multi-Tier Camera Sensor Network},
+    booktitle={2005 Fifteenth International Workshop on Network and Operating Systems Support for Digital Audio and Video (NOSSDAV)},
+    year={2005},
+    month={Februrary}
+}
+
+@book{DoGeSv04,
+    author={P. Doubek and I. Geys and T. Svoboda and L. Van Gool},
+    title={Cinematographic Rules Applied to a Camera Network},
+    publisher={Omnivis},
+    year={2004}
+}
+
+
+@manual{Atmel04,
+    author={Atmel},
+    title={Atmega 128/128L AVR microcontroller data sheet Rev. 2467M-AVR-11/04},
+    organization={Atmel Inc.},
+    year={2004},
+    note={http://www.atmel.com/}
+}
+
+
+@inproceedings{RaEsBa04,
+    author={M. Rahimi and D. Estrin and R. Baer and H. Uyeno and J. Warrior},
+    title={Cyclops: image sensing and interpretation in wireless networks},
+    booktitle={Second ACM Conference on Embedded Networked Sensor Systems, SenSys},
+    year={2004},
+    month={November},
+    address={Baltimore,MD}
+}
+
+@inproceedings{KoBe04,
+    author={T.H. Ko and N.M. Berry},
+    title={Distributed Feature Extraction for Event Identification},
+    booktitle={Ambient Intelligence: Second European Symposium, EUSAI Proceedings},
+    year={2004},
+    month={October},
+    pages={136-147},
+    volume=3295,
+    address = {Eindhoven, The Netherlands}
+}
+
+
+@manual{pasta05,
+    author={{PASTA}},
+    title={{PASTA Microsensor 1.0 Developers Manual}},
+    organization={USC ISI},
+    year={2005},
+    note={http://pasta.east.isi.edu/}
+}
+
+@inproceedings{LiGaYa04,
+    author = {Y.Z. Liu and W. Gao and H.X. Yao and S.H. Liu and L.J. Wang},
+    title = {Fast moving region detection scheme in ad hoc sensor network},
+    booktitle= {Proceedings Lecture Notes In Computer Science},
+    year = 2004,
+    volume = 3212,
+    issue = 2,
+    pages = {520-527}
+}
+
+
+@inproceedings{ChMa04,
+    author = {C.F. Chiasserini, E. Magli},
+    title = {Energy-efficient coding and error control for wireless video-surveillance networks},
+    booktitle= {Telecommunication Systems},
+    month={JUN-AUG},
+    year = 2004,
+    volume = 26,
+    issue = {2-4},
+    pages = {369-387}
+}
+
+@inproceedings{TeBaFu04,
+    author = {M.P. Tehrani and P.N. Bangchang and T. Fujii and M. Tanimoto},
+    title = {The optimization of distributed processing for arbitrary view generation in camera sensor networks},
+    booktitle= {IEICE Transactions On Fundamentals Of Electronics Communications And Computer Sciences},
+    month={August},
+    year = 2004,
+    volume = 8,
+    issue = {2-4},
+    pages = {1863-1870}
+}
+
+@article{Yunetal04,
+    author={K.S. Yun and al.},
+    title={A miniaturized low-power wireless remote environmental monitoring system based on electrochemical analysis},
+    journal={Sensors and Actuators B: Chemical},
+    volume= 102,
+    issue = 1,
+    year={2004},
+    pages={27-35},
+    month={September}
+}
+
+@article{DuYu04,
+    author={M.F. Duarte and H.H. Yu},
+    title={Vehicle classification in distributed sensor networks},
+    journal={Journal of Parallel and Distributed Computing},
+    volume= 64,
+    issue = 7,
+    year={2004},
+    pages={826-839},
+    month={July}
+}
+
+
+@article{NeDr04,
+    author={R. J. Nemzek and J. Dreicer},
+    title={Distributed Sensor Networks for Detection of Mobile Radioactive Sources},
+    journal={IEEE Transactions on Nuclear Science},
+    volume= 51,
+    issue = 4,
+    year={2004},
+    pages={1693-1701},
+    month={August}
+}
+
+@article{SzOsPo04,
+    author={R. Szewczyk and E. Osterweil and J. Polastre and M. Hamilton and A. Mainwaring and D. Destrin},
+    title={Habitat Monitoring With Sensor Networks},
+    journal={Communications of the ACM},
+    volume= 47,
+    issue = 6,
+    year={2004},
+    pages={34-41},
+    month={June}
+}
+
+@article{BrFrKo04,
+    author={R. Brooks and D. Friedlander and J. Koch and S. Phoha},
+    title={Tracking multiple targets with self-organizing distributed ground sensors},
+    journal={Journal of Parallel and Distributed Computing},
+    volume= 64,
+    issue = 7,
+    year={2004},
+    pages={874-885},
+    month={July}
+}
+
+
+@article{Kumagai04,
+    author={J. Kumagai},
+    title={The Secret Life of Birds},
+    journal={IEEE Spectrum},
+    volume= 41,
+    issue = 4,
+    year={2004},
+    pages={42-50},
+    month={April}
+}
+
+@article{MoLeHa04,
+    author={K. Morioka and J.H. Lee and H. Hashimoto},
+    title={Human-Following Mobile Robot in a Distributed Intelligent Sensor Network},
+    journal={IEEE Transactions on Industrial Electronics},
+    volume= 51,
+    issue = 1,
+    year={2004},
+    pages={229-238},
+    month={February}
+}
+
+@article{Goodchild03,
+    author={M. Goodchild},
+    title={Geographic Information Science And Systems For Environmental Management},
+    journal={Annual Review of Energy and the Environment},
+    volume= 28,
+    issue = 1,
+    year={2004},
+    pages={493}
+}
+
+@article{Hymer00,
+    author={D.C. Hymer},
+    title={Soil Water Evaluation Using a Hydrologic Model and Calibrated Sensor Network},
+    journal={Soil Science Society of America Journal},
+    volume= 64,
+    issue = 1,
+    year={2000},
+    pages={319-327},
+    month={Jan/Feb}
+}
+
+
+@inproceedings{Harrison04,
+    author = {C.F. Chiasserini, E. Magli},
+    title = {A low-power analog {VLSI} visual collision detector},
+    booktitle= {Advances in Neural Information Processing Systems (NIPS 2003)},
+    month={JUN-AUG},
+    year = 2004,
+    address = {Vancouver, Cananda}
+}
+
+@article{HiPa04,
+    author={C.M. Higgins and V. Pant},
+    title={A Biomimetic {VLSI} Sensor for Visual Tracking of Small Moving Targets},
+    journal={IEEE Transactions On Circuits And Systems—I: Regular Papers},
+    volume= 51,
+    issue = 12,
+    year={2004},
+    pages={2384-2394},
+    month={December}
+}
+
+@inproceedings{NiYoSa04,
+    author = {K. Nishio and H. Yonezu and S. Sawa and Y. Furukawa},
+    title = {Analog {LSI} for Motion Detection of Approaching Object with Simple-Shape Recognition Based on Lower Animal Vision},
+    booktitle= {Proceedings of the 2004 Asia and South Pacific Design Automation Conference (ASP-DAC’04)},
+    year = 2004
+}
+
+
+@article{JuAnRi04,
+    author={P. Julian and A.G. Andreou and L. Riddle and S. Shamma and G. Cauwenberghs},
+    title={A comparative study of sound localization algorithms for energy aware sensor network nodes},
+    journal={IEEE Transactions On Circuits And Systems—I: Regular Papers},
+    volume= 51,
+    issue = 4,
+    year={2004},
+    pages={640-648},
+    month={April}
+}
+
+
+@inproceedings {Lymberopoulos05,
+   author="D. Lymberopoulos and A. Savvides",
+   title="{\emph XYZ}: A Motion-Enabled, Power Aware Sensor Node Platform for Distributed Sensor Network  Applications",
+   booktitle= "To appear in the proceedings of Information Processing in Sensor Networks (IPSN), Los Angeles, CA",
+   month="April",
+   year="2005"}
+
+@inproceedings {Goldenberg05,
+     author="D. Goldenberg and A. Krishnamurthy and W. Maness and Y. R. Yang and A. Young and A.S. Morse and A. Savvides and B. Anderson",
+     title="Network Localization in Partially Localizable Networks",
+     booktitle="To appear in the proceedings of INFOCOM 2005",
+     month="April",
+     year="2005"}
+
+@inproceedings{Drineas05,
+    author="P. Drineas and M. Magdon-Ismail and G. Pandurangan and R. Virrankoski, A. Savvides",
+    title= "Distance Matrix Reconstruction from Incomplete Distance Information for Sensor Network Localization",
+    booktitle= "ENALAB Technical Report 110104",
+    month= "November",
+    year = "2004"}
+
+@inproceedings{Virrankoski04,
+    author="R.Virrankoski and A. Savvides",
+    title= "TASC: Topology Adaptive Spatial Clustering for Sensor Networks",
+    booktitle= "ENALAB Technical Report 120104",
+    month= "December",
+    year = "2004"}
+
+@inproceedings{Mantzel04,
+    author="W.E. Mantzel and H. Choi and R.G. Baraniuk",
+    title="Distributed Camera Network Localization",
+    booktitle="Proceedings of the 38th Asilomar Conference on Signals, Systems and Computers",
+    month="November",
+    year="2004"}
+
+@inproceedings{Obraczka02,
+    author="K. Obraczka and R. Manduchi and J.J. Garcia-Luna-Aceves",
+    title="Managing the Information Flow in Visual Sensor Networks",
+    booktitle="Proc. WPMC 2002: The Fifth International Symposium on Wireless Personal Multimedia Communication, Honolulu, HI. ",
+    month="October 27--30",
+    year="2002"}
+
+@InProceedings{QM95b,
+  author =  "Long Quan and Roger Mohr",
+  title =   "Self-Calibration of An Affine Camera from Multiple Views",
+  booktitle =   "Proceedings of the 6th International Conference on Computer Analysis of Images and Patterns, Prague, Czech Republic",
+  pages =   "448--455",
+  month =   "September",
+  year =    "1995",
+  keywords =    "movi95",
+  url =     "http://www.inrialpes.fr/movi/publi/Publications/1995/QM95b"
+}
+
+@inproceedings{Jan-Michael03,
+   author="Jan-Michael Frahm and Reinhard Koch",
+  title="Camera Calibration and 3D Scene Reconstruction from image sequence and rotation sensor data",
+   booktitle="Vision, Modeling, And Visualization 2003 Munich, Germany ",
+   month="Nov. 19 - 21",
+   year="2003"}
+
+@inproceedings{Devarajan04,
+   author="D. Devarajan and R. Radke",
+   title="Distributed Metric Calibration for Large-Scale Camera Networks",
+   booktitle="First Workshop on Broadband Advanced Sensor Networks (BASENETS) San Jose conjunction with BroadNets 2004",
+   month="October 25",
+   year="2004"}
+
+@inproceedings{Koppe04,
+    author="E. Koppe and A. Liers and H. Ritter and J. Schiller",
+    title="Low-Power Image Transmission in Wireless Sensor Networks using ScatterWeb Technology",
+    booktititle="Proceedings of Broadnets 2004",
+    month="October",
+    year="2004"
+}
+
+@inproceedings{Poelman97,
+    author={C. Poelman and T. Kanade},
+    title={A Paraperspective Factorization Method for Shape and Motion Recovery},
+    booktitle={IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol 19, NO 3},
+    month={March},
+    year="1997"}
+
+@inproceedings{Taylor04,
+   author= "C. Taylor",
+   title="A Scheme for Calibrating Smart Camera Networks Using Active Lights",
+   booktitle="SenSys04 Demostration Session, Baltimore, MD",
+       month="Novemeber",
+   year="2004"}
+
+
+@inproceedings{Tomasi92,
+   author= "C. Tomassi and T. Kanade",
+   title="Shape and Motion from Image Streams: a Factorization Method",
+   booktitle="Carnegie Mellon Technical Report CMU-CS-92-104",
+   year="1992"}
+
+@inproceedings{Harrison04,
+    author="R. Harrison",
+    title="A Low-Power Analog VLSI Visual Collision Detector",
+    book="Advances in Neural Information Processing Systems (NIPS 2003), Vancouver, Cananda",
+    year="2004"}
+
+@inproceedings{Mayer94,
+    author="Time-to-Collision from First Order Models of the Motion Field",
+    title="IEEE Transactions on Robotics and Automation, Vol 10, No. 6",
+    month="December",
+    year="2004"}
+
+@inproceedings{Nishio04,
+    author="K. Nishio and H. Yonezu and S. Sawa and Y. Furukawa",
+    title="Analog LSI for Motion Detection of Approaching Object with Simple-Shape Regognition Based on Lower Animal Vision",
+    booktitle="Proceedings of the 2004 Asia and South Pacific Design Automation Conference",
+    year="2004"}
+
+@inproceedings{Faugeras92,
+    author="S.J Maybeck, O.D Faugeras",
+    title= "A theory of self-calibration of a moving camera",
+    book= "International Journal of Computer Vision 8(2):123-151",
+    year = "2004"}
+
+
+@inproceedings{Thiago05,
+    author={T. Teixeira and A.G. Andreou and E. Culurciello},
+    title={An Address-Event Image Sensor Network},
+    booktitle={2006 IEEE International Symposium on Circuits and Systems},
+    year={2006},
+    month={May},
+    pages={955 - 958}
+
+}
+
+@inproceedings{Thiago06b,
+    author="Th Teixeira and Ei Culurciello and Ev Park and Di Lymberopoulos and Aa Bd Sweeney and Ad Savvides",
+    title= "Address-Event Imagers for Sensor Networks: Evaluation and Modeling",
+    booktitle= "Proceedings of Information Processing in Sensor Networks (IPSN), April 2006",
+    year = "2006",
+    month = "April",
+    pages = "458- 466"}
+
+
+@inproceedings{Thiago06,
+    author="T. Teixeira and D. Lymberopoulos and E. Culurciello and Y. Aloimonos and A. Savvides",
+    title= " A Lightweight Camera Sensor Network Operating on Symbolic Information",
+    booktitle= "Proceedings of First Workshop on Distributed Smart Cameras 2006",
+    year = "2006",
+    month = "April",
+    pages = "55-58"}
+
+@inproceedings{Chen06,
+    author="Chunyu Chen and Maoliu Lin",
+    title= " An Improved Adaptive Centroid Estimation Algorithm",
+    book= "Proceedings of 2006 IEEE Region 10 Conference (TENCON 2006)",
+    year = "2006"}
+
+
+@article{Tuan07,
+    author={Tuan Tuan and An Rahman and Se Das and Se Trimberger and Se Kao},
+    title={A 90-nm Low-Power {FPGA} for Battery-Powered Applications},
+    journal={IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems},
+    volume= 26,
+    issue = 4,
+    year={2007},
+    pages={296 - 300},
+    month={April}
+}
+
+
+@booklet{Mejia,
+  author = {{Ri Mejia}},
+  title={Time series analysis: theory and practice}
+}
+
+@booklet{Yamamoto,
+  author = {{Taku Yamamoto}},
+  title={Time series analysis in economics}
+}
+
+@misc{XYZweb,
+  author = {{XYZ sensor node website}},
+  title = "http://www.eng.yale.edu/enalab/XYZ"
+}
+
+@misc{Ubisense,
+    author={{Ubisense website}},
+    title="http://www.ubisense.com"
+}
+
+@booklet{NYTimes,
+  author = {{Tim Weiner}},
+  title="{New York Times}, Feb. 16, 2005: A New Model Army Soldier Rolls Closer to the Battlefield"
+}
+
+
+@booklet{Stanford05,
+  author = {{Media X - Collaborative Visual Sensor Networks}},
+  title= {URL http://mediax.stanford.edu/projects/cvsn.html}
+}
+
+@booklet{umass05,
+  author = {{SensEye - Multi-Tier, Multi-Modal Camera Sensor Network}},
+  title={URL http://sensors.cs.umass.edu/projects/senseye/}
+}
+
+@booklet{byu05,
+  author = {{Visual Data Collection Sensor Networks}},
+  title={URL http://www.ee.byu.edu/vcc/sensor.phtml}
+}
+
+@booklet{ucsc05,
+  author = {{Inter-Networking Research Group (i-NRG)}},
+  title={URL http://inrg.cse.ucsc.edu/vsn.html}
+}
+
+@booklet{epfl05,
+  author = {{Low Power Sensor Network for Collective Vision}},
+  title={URL http://www5.epfl.ch/swis/page9151.html}
+}
+
+
+@inproceedings{Allin03,
+    author={Smith Allin and And Bharucha and Jew Zimmerman and David Wilson and Mike Roberson},
+    title={Toward the Automatic Assessment of Behavioral Disturbances Dementia},
+    booktitle={2nd International Workshop on Ubiquitous Computing for Pervasive Healthcare Applications (UbiHealth 2003)},
+    month = {October},
+    year={2003},
+    pages={25 - 29}
+}
+
+
+@inproceedings{Mih03,
+    author={A. Mihailidis and B. Carmichael and J. Boger and G. Fernie},
+    title={An Intelligent Environement to Support Aging-in-Place, Safely, and Independence of Older Adults with Dementia},
+    booktitle={2nd International Workshop on Ubiquitous Computing for Pervasive Healthcare Applications (UbiHealth 2003)},
+    month = {October},
+    year={2003}
+}
+
+
+@inproceedings{Tabar06,
+    author={A. Tabar and A. Keshavarz and H. Aghajan},
+    title={Smart Home Care Network using Sensor Fusion and Distributed Vision-based Reasoning},
+    booktitle={4th ACM International Workshop on Video Surveillance and Sensor Networks (VSSN 2006)},
+    month = {October},
+    year={2006},
+    pages={145 - 154}
+}
+
+
+@inproceedings{Lae06,
+    author={K. Laerhoven and B. Lo and J. Ng and S. Thiemjarus et. al.},
+    title={Medical Healthcare Monitoring with Wearable and Implantable Sensors},
+    booktitle={UbiHealth Workshop},
+    year={2004},
+
+}
+
+
+@inproceedings{Yama98,
+    author={A. Yamaguchi and M. Ogawa and T. Tamura and T. Togawa},
+    title={Monitoring Behavior in the Home using Positioning Sensor},
+    booktitle={20th International Conference of IEEE Engineering in Medicine and Biology Society},
+    month={November},
+    year={1998}
+
+}
+
+@inproceedings{Ogawa00,
+    author={M. Ogawa and S. Ochiai and K. Shoji and M. Nishihara and T. Togawa},
+    title={An Attempt of Monitoring Daily Activities at Home},
+    booktitle={22nd Joint EMBS International  Conference},
+    month={July},
+    year={2000}
+
+}
+
+@inproceedings{Ogawa02,
+    author={M. Ogawa and R. Suzuki S. Otaka and T. Izutsu and T. Tamura and T. Togawa},
+    title={Long-term Remote Behavioral Monitoring of the Elderly using Sensors Installed in Domestic Houses},
+    booktitle={2nd Joint EMBS/BMES Conference},
+    month={October},
+    year={2002}
+
+}
+
+@inproceedings{Yang04,
+    author={G. Yang and B. Lo and J. Wang and M. Rans and S. Thiemjarus and J. Ng},
+    title={From Sensor Networks to Behaviour Profiling: A Homecare Perspective of Intelligent Buildins},
+    booktitle={IEE Seminar for Intelligent Buildings},
+    month={November},
+    year={2004},
+    pages={10 - 15}
+
+
+}
+
+@inproceedings{Lo04,
+    author={B. Lo and J. Wang and G. Yang},
+    title={From Sensor Networks to Behaviour Profiling: Ubiquitous Sensing for Managed Homecare of the Elderly},
+    booktitle={IEEE 3rd International Conference on Pervasive Computing (PERVASIVE)},
+    month={May},
+    year={2005},
+    pages={1 - 7}
+
+}
+
+@inproceedings{Sixsmith04,
+    author={A. Sixsmith and N. Johnson},
+    title={A Smart Sensor to Detect the Falls of the Elderly},
+    booktitle={IEEE Pervasive Computng},
+    month={April-June},
+    volume = {2},
+    year={2004},
+    pages={42 - 47}
+}
+
+@inproceedings{Duthie89,
+    author={E. Duthie},
+    title={Falls},
+    booktitle={Medical Clinics of North America},
+    month={April-June},
+    year={1989},
+    vol={73},
+    pages={1321 - 1335}
+}
+
+@inproceedings{Alwan06,
+    author={Majd Alwan and Prabju Rajendra and Steve Kell and David Mack},
+    title={A Smart and Passive Floor-Vibration Based Fall Detector},
+    booktitle={Information and Communication Technologies},
+    month={April},
+    year={2006},
+    pages={1003 - 1007}
+}
+
+@inproceedings{Tamura05,
+    author={Toshiyo Tamura},
+    title={Wearable Accelerometer in clinical use},
+    booktitle={27th Annual Conference on Medicine and Biology },
+    month={September},
+    year={2005},
+    pages={7165 - 7166}
+}
+@inproceedings{Degen03,
+    author={Thomas Degen and Heinz Jaeckel and Michael Rufer and Stefan Wyss},
+    title={SPEEDY: a fall detector in a wrist watch},
+    booktitle={IEEE Proceedings of 7th International Symposium on Wearable Computers},
+    month={September},
+    year={2003},
+    pages={184- 187}
+}
+
+@article{Hori04,
+    author={T. Hori and Y. Nishida and H. Aizawa},
+    title={Sensor Network for Supporting Elderly Care Home},
+    journal={IEEE Proceeding of Sensors},
+    volume=2,
+    month={April-June},
+    year={2004},
+    pages={575 - 578}
+}
+
+@book{Tid98,
+    TITLE = {Falling in Old Age: Prevention and Management},
+    author={R. Tideiksaar},
+    YEAR = {1998},
+    publisher={Springer-Verlag}
+}
+
+@booklet{USCensus,
+    author={{U.S. Census Bureau Population Data Public Web Site:}},
+    title={{URL} http://www.census.gov/population/www/}
+}
+
+% refs from shoushun
+
+@article{Pellegrini08,
+	author={Stefano Pellegrini and Luca Iocchi},
+	title={Human posture tracking and classification through stereo vision and 3D model matching},
+	journal={Journal on Image and Video Processing}, 
+	number={7},
+	year={2008},
+	pages={8(2):1¨C12}
+}
+
+@inproceedings{Kleihorst08,
+	author={Chen Wu and Hamid Aghajan and Richard Kleihorst},
+	title={Real-Time Human Posture Reconstruction in Wireless Smart Camera Networks},
+	booktitle={International Conference on Information Processing in Sensor Networks}, 
+	year={2008},
+  pages={321-331}
+}
+
+@inproceedings{Shankar07,
+	author={Roozbeh Jafari and Wenchao Li and Ruzena Bajcsy and Steven Glaser and Shankar Sastry},
+	title={Physical Activity Monitoring for Assisted Living at Home},
+	booktitle={International Workshop on Wearable and Implantable Body Sensor Networks}, 	
+	year={2007},
+	month={March}
+}
+
+@article{Felde08,
+	author={Gilles Virone and Majd Alwan and Siddharth Dalal and Steven W. Kell and Beverely Turner and John A. Stankovic and Robin Felde},
+	title={Behavioral Patterns of Older Adults in Assisted Living},
+	journal={IEEE Transactions on Information Technology in Biomedicine}, 
+	Volume={12},
+	year={2008},
+	pages={387-398}
+}

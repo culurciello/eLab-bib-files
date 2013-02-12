@@ -1,0 +1,118 @@
+
+% ADC.BIB
+% analog to digital converters and DAC
+
+
+@article{Zhou97,
+    author={Z. Zhou and B. Pain and E. R. Fossum},
+    title={{CMOS} Active Pixel Sensor with On-Chip Successive Approximation Analog-To-Digital
+        Converter},
+    journal={IEEE Trans On Elect Dev},
+    volume={44},
+    year={1997},
+    pages={1759-1763},
+    month={October},
+    number={10 }
+}
+
+@article{montezapour00,
+    author={S. Montezapour and E. K. F. Lee},
+    title={A {1-V}, 8-Bit Successive Approximation {ADC} in Standard {CMOS} Process},
+    journal={IEEE Journal of Solid State Circuits},
+    volume={35},
+    year={2000},
+    pages={642-646},
+    month={April},
+    number={4 }
+}
+
+@article{promitzer01,
+    author={G. Promitzer},
+    title={12-bit Low-Power Fully Differential Switched Capacitor Noncalibrating Successive
+        Approximation {ADC} with {1MS/s}},
+    journal={IEEE Journal of Solid State Circuits},
+    volume={36},
+    year={2001},
+    pages={1138-1143},
+    month={July},
+    number={7}
+}
+
+@inproceedings{kuttner02,
+    author={F. Kuttner},
+    title={A {1.2V 10b 20Msamples/s} Non-Binary Successive Approximation {ADC} in 0.13$\mu
+        $m {CMOS}},
+    booktitle={IEEE International Solid State Circuit Conference, proceedings of.},
+    year={2002},
+    month={February},
+    volume=1,
+    pages = {176  -177}
+}
+
+
+@article{ScBoPi03,
+    author={M.D. Scott and B.E. Boser and K.S.J. Pister},
+    title={An ultralow-energy {ADC} for Smart Dust},
+    journal={IEEE Journal of Solid State Circuits},
+    volume={36},
+    year={2003},
+    pages={1123- 1129},
+    month={July},
+    number={7}
+}
+
+@article{Walden99,
+    author={Robert H. Walden},
+    title={Analog-to-Digital Converter Survey and Analysis},
+    journal={IEEE Journal of Selected Areas in Communications},
+    volume={17},
+    year={1999},
+    pages={539- 550},
+    month={April},
+    number={4}
+}
+
+
+@article{YaSa05,
+    author={H. Yang and R. Sarpeshkar},
+    title={A time-based engergy-efficient analog-to-digital converter},
+    journal={IEEE Journal of Solid State Circuits},
+    volume={40},
+    year={2005},
+    pages={1590-1601},
+    month={August},
+    number={8}
+}
+
+@article{VeCh07,
+    author={N. Verma and A.P. Chandrakasan},
+    title={{An Ultra-low Energy 12-bit Rate-Resolution Scalable SAR ADC for Wireless Sensor Nodes}},
+    journal={IEEE Journal of Solid State Circuits},
+    volume={42},
+    year={2007},
+    pages={1196 - 1205},
+    month={June},
+    number={6}
+}
+
+
+@article{GaRa07,
+    author={S. Gambini and J. Rabaey},
+    title={{Low-power Successive Approximation Converter with 0.5V Supply in 90 nm CMOS}},
+    journal={IEEE Journal of Solid State Circuits},
+    volume={42},
+    year={2007},
+    pages={2348 - 2356},
+    month={November},
+    number={11}
+}
+
+@article{Black99,
+    author={Brian Black},
+    title={Analog-to-digital Converter Architectures and Choices for System Design},
+    journal={Analog Dialogue},
+    volume={33},
+    year={1999},
+    month={August},
+    number={8}
+}

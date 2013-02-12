@@ -1,0 +1,61 @@
+
+% FABLINES.BIB
+% data on fabrication processes, manuals and devices only!
+
+
+@booklet{Pere03,
+	author={Peregrine},
+	title={0.5um {FC} Design Manual (52/0005) },
+	howpublished={URL: http://www.peregrine-semi.com/},
+	year={2003},
+	month={March},
+	url={http://www.peregrine-semi.com/}
+}
+
+@misc{AMI99,
+	author={AMIs},
+	title={American MicroSystems~Inc.},
+	howpublished={URL: http://www.amis.com/foundry/},
+	url={http://www.amis.com/foundry/process.html},
+	year = 1999
+}
+
+@misc{Alpha99,
+	author={Alpha},
+	title={Alpha Technologies Inc.},
+	howpublished={URL: http://www.alphat.com/},
+	url={http://www.alphat.com/index.shtml},
+	year = 1990
+}
+
+@misc{Euro99,
+	author={Europractice},
+	title={EuroPractice IC Service},
+	howpublished={URL: http://www.imec.be/europractice/},
+	url={http://www.imec.be/europractice/},
+	year = 1999
+}
+
+@misc{MOSIS,
+	author= {MOSIS},
+	title={The {MOSIS} Service},
+	howpublished={URL: http://www.mosis.org},
+	url={http://www.mosis.org/},
+	year =1999
+}
+
+@booklet{Supe99,
+	title={Supertex inc. Wafer Foundry Services},
+	howpublished={URL: www.supertex.com},
+	year={1999},
+	address={Sunnyvale, CA},
+	organization={Supertex inc.}
+}
+
+@booklet{MITGUD05,
+  title = {{MITLL} Low Power {FDSOI} {CMOS} Process Design Guide},
+  howpublished={URL: http://www.ll.mit.edu/},
+  address={Boston, MA},
+  author={{MIT Lincoln Labs}},
+    year = 2005
+  }

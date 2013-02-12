@@ -1,0 +1,641 @@
+% Euge NEWTECH.BIB
+% 3D technologies, isolation amplifiers, energy ahrvesting, FPGA, asynchronous design, floating gates
+% anything exotic goes here! 
+
+% 3D circuits and system:
+
+@inproceedings{Koyanagy01,
+    author={Koyanagy M and Y. Nkagawa and K.W. Lee and T. Nakamura and Y. Yamada, K. Park and H. Hurino},
+    title={Neuromorphic vision chip fabricated using three dimensional integrated circuit technology},
+    booktitle={2004 IEEE International Solid-State Circuit Conference},
+    year={2001},
+    month={Februrary},
+    pages={270-271}
+}
+
+@inproceedings{SuBeBu05,
+    title={{CMOS} Image Sensor Fabricated in Three-Dimensional Integrated Circuit Technology},
+    author={V. Suntharalingam and R. Berger and J. Burns and C. Chen and C. Keast and J. Knecht and R. Lambert and K. Newcomb and D. O'Mara and C. Stevenson and B. Tyrrell and K.Warner and B. Wheeler and D.Yost and D.Young},
+    booktitle={IEEE International Solid-State Circuits Conference},
+    month = {February},
+    year={2005},
+    location={San Francisco, CA},
+    volume = 1,
+    pages={356 -- 357}
+}
+
+@inproceedings{BuMcHo00,
+    author={J. Burns and L McIlrath and J. Hopwood and C. Keast and D.P. Vu and K. Warner and P. Wyatt},
+    title={An {SOI} Three-Dimensional Integrated Circuit Technology},
+    booktitle={IEEE International SOI Conference},
+    month = {October},
+    year={2000},
+    pages={20 -- 21}
+}
+
+
+@article{LeLiKi03,
+    author={X. Lei and C. C. Liu and H. S. Kim and S. K. Kim and S. Tiwari},
+    title={Three-dimensional integration: technology, use, and issues for mixed-signal applications},
+    journal={IEEE Transactions on Electron Devices},
+    issue=3,
+    volume=50,
+    month={March},
+    year={2003},
+    pages={601 - 609}
+}
+
+@inproceedings{BuWeHa89,
+    author={R. Buchner and W. VanDerWel and K. Haberger and S. Seitz and J. Weber and P. Seegebrecht},
+    title={Process technology for {3D-CMOS} devices},
+    booktitle={IEEE SOS/SOI Technology Conference},
+    month = {October},
+    year={1989},
+    pages={72 –- 73}
+}
+
+@inproceedings{KoNaLe01,
+    title={Neuromorphic Vision Chip Fabricated Using Three-Dimensional Integration Technology},
+    author={M. Koyanagy and Y. Nakagawa and K. W. Lee and T. Nakamura and Y. Yamada and K.T. Park and H. Kurino},
+    booktitle={IEEE International Solid-State Circuits Conference},
+    month = {February},
+    year={2001},
+    location={San Francisco, CA},
+    volume = 1,
+    pages={270 -- 271}
+}
+
+
+@inproceedings{KoMaSh98,
+    title={Multi-Chip Module with Optical Interconnection for Parallel Processor System},
+    author={M. Koyanagi and T. Matsumoto and T. Shimatani and K. Hirano and H. Kurino and R. Aibara and H. Kuwana and N. Kuroishi and T. Kawata and N. Miyakawa},
+    booktitle={IEEE Solid-State Circuits Conference},
+    month = {February},
+    year={1998},
+    location={San Francisco, CA},
+    volume = 1,
+    pages={92 -- 93}
+}
+
+
+@inproceedings{KuLeNa99,
+    author={H. Kurino and K. W. Lee and T. Nakamura and K. Sakuma and N. Miyakawa and H. Shimazutsu and K.Y. Kim and M. Koyanagi},
+    title={Intelligent Image Sensor Chip with Three Dimensions Structure},
+    booktitle={IEEE International Electron Devices Meeting},
+    year={1999},
+    pages={879 –- 882}
+}
+
+@inproceedings{LeNaOn00,
+    author={K. W. Lee and T. Nakamura and T. Ono and Y. Yamada and T. Mizukusa and H. Hashimoto and K. T. Park and H. Kurino and M. Koyanagi},
+    title={Three-dimensional shared memory fabricated using wafer stacking technology},
+    booktitle={IEEE International Electron Devices Meeting},
+    year={2000},
+    pages={165 -- 168}
+}
+
+@inproceedings{KoKuLe98,
+    author={M. Koyanagi and H. Kurino and K. W. Lee and K. Sakuma and N. Miyakawa and H. Hitano},
+    title={Future System-on-Silicon {LSI} Chips},
+    booktitle={IEEE Micro},
+    month={July-August},
+    year={1998},
+    pages={18 -- 22}
+}
+
+
+% 3D communication and isolation
+
+@inproceedings{KuKlTh95,
+    author={S.A. Kuhn and M.B. Kleiner and R. Thewes and W. Weber},
+    title={Vertical signal transmission in three-dimensional integrated circuits by capacitive coupling},
+    booktitle={ISCAS '95. Proceedings of the 1995 International Symposium on Circuits and
+        Systems},
+    year={1995},
+    month={May},
+    publisher={IEEE},
+    pages={37 - 40},
+    volume = 1
+}
+
+
+@article{XuMiWi04,
+    author={J. Xu and S. Mick and J. Wilson and L. Luo and K. Chandrasekar and E. Erickson and P.D. Franzon},
+    title={{AC} Coupled Interconnect for Dense {3-D ICs}},
+    journal={{IEEE} Transactions on Nuclear Science},
+    month={October},
+    year=2004,
+    volume=51,
+    issue=5,
+    pages={2156 - 2160}
+}
+
+
+@inproceedings{MiYuMi04,
+    title={A {1.2Gb/s/pin} wireless superconnect based on inductive inter-chip signaling {(IIS)}},
+    author={D. Mizoguchi and Y. B. Yusof and N. Miura and T. Sakura and T. Kuroda},
+    booktitle={IEEE International Solid-State Circuits Conference},
+    month = {February},
+    year={2004},
+    location={San Francisco, CA},
+    volume = 1,
+    pages={142 -- 144}
+}
+
+
+@inproceedings{Waaben75,
+    author={S. Waaben},
+    title={High performance optocoupler circuits},
+    booktitle={IEEE International Solid-State Circuits Conference},
+    year={1975},
+    address={San Francisco, California},
+    pages={30-31},
+    volume={XVIII}
+}
+
+@inproceedings{KuBoSh01,
+    author={W.B. Kuhn and R.M. Boyd and R.A. Shumaker and M.M.Mojarradi and H.W. Li},
+    title={An {RF}-based {IEEE} 1394 ground isolator designed in a silicon-on-insulator
+        process},
+    booktitle={IEEE Midwest Symposium on Circuits and Systems},
+    year={2001},
+    address={Where, InMars},
+    pages={764-767},
+    volume={2}
+}
+
+
+
+@article{GaFi97,
+    author={T. J. Gabara and W. C. Fischer},
+    title={Capacitive coupling and quantized feedback applied to conventional
+    {CMOS} technology},
+    journal={IEEE Journal of Solid-State Circuits},
+    issue=3,
+    volume=32,
+    month={March},
+    year={1997},
+    pages={419 - 427}
+}
+
+
+@inproceedings{SaKn94,
+    author={D. Saltzman and T. Knight Jr.},
+    title={Capacitive coupling solves the known good die problem},
+    booktitle={IEEE Multi-Chip Module Conference},
+    month={March},
+    year={1994},
+    pages={95 -- 100}
+}
+
+@inproceedings{SaKnFr95,
+    author={D. Saltzman and T. Knight Jr. and P. Franzon},
+    title={Application of capacitive coupling to switch fabrics},
+    booktitle={IEEE Multi-Chip Module Conference},
+    month={January},
+    year={1995},
+
+}
+
+@inproceedings{MiWiFr02,
+    author={S. E. Mick and J. M. Wilson and P. Franzon},
+    title={{4 Gbps AC} Coupled Interconnection},
+    booktitle={IEEE Custom Integrated Circuits Conference},
+    month={May},
+    year={2002},
+    pages={133 -- 140}
+}
+
+@inproceedings{MiFrHu02,
+    author={S. E. Mick and J. M. Wilson and P. Franzon},
+    title={Packaging Technology for {AC} Coupled Interconnection},
+    booktitle={IEEE Flip-Chip Conference},
+    year={2002},
+    month={July}
+}
+
+@article{MiLuWi04,
+    author={S. E. Mick and L. Luo and J. M. Wilson and P. Franzon},
+    title={Buried bump and {AC} coupled interconnection technology},
+    journal={IEEE Transactions on Advanced Packaging},
+    volume={27},
+    year={2004},
+    pages={121-125},
+    month={February},
+    number={1}
+}
+
+@inproceedings{KaKoYu00,
+    author={N. Kanekawa and Y. Kojima and S. Yukutake and M. Nemoto and T. Iwasaki and K. Takamiand and Y. Tekeuchi and Y. Yanoand Y. Shima},
+    title={An analog front-end {LSI} with on-chip isolator for {V.90} 56 kbps modems},
+    booktitle={IEEE Custom Integrated Circuits Conference},
+    year={2000},
+    month={May},
+    pages={327-330}
+}
+
+@article{Dickson76,
+    author={J. Dickson},
+    title={On-chip High-Voltage Generation in {NMOS} Integrated Circuits Using an Improved Voltage Multiplier Technique},
+    journal={IEEE Journal of Solid-State Circuits},
+    volume= 11,
+    month={June},
+    year={1976},
+    number= 6,
+    pages={374 - 378}
+}
+
+
+@inproceedings{SeFr00,
+    author={R. M.Secareanu and E. G. Friedman},
+    title={Low power digital {CMOS} buffer systems for driving highly capacitive interconnect lines},
+    booktitle={IEEE Midwest Symposium on Circuits and Systems},
+    month={August},
+    year={2000},
+    volume=1,
+    pages={362 -- 365}
+}
+
+@article{SuIv02,
+    author={I.E. Sutherland and Jo Ebergen},
+    title={Computers without Clocks},
+    journal={Scientific American},
+    month={August},
+    year=2002,
+    volume=287,
+    issue=2,
+    pages={62-70}
+}
+
+
+@inproceedings{PaAp04,
+    author={A Pappu and A. Apsel},
+    title={Electrical isolation and fanout in intra-chip optical interconnects},
+    booktitle={IEEE International Symposium on Circuits and Systems ISCAS 2004},
+    year={2004},
+    month={May},
+    volume = 2,
+    pages={II - 533-6}
+}
+
+@article{ChXi05,
+    author={K.C. Chong and Y.H. Xie},
+    title={High-performance on-chip transformers},
+    journal={IEEE Electron Device Letters},
+    month={August},
+    year=2005,
+    volume=26,
+    issue=8,
+    pages={557-559}
+}
+
+
+% RF isolation and more
+
+@article{Lee00,
+    author={Thomas H. Lee},
+    title={Oscillator Phase Noise: A Tutorial},
+    journal={IEEE Journal of Solid-State Circuits},
+    volume= 45,
+    year={2000},
+    month={March},
+    number= 5,
+    pages={326-336}
+}
+
+@article{CrSt95,
+    author={J. Craninckx and M. Steyaert},
+    title={Low-Noise Voltage Controlled Oscillators Using Enhanced {LC}-tanks},
+    journal={IEEE Transactions on Circuits and Systems II},
+    volume= 2,
+    year={1995},
+    month={December},
+    number= 14,
+    pages={794-805}
+}
+
+@article{BuEdSo98,
+    author={J. N. Burghartz and D. C. Edelstein and M. Soyuer and H. A. Ainspan and K. A. Jenkins},
+    title={Low-Noise Voltage Controlled Oscillators Using Enhanced {LC}-tanks},
+    journal={IEEE Journal of Solid-State Circuits},
+    volume= 33,
+    year={1998},
+    month={December},
+    number= 12,
+    pages={2028-2034}
+}
+
+
+@article{Bahl01,
+    author={I. J. Bahl},
+    title={High-performance inductors},
+    journal={IEEE Transactions on Microwave Theory and Techniques},
+    volume= 49,
+    year={2001},
+    month={April},
+    number= 4,
+    pages={654-664}
+}
+
+% nano and more
+
+
+@article{StKlRo07,
+    author={E. Stern and J.F. Klemic and D.A. Routenberg and P.N. Wyrembak and D.B. Turner-Evans and A.D. Hamilton and D.A. LaVan and T.M. Fahmy and M.A. Reed},
+    title={{Label-free immunodetection with CMOS-compatible semiconducting nanowires}},
+    journal={Nature},
+    year=2007,
+    volume=05498,
+    pages={445}
+} 
+
+
+@article{Stix04,
+    author={Gary Stix},
+    title={Innovations: Nano Patterning},
+    journal={Scientific American},
+    month={March},
+    year=2004,
+    volume=290,
+    issue=3,
+    pages={44-46}
+}
+
+@article{KnLiSh04,
+    author={S. Knappe and L. Liew and V. Shah and P. Schwindt and J. Moreland and L. Hollberg and J. Kitching},
+    title={A microfabricated atomic clock},
+    journal={Applied Physics Letters},
+    month={August},
+    year=2004,
+    volume=85,
+    issue=9,
+    pages={1460-1462}
+}
+
+@article{LeBaLe05,
+    author={D. S. Lee and S. W. Ban and M. Lee and D. D. Lee},
+    title={Micro Gas Sensor Array With Neural Network for Recognizing Combustible Leakage Gases},
+    journal={IEEE Sensors Journal},
+    month={June},
+    year=2005,
+    volume=5,
+    issue=3,
+    pages={530-536}
+}
+
+
+
+@article{HeKuSn98,
+    author={J.R. Heath and P.J. Kuekes and G.S.Snider and R.S. Williams},
+    title={A Defect-Tolerant Computer Architecture: Opportunities for Nanotechnology},
+    journal={Science},
+    volume= 280,
+    day = 12,
+    month = {June},
+    year= 1998,
+    pages={1716 -1721}
+}
+
+@inproceedings{XuViXi04,
+    author={W. Xu and N. Vijaykhrisnan and Y. Xie and M.J. Irwin},
+    title={Design of a Nanosensor Array Architecture},
+    booktitle={2004 ACM Proc. Great Lakes Symposium on VLSI},
+    year= 2004,
+    month={April},
+    publisher={IEEE},
+    address={Boston, MA},
+    pages={298 -303}
+}
+
+
+@ARTICLE{Ga90,
+  author = {S. I. Gallant},
+  year = 1990,
+  title = {Perceptron-Based Learning Algorithms},
+  journal = {IEEE Transactions on Neural Networks},
+  volume = 1,
+  number = 2,
+  pages = {179-191}
+}
+
+@BOOK{Cr00,
+  author = {N. Cristianini and J. Shawe-Taylor},
+  year = 2000,
+  title = {Support Vector Machines},
+  edition = {1st},
+  publisher = {Cambridge University Press}
+}
+
+@inproceedings{InWhKr99,
+    author={G. Indiveri and A. M. Whatley and J. Kramer},
+    title={A Reconfigurable Neuromorphic VLSI Multi-Chip System Applied to Visual Motion Computation},
+    booktitle={{MicroNeuro} International Conference on Microelectronics for Neural, Fuzzy and Bio-inspired Systems},
+    year= 1999,
+    month={April},
+    publisher={IEEE Computer Society},
+    address={Grenada Spain},
+    pages={37-44}
+}
+
+
+@article{macil05,
+    author={Colin Macilwain},
+    title={Silicon down to the wire},
+    journal={Nature},
+    month={July},
+    year=2005,
+    volume=436,
+    pages={22-23}
+}
+
+@BOOK{SiKr04,
+  author = {{various}},
+  year = 2004,
+  title = {Silicon: evolution and future of a technology},
+  editor = {P. Siffert and E. Krimmel},
+  publisher = {Springer}
+}
+
+
+@inproceedings{Sun05,
+    author={V. Suntharalingam and R. Berger and J. Burns and C. Chen and C. Keast et. al.},
+    title={Megapixel {CMOS} image sensor fabricated in three dimensional integrated circuit technology},
+    booktitle={2004 IEEE International Solid-State Circuit Conference},
+    year={2005},
+    month={Februrary},
+    pages={356-357}
+}
+
+
+
+% energy harvesting
+
+
+@article{BaShUm99,
+    author={{H. Banba et al.}},
+    title={A {CMOS} Bandgap Reference Circuit with Sub-{1-V} Operation},
+    journal={IEEE Journal Of Solid-State Circuits},
+    issue=5,
+    volume=34,
+    month={May},
+    year={1999},
+    pages={670 - 674}
+}
+
+
+@article{RajChan98,
+    author={R. Amirtharajah, A.P. Chandrakasan},
+    title={Self-Powered Signal Processing Using Vibration-Based Power Generation},
+    journal={IEEE Journal of Solid-State Circuits},
+    volume={33},
+    issue=5,
+    month={May},
+    year={1998},
+    pages={687-695}
+}
+
+@article{MenChan01,
+    author={S.Meninger, J. O. Mu-Miranda, R. Amirtharajah and  A.P. Chandrakasan},
+    title={Vibration-to-Electric Energy Conversion},
+    journal={IEEE Transactions on Very Large Scale Integration (VLSI) Systems},
+    volume={9},
+    issue=1,
+    month={May},
+    year={2001},
+    pages={64-76}
+}
+
+@article{Roundy03,
+    author={S.Roundy, P.K.Wright,J. Rabaey},
+    title={A Study of Low-level Vibrations as Power Source for Wireless Sensor Nodes},
+    journal={Computer Communications},
+    volume={26},
+    issue=1,
+    month={May},
+    year={2003},
+    pages={1131-1144}
+}
+
+
+
+@article{Paradiso05,
+    author={J.A. Paradiso,Thad Starner},
+    title={Energy Scavenging for Mobile and Wireless Electronics},
+    journal={Pervasive Computing},
+    volume={04},
+    issue=1,
+    month={Jan-March},
+    year={2005},
+    pages={18-27}
+}
+
+@article{LalLi05,
+    author={A. Lal R. Duggirala H.Li},
+    title={Pervasive Power: A Radioisotope-Powered Piezoelectric Generator},
+    journal={Pervasive Computing},
+    volume={04},
+    issue=1,
+    month={Jan-March},
+    year={2005},
+    pages={53-60}
+}
+
+ 	
+ @article{LalLi05,
+    author={P.D. Mitcheson and E.M. Yeatman and G.K. Rao and A.S. Holmes and T.C. Green},
+    title={Energy Harvesting From Human and Machine Motion for Wireless Electronic Devices},
+    journal={Proceedings of the IEEE},
+    volume={96},
+    issue=9,
+    month={September},
+    year={2008},
+    pages={1457 - 1486}
+}
+
+% FPGA
+
+@article{Santar05,
+    author={Michael Santarini},
+    title={Low-power {FPGA}s target portable market},
+    journal={Electronics Design, Strategy, News},
+    volume={04},
+    issue=1,
+    year={2005}
+}
+
+
+% floating gates
+
+@inproceedings{SrGrHa05,
+    author={V. Srinivasan and D.W. Graham and P. Hasler},
+    title={{Floating-gates transistors for precision analog circuit design: an overview}},
+    booktitle={IEEE Midwest Symposium on Circuits and Systems, 48th},
+    volume= {1},
+    year= 2005,
+    month= {August},
+    pages={71 - 74 }
+}
+
+@inproceedings{Hasler05,
+    author={Paul Hasler},
+    title={{Floating-Gate Devices, Circuits, and Systems}},
+    booktitle={IEEE International Database Engineering and Application Symposium (IDEAS’05)},
+    volume= {1},
+    year= 2005,
+    month= {July},
+    pages={482 - 487 }
+}
+
+@inproceedings{StIoLo97,
+    author={Z. Stanojevic and D.E. Ioannou and B. Loncar and P. Osmokrovic},
+    title={{Design of a SOI memory cell}},
+    booktitle={International Conference on Microelectronics, 21st},
+    volume= {1},
+    year= 1997,
+    month= {September},
+    pages={297-300}
+}
+
+
+@article{ChMaJi04,
+    author={A.C.K. Chan and T.Y. Man and H. Jin and K.H. Yuen and W.K. Lee and M. Chan},
+    title={{SOI flash memory scaling limit and design consideration based on 2-D analytical modeling}},
+    journal={IEEE Transactions on Electron Devices},
+    volume= {51},
+    year= 2004,
+    month= {December},
+    pages={2054 - 2060},
+    issue = 12
+}
+
+
+% DATASHEETS AND BOOKLETS:
+
+
+@BOOKLET{Semi01,
+    TITLE = {The National Technology Roadmap for Semiconductors},
+    YEAR = {2001},
+    ORGANIZATION = {SIA},
+    ADDRESS = {Sun Jose, CA}
+}
+
+@BOOKlet{VPT,
+  TITLE =        {DVSA2800S Series Product Datasheet},
+  author =    {VPT, Inc.},
+  YEAR =         {2005},
+  source =       {http://www.vpt-inc.com/datasheets/DVSA2800S.pdf}
+}
+
+@BOOKlet{INTER,
+  TITLE =        {MGA Series Product Datasheet},
+  author =    {Interpoint Corporation},
+  YEAR =         {2005},
+  source =       {http://www.interpoint.com/datasheets/MGA.pdf}
+}
+
+@BOOKlet{LAMBDA,
+  TITLE =       {LAMBDA PSS/PSD Series Product Datasheet},
+  author =   {Lambda Americas},
+  YEAR =         {2005},
+  source =       {http://www.lambdapower.com/ftp/Specs/ps.pdf}
+}

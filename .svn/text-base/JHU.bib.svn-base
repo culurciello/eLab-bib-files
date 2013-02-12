@@ -1,0 +1,2067 @@
+% Johns Hopkins AGAgroup publications only
+
+@conference{MaAn07,
+  author = {M.A Marwick and A.G. Andreou},
+  month = {November},
+  year = 2007,
+  title = {{A UV Photodetector with Internal Gain Fabricated in Silicon on Sapphire CMOS}},
+  booktitle = {IEEE  SENSORS  2007  Conference}
+}
+
+@article{ApAn05a,
+    author={A. Apsel and A. Andreou},
+    title={A Low Power SOS CMOS Optoelectronic Receiver Using Low and High Threshold Devices},
+    journal={IEEE Transactions on Circuits and Systems I},
+    volume=52,
+    number=2,
+    year={2005},
+    month={February}
+}
+
+@article{ApFuAn04,
+    author={A. Apsel and Z. Fu and A. Andreou},
+    title={A 2.5 milliwatt SOS CMOS Optical Receiver for Chip-to-Chip Interconnect},
+    journal={IEEE Journal of Lightwave Technology},
+    volume=22,
+    number=9,
+    year={2004},
+    month={September}
+}
+
+@article{ApAn01a,
+    author={A. Apsel and A. Andreou},
+    title={A 5mW, Gigabit/s Silicon on Sapphire CMOS Optical Receiver},
+    journal={IEE Electronics Letters},
+    volume=37,
+    number=19,
+    year={2001},
+    month={September}
+}
+
+@phdthesis{Apsel02,
+    author={A. Apsel},
+    title={Optoelectronic Receivers in Silicon on Sapphire {CMOS}: Architecture and Design
+        for Efficient Parallel Interconnects},
+    school={Johns Hopkins University},
+    year={2002},
+    howpublished={(Unpublished)}
+}
+
+@conference{AbAn99a,
+  author = {P. Abshire and A.G. Andreou},
+  month = {July},
+  year = 1999,
+  title = {Relating Information Capacity to a Biophysical Model for Blowfly Retina},
+  booktitle = {Proceedings of the 1999 International Conference on Neural Networks},
+  note = {814 Session 1.3},
+  address = {Washington, DC}
+}
+
+@conference{KaAn99a,
+  author = {Z.K. Kalayjian and A.G. Andreou},
+  month = {July},
+  year = 1999,
+  title = {Silicon Retina for Polarization Contrast Vision},
+  booktitle = {Proceedings of the 1999 International Conference on Neural
+              Networks},
+  note = {811 Session 7.1},
+  address = {Washington, DC}
+}
+
+@conference{PoAnTe99,
+  author = {P.O. Pouliquen and A.G. Andreou and C.W. Terrill},
+  month = {July},
+  year = 1999,
+  title = {Learning to Compensate for Sensor Variability at the Focal Plane},
+  booktitle = {Proceedings of the 1999 International Conference on Neural
+              Networks},
+  note = {812 Session 7.1},
+  address = {Washington, DC}
+}
+
+@conference{MaPoAn96,
+  author = {M. N. Martin and P. O. Pouliquen and A. G. Andreou and M. E.
+           Fraeman},
+  editor = {G. Cameron and M. Hassoun and A. Jerdee and C. Melvin},
+  month = {August},
+  year = 1996,
+  title = {Subthreshold Current-Mode Differential Logic Circuits for Low Power
+          Digital Systems},
+  booktitle = {Proceedings of the 39th Midwest Symposium on Circuits and
+              Systems},
+  volume = 1,
+  pages = {183-186},
+  address = {Ames, Iowa},
+  organization = {IEEE Circuits and Systems Society}
+}
+
+
+@article{AbAn01a,
+    author={Pamela Abshire and Andreas G. Andreou},
+    title={A communication channel model for information transmission in the blowfly
+        photoreceptor},
+    journal={Biosystems Journal},
+    year={2001},
+    month={August}
+}
+
+@article{AnKaAp01,
+    author={A. G. Andreou and Z. K. Kalayjian and A. Apsel and P.O. Pouliquen and R. A.
+        Athale and G. Simonis and R. Reedy},
+    title={Silicon on sapphire {CMOS} for optoelectronic Microsystems},
+    journal={IEEE Circuits and Systems Magazine},
+    volume= 1,
+    year= 2001,
+    pages={22 - 30},
+    number= 3
+}
+
+@article{ApAn01,
+    author={A. Apsel and A.G. Andreou},
+    title={An Analysis of Data Reconstruction Efficiency Using Stochastic Encoding
+        and an Integrated Receiver},
+    journal={IEEE Transactions on Circuits and Systems Part II: Analog and Digital Signal
+        Processing},
+    volume={48},
+    year={2001},
+    pages={890-897},
+    month={October},
+    number={10}
+}
+
+@article{AbAn01b,
+    author={Pamela Abshire and Andreas G. Andreou},
+    title={Capacity and energy cost of information in a bilogical and silicon photoreceptor},
+    journal={Proceedings of the IEEE},
+    year={2001},
+    month={August}
+}
+
+@techreport{AnAb01a,
+    author={A. G. Andreou and P. Abshire},
+    title={Sensory communication microsystems: analysis and synthesis framework},
+    institution={Johns Hopkins Univ., Dept. of Elec. and Comp. Eng.},
+    year= 2001,
+    address={Baltimore, MD},
+    number={JHU-ECE-01/01},
+    keywords={Vision Theory}
+}
+
+@phdthesis{Abshire01,
+    author={P. Abshire},
+    title={Sensory Information Processing Under Physical Constraints},
+    school={Johns Hopkins University},
+    year= 2001 ,
+    month={october},
+    address={Baltimore, MD}
+}
+
+@article{GoCaAn01,
+    author={D.H. Goldberg and G.C. Cauwenberghs and A.G. Andreou},
+    title={Probabilistic Synaptic Weighting in a Reconfigurable Network of {VLSI} Integrate-and-Fire
+        Neutrons},
+    journal={Neural Networks},
+    volume= 14 ,
+    year= 2001
+}
+
+@article{AbAn00,
+    author={P. Abshire and A.G. Andreou},
+    title={Relating Information Capacity to a Biophysical Model for Blowfly Photoreceptors},
+    journal={Neurocomputing},
+    volume={32-33},
+    year= 2000,
+    pages={9-16},
+    month={June}
+}
+
+@inproceedings{AbAn00a,
+    author={P. Abshire and A.G. Andreou},
+    title={A Comparative Study of Information Capacity for Silicon and Biophysical
+        Photoreceptors},
+    booktitle={Proceedings of the 2000 {IEEE} International Symposium on Circuits and Systems},
+    year= 2000,
+    month={June},
+    publisher={IEEE Press},
+    address={Geneva, Switzerland},
+    pages={145-148},
+    organization={IEEE},
+    volume={V}
+}
+
+@inproceedings{ApAn00,
+    author={A. Apsel and A.G. Andreou},
+    title={Quality of Data Reconstruction Using Stochastic Encoding and an Integrating
+        Receiver},
+    booktitle={Proceedings of the 43th Midwest Symposium on Circuits and Systems},
+    year={2000},
+    month={August},
+    address={Ames, MI},
+    pages={183-186},
+    note={Best Student Paper Award}
+}
+
+@inproceedings{ApKaAnSiCh00,
+    author={A. Apsel and Z. Kalayjian and A.G. Andreou and G. Simonis and W. Chang and
+        M. Datta and B. Koley},
+    title={Edge Orientation Enhancement Using Optoelectronic {VLSI} and Asynchronous
+        Pulse Coding},
+    booktitle={Proceedings of the 2000 {IEEE} International Symposium on Circuits and Systems},
+    year= 2000,
+    month={June},
+    publisher={IEEE Press},
+    address={Geneva, Switzerland},
+    pages={297-300},
+    organization={IEEE},
+    volume={II},
+    note={Vol. II}
+}
+
+@phdthesis{KaZ00,
+    author={Z.K. Kalayjian},
+    title={Optoelectronic Vision and Image Processing},
+    school={Johns Hopkins University},
+    year={2000},
+    howpublished={(Unpublished)}
+}
+
+@inproceedings{KaAn00,
+    author={Z. Kalayjian and A.G. Andreou},
+    title={Mismatch in Photodiode and Phototransistor Arrays},
+    booktitle={Proceedings of the 2000 {IEEE} International Symposium on Circuits and Systems},
+    year= 2000,
+    month={June},
+    publisher={IEEE Press},
+    address={Geneva, Switzerland},
+    pages={121-124},
+    organization={ISCAS 2000}
+}
+
+@article{KuAn00,
+    author={N. Kumar and A.G. Andreou},
+    title={Heteroscedastic discriminant analysis: maximum likelihood feature extraction
+        for heteroscedastic models},
+    journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+    volume= 1,
+    year= 2000,
+    pages={123-456},
+    note={submitted}
+}
+
+@inproceedings{MiKaAn00,
+    author={W.P. Millard and Z. Kalayjian and A.G. Andreou},
+    title={Calibration and Matching of Floating Gate Devices},
+    booktitle={Proceedings of the 2000 {IEEE} International Symposium on Circuits and Systems},
+    year= 2000,
+    month={June},
+    publisher={IEEE Press},
+    address={Geneva, Switzerland},
+    pages={389-392},
+    organization={ISCAS 2000},
+    volume={IV}
+}
+
+@inproceedings{PoTeCaAn00,
+    author={P.O. Pouliquen and C. Terrill and G.C. Cauwenberghs and A.G. Andreou},
+    title={A {CMOS} Smart Focal Plane for Infrared Imagers},
+    booktitle={Proceedings of the 2000 {IEEE} International Symposium on Circuits and Systems},
+    year= 2000,
+    month={June},
+    publisher={IEEE Press},
+    address={Geneva, Switzerland},
+    pages={329-332},
+    organization={ISCAS 2000}
+}
+
+@article{SeAnLi00,
+    author={T. Serrano-Gotarredona and A.G. Andreou and B. Linares-Barranco},
+    title={A Programmable {VLSI} Filter Architecture for Application in Real-Time Vision
+        Processing Systems},
+    journal={International Journal of Neural Systems},
+    volume= 10,
+    year= 2000,
+    pages={179-190},
+    month={June},
+    number= 3
+}
+
+@inproceedings{AbAn99,
+    author={P. Abshire and A. G. Andreou},
+    title={Relating Information Capacity to a Biophysical Model for Blowfly Retina},
+    booktitle={Proceedings of the 1999 Computational Neuroscience Meeting},
+    year= 1999,
+    month={July},
+    address={Pittsburgh, PA},
+    pages= 12
+}
+
+@inproceedings{AbAn99b,
+    author={P. Abshire and A.G. Andreou},
+    title={Information Capacity of the Blowfly Retina},
+    booktitle={Proceedings of the 33rd Annual Conference on Information Sciences and Systems},
+    year= 1999,
+    month={March},
+    address={Baltimore, MD},
+    pages={880-881},
+    volume={II}
+}
+
+@inproceedings{AndrA99,
+    author={A.G. Andreou},
+    title={Energy and Information Processing in Biological and Silicon Sensory Systems},
+    year= 1999,
+    month={April},
+    address={Granada, Spain},
+    pages={21-25},
+    organization={MICRONEURO'99}
+}
+
+@article{KaAn99aa,
+    author={Z. Kalayjian and A.G. Andreou},
+    title={Integrated Imaging Linear Polarimeter},
+    journal={ISA Transactions},
+    volume={38},
+    year={1999},
+    pages={203-209}
+}
+
+@inproceedings{KaAn99b,
+    author={Z.K. Kalayjian and A.G. Andreou},
+    title={Integrated High Resolution Polarization Imager Using Birefringent Crystal},
+    booktitle={Proceedings of the 33rd Annual Conference on Information Sciences and Systems},
+    year={1999},
+    month={March},
+    address={Baltimore, MD},
+    pages={874-877},
+    volume={II}
+}
+
+@article{KuAn99,
+    author={N. Kumar and A.G. Andreou},
+    title={Heteroscedastic discriminant analysis and reduced rank HMMs for improved
+        speech recognition},
+    journal={Speech Communication},
+    volume= 1,
+    year= 1999,
+    pages={123-456},
+    note={submitted}
+}
+
+@inproceedings{PoAn99,
+    author={P.O. Pouliquen and A.G. Andreou},
+    title={Bit-Serial Address Event Representation},
+    booktitle={Proceedings of the 33rd Annual Conference on Information Sciences and Systems},
+    year= 1999,
+    month={March},
+    address={Baltimore, MD},
+    pages={893-896},
+    volume={II}
+}
+
+@article{SeAnLi99,
+    author={T. Serrano-Gotarredona and A.G. Andreou and B. Linares-Barranco},
+    title={Address-Event Representation Image Filtering Architecture for Vision Processing
+        Systems},
+    journal={IEEE Transactions on Circuits and Systems, Part I: Fundamental Theory and
+        Applications},
+    volume= 46,
+    year= 1999,
+    pages={1064-1071},
+    month={September},
+    number= 9
+}
+
+@inproceedings{SeAnLi99a,
+    author={T. Serrano-Gotarredona and A.G. Andreou and B. Linares-Barranco},
+    title={Programmable 2D Image Filter for {AER} Vision Processing},
+    booktitle={Proceedings of the 33rd Annual Conference on Information Sciences and Systems},
+    year= 1999,
+    month={March},
+    address={Baltimore, MD},
+    pages={884-887},
+    note={Proceedings of the 1999 IEEE International Symposium on Circuits and Systems,
+        Orlando, FL (Vol IV, 169-162, May 1999); Proceedings of the 6th IEEE International
+        Conference on Electronics, Circuits and Systems, Pafos, Cyprus (Vol I,
+        113-116, September 1999)}
+}
+
+@inproceedings{SeAnLi99b,
+    author={T. Serrano-Gotarredona and A.G. Andreou and B. Linares-Barranco},
+    title={A 2D Image Filtering Architecture for Real-Time Vision Processing Systems},
+    year= 1999,
+    month={April},
+    address={Granada, Spain},
+    pages={415-422},
+    organization={MICRONEURO'99}
+}
+
+@article{SeLiAn99,
+    author={T. Serrano-Gotarredona and G. Linares-Barranco and A.G. Andreou},
+    title={Very Wide Range Tunable {CMOS/Bipolar} Current Mirrors with Voltage Clamped
+        Imput},
+    journal={IEEE Transactions on Circuits and Systems, Part I: Fundamental Theory and
+        Applications},
+    volume= 46,
+    year= 1999,
+    pages={1398-1407},
+    month={November},
+    number= 11
+}
+
+@article{SeLiAn99a,
+    author={T. Serrano-Gotarredona and B. Linares-Barranco and A.G. Andreou},
+    title={{Bipolar/CMOS} Current-Source Flip-Flop with Application in Neuro-Fuzzy
+        Systems},
+    journal={IEE Electronics Letters},
+    volume= 35,
+    year= 1999,
+    pages={1326-1328},
+    month={August},
+    number= 16
+}
+
+@article{SeLiAn99b,
+    author={T. Serrano-Gotarredona and B. Linares-Barranco and A.G. Andreou},
+    title={A General Tranlinear Principle for Subthreshold {MOS} Transistors},
+    journal={IEEE Transactions on Circuits and Systems, Part I: Fundamental Theory and
+        Application},
+    volume= 46,
+    year= 1999,
+    pages={607-616},
+    month={May},
+    number= 5,
+    note={Best Paper Award}
+}
+
+@inproceedings{SeLiAn99c,
+    author={T. Serrano-Gotarredona and B. Linares-Barranco and A.G. Andreou},
+    title={A General Subthreshold {MOS} Translinear Theorem},
+    booktitle={Proceedings of the 1999 {IEEE} International Symposium on Circuits and Systems},
+    year= 1999,
+    month={May},
+    address={Orlando, FL},
+    pages={302-305},
+    organization={IEEE}
+}
+
+@inproceedings{SeLiAn99d,
+    author={T. Serrano-Gotarredona and B. Linares-Barranco and A.G. Andreou},
+    title={A {bipolar/CMOS} Current-Mode Flip-Flop for {ART} Based {VLSI} Neural Clustering
+        Algorithms},
+    booktitle={Proceedings of the 33rd Annual Conference on Information Sciences and Systems},
+    year= 1999,
+    month={March},
+    address={Baltimore, MD},
+    pages={888-890},
+    volume={II}
+}
+
+@techreport{AbAn98,
+    author={P. Abshire and A. G. Andreou},
+    title={Relating Information Capacity to a Detail Biophysical Model of the Blowfly
+        Retina},
+    institution={Johns Hopkins Univ., Dept. of Elec. and Comp. Eng.},
+    year= 1998,
+    address={Baltimore, MD},
+    number={JHU-ECE-98/13},
+    keywords={Vision Theory}
+}
+
+@incollection{AndrA98,
+    author={A. G. Andreou},
+    title={Exploiting Device Physics in Circuit Design for Efficient Computational
+        Functions in Analog VLSI},
+    booktitle={Low-voltage/Low-power integrated circuits and systems},
+    publisher={IEEE Press},
+    year= 1998,
+    address={New Jersey},
+    editor={Edgar Sanchez-Sinencio and Andreas G. Andreou},
+    chapter= 4,
+    keywords={Translinear Circuits, Neuromorphic VLSI, Subthreshold CMOS Circuits}
+}
+
+@inbook{AndrA98a,
+    author={A.G. Andreou},
+    title={Exploiting Device Physics in Circuit Design for Efficient Computational
+        Functions in Analog {VLSI}},
+    chapter= 4,
+    year= 1998,
+    publisher={IEEE Press},
+    editor={A.G. Andreou, and Edgar Sanchez-Sinencio}
+}
+
+@inbook{AnFu98,
+    author={A.G. Andreou and P.M. Furth},
+    title={An Information Theoretic Framework for Comparing the Bit-Energy of Signal
+        Representations at the Circuit Level},
+    chapter= 17,
+    year= 1998,
+    publisher={IEEE Press},
+    editor={A.G. Andreou and E. Sanchez-Sinencio}
+}
+
+@incollection{AnFu98a,
+    author={A. G. Andreou and P.M. Furth},
+    title={An Information Theoretic Framework for Comparing the Bit-Energy of Signal
+        Representations at the Circuit Level},
+    booktitle={Low-voltage/Low-power integrated circuits and systems},
+    publisher={IEEE Press},
+    year= 1998,
+    address={New Jersey},
+    editor={Edgar Sanchez-Sinencio and Andreas G. Andreou},
+    chapter= 8,
+    keywords={Translinear Circuits, Neuromorphic VLSI, Subthreshold CMOS Circuits}
+}
+
+@inproceedings{KaAn98a,
+    author={Z.K. Kalayjian and A.G. Andreou},
+    title={Integrated High Resolution Focal-Plane Polarization Imager},
+    booktitle={Proceedings {ISA} {EXPO98}},
+    year={1998},
+    month={November},
+    address={Austin, TX}
+}
+
+@inproceedings{KaAn98b,
+    author={Z.K. Kalayjian and A.G. Andreou},
+    title={Integrated High Resolution Focal-Plane Polarization Imager Using Polymer
+        Micropolarizers},
+    booktitle={Proceedings of the Second International Workshop on Design of Mixed-Mode
+        Integrated Circuits and Applications},
+    year={1998},
+    month={July},
+    address={Guanajuato, Mexico},
+    pages={100-103}
+}
+
+@article{KuAn98,
+    author={N. Kumar and A.G. Andreou},
+    title={Heteroscedastic Discriminant Analysis and Reduced Rank {HMMs} for Improved
+        Speech Recognition},
+    journal={Speech Communication},
+    volume= 26,
+    year= 1998,
+    pages={283-297}
+}
+
+@article{KuAn98a,
+    author={A.G. Andreou and N. Kumar},
+    title={Improved large vocabulary continuous speech recognition using heteroscedastic
+        discriminant analysis},
+    journal={IEE Electronics Letters},
+    volume= 1,
+    year= 1998,
+    pages={123-456},
+    note={submitted}
+}
+
+@article{KuHiCaAn98,
+    author={N. Kumar, W. Himmelbauer, G. Cauwenberghs and A.G. Andreou},
+    title={An Analog {VLSI} Chip with Asynchronous Interface for Auditory Feature Extraction},
+    journal={IEEE Transactions on Circuits and Systems, Part II: Analog and Digital Signal
+        Processing},
+    volume= 45,
+    year= 1998,
+    pages={600-606},
+    month={May},
+    number= 5
+}
+
+@inproceedings{MaAn98,
+    author={M.N. Martin, A.G. Andreou},
+    title={Floating-Gate Logic {(FGL)} for Low Voltage Digital Systems},
+    booktitle={Proceedings of the Second International Workshop on Design of Mixed-Mode
+        Integrated Circuits and Applications},
+    year= 1998,
+    month={July},
+    address={Guanajuato, Mexico},
+    pages={125-128}
+}
+
+@book{SaAn98,
+    title={Low-{Voltage/Low}-Power Integrated Circuits and Systems},
+    publisher={IEEE Press},
+    year= 1998,
+    editor={Edgar Sanchez-Sinencio and Andreas G. Andreou},
+    note={ISBN 0-7803-3446-9}
+}
+
+@book{SeLiAn98,
+    author={Teresa Serrano-Gotarredona, Bernabe Linares-Barranco, A.G. Andreou},
+    title={Adaptive Resonance Theory Microchips},
+    publisher={Kluwer Academic Publishers},
+    year= 1998,
+    note={ISBN 0-7923-8231-5}
+}
+
+@inproceedings{SeLiAn98a,
+    author={T. Serrano-Gotarredona, B. Linares-Barranco, A.G. Andreou},
+    title={{MOS/Bipolar} Active Input Current Mirrors with 13-Decades Gain Adjustment
+        Range},
+    booktitle={Proceedings of the 24th European Solid-State Circuits Conference {(ESSCIRC98)}},
+    year= 1998,
+    month={September},
+    pages={296-299}
+}
+
+@article{FuAn97,
+    author={P.M. Furth and A.G. Andreou},
+    title={On Fault Probabilities and Yield Models for {VLSI} Neural Networks},
+    journal={IEEE Journal on Solid-State Circuits},
+    volume= 32,
+    year= 1997,
+    pages={1284-1287},
+    month={August},
+    number= 8
+}
+
+@inproceedings{GrCaScMiBu97,
+    author={Stephen Grossberg and Gail Carpenter and Eric Schwartz and Ennio Mingolla
+        and Daniel Bullock and Paolo Gaudiano and A.G. Andreou and Gert Cauwenberghs
+        and Allyn Hubbard},
+    title={Automated Vision and Sensing Sytems at {BU}},
+    booktitle={Proceedings of the 1997 {DARPA} Image Understanding Workshop},
+    year= 1997,
+    month={May},
+    address={New Orleans},
+    pages={1491-1531},
+    organization={DARPA}
+}
+
+@inproceedings{HiAn97,
+    author={W. Himmelbauer, A.G. Andreou},
+    title={Log-Domain Circuits in Subthreshold {MOS}},
+    booktitle={Proceedings of the 40th Midwest Symposium on Circuits and Systems},
+    year= 1997,
+    month={August},
+    address={Davis, CA}
+}
+
+@article{KaAn97,
+    author={Z. Kalayjian and A.G. Andreou},
+    title={Asynchronous Communication of 2D Motion Information Using Winner-Take-All
+        Arbitration},
+    journal={Journal of Analog Integrated Circuits and Signal Processing},
+    volume={103-109},
+    year= 1997,
+    pages= 13 ,
+    month={March/April}
+}
+
+@article{KaAnWo97,
+    author={Z. K. Kalayjian and A.G. Andreou and L.B. Wolff},
+    title={{ID} Polarization Contrast Retina},
+    journal={IEE Electronics Letters},
+    volume= 33,
+    year= 1997,
+    pages={38-40},
+    month={January},
+    number= 1
+}
+
+@article{KuCaAn97,
+    author={N. Kumar and G. Cauwenberghs and A.G. Andreou},
+    title={Auditory Feature Extraction Using Self-Timed, Discrete-Signal Processing
+        Circuits},
+    journal={IEEE Transactions on Circuits and Systems, Part II: Analog and Digital Signal
+        Processing},
+    volume= 44,
+    year= 1997,
+    pages={723-728},
+    month={September},
+    number= 9
+}
+
+@inproceedings{KuHiCaAn97,
+    author={N. Kumar and W. Himmelbauer and G. Cauwenberghs and A.G. Andreou},
+    title={An Analog {VLSI} Chip with Asynchronous Interface for Auditory Feature Extractions},
+    booktitle={Proceedings of the 1997 International Symposium on Circuits and Systems},
+    year= 1997,
+    month={June},
+    address={Hong Kong},
+    pages={553-556}
+}
+
+@inproceedings{KuHiCaAn97a,
+    author={N. Kumar and W. Himmelbauer and G. Cauwenberghs and A.G. Andreou},
+    title={An Analog {VLSI} Front-End for Auditory Signal Analysis},
+    booktitle={Proceedings of the 1997 International Conference on Neural Networks},
+    year= 1997,
+    month={June},
+    address={Houston, TX},
+    pages={876-881},
+    note={Best Student Paper Award}
+}
+
+@inproceedings{KuHiCaAn97b,
+    author={N. Kumarand W. Himmelbauer and G. Cauwenberghs and A.G. Andreou},
+    title={An Analog {VLSI} Architecture for Auditory Based Feature Extraction},
+    booktitle={Proceedings of the 1997 International Conference on Acoustics, Speech, and
+        Signal Processing},
+    year= 1997,
+    month={April},
+    address={Munich, Germany},
+    pages={4081-4084}
+}
+
+@phdthesis{KumaN97,
+    author={N. Kumar},
+    title={Investigation of silicon auditory models and generalization of linear discriminant
+        analysis for improved speech recognition},
+    school={Johns Hopkins University},
+    year= 1997,
+    howpublished={unpublished}
+}
+
+@article{ObKaAnKh97,
+    author={A.T. Obeidat and Z. Kalayjian and A.G. Andreou and J.B. Khurgin},
+    title={A Model for Visible Photon Emission from Reverse Biased Silicon P-N Junctions},
+    journal={Applied Physics Letters},
+    volume= 70,
+    year= 1997,
+    pages={470-471},
+    month={January},
+    number= 11
+}
+
+@article{PoAnSt97,
+    author={P.O. Pouliquen and A.G. Andreou and and K. Strohbehn},
+    title={Winner-Takes-All Associative Memory: A Hamming Distance Vector Quantizer},
+    journal={Journal of Analog Integrated Circuits and Signal Processing},
+    volume= 13,
+    year= 1997,
+    pages={211-222},
+    month={March/April}
+}
+
+@inproceedings{SeLiAn97,
+    author={T. Serrano-Gotarredona and B. Linares-Barranco and A.G. Andreou},
+    title={Voltage Clamping Current Mirrors with 13-Decades Gain Adjustment Range Suitable
+        for Low Power {MOS/Bipolar} Current Mode Signal Processing Circuits},
+    booktitle={Proceedings of the First International Workshop on Design of Mixed-Mode
+        Integrated Circuits and Applications},
+    year= 1997,
+    month={July},
+    address={Cancun, Mexico},
+    pages={1-4},
+    note={Also published in: Proceedings of the 1998 IEEE International Symposium
+        on Circuits and Systems (ISCAS'98), Monterey, CA, June 1998}
+}
+
+@article{WoMaPoAn97,
+    author={L.B. Wolff and and T.A. Mancini and P.O. Pouliquen and A.G. Andreou},
+    title={Liquid Crystal Polarization Camera},
+    journal={IEEE Transactions on Robotics and Automation},
+    volume= 13,
+    year= 1997,
+    pages={195-203},
+    month={April},
+    number= 2
+}
+
+@article{AnBo96,
+    author={A.G. Andreou and K.A. Boahen},
+    title={Translinear Circuits in Subthreshold {CMOS}},
+    journal={Journal of Analog Integrated Circuits and Signal Processing},
+    volume= 9,
+    year= 1996,
+    pages={141-166},
+    month={March}
+}
+
+@inproceedings{FuAn96,
+    author={P.M. Furth and A.G. Andreou},
+    title={Translinear Transconductor Design for Cochlear Filter Banks},
+    booktitle={Proceedings of the 39th Midwest Symposium on Circuits and Systems},
+    year= 1996,
+    month={August},
+    address={Ames, IA},
+    pages={917-920}
+}
+
+@article{FuAn96a,
+    author={P. Furth and A.G. Andreou}
+}
+
+@inproceedings{FuAn96b,
+    author={P.M. Furth and A.G. Andreou},
+    title={Comparing the Bit-Energy of Continuous and Discrete Signal Representations},
+    booktitle={Proceedings of the Fourth Workshop on Physics and Computation},
+    year= 1996,
+    month={November},
+    publisher={New England Complex Systems Institute},
+    address={Boston, MA},
+    editor={T. Toffoli, M. Biafore, J. Leao},
+    pages={127-133},
+    organization={PhysComp96}
+}
+
+@inproceedings{FuAn96c,
+    author={P.M. Furth and A.G. Andreou},
+    title={Cochlear Model Implemented with Linearized Transconductors},
+    booktitle={Proceedings of the 1996 International Symposium in Circuits and Systems},
+    year= 1996,
+    month={May},
+    address={Atlanta, GA},
+    pages={491-494},
+    volume= 3
+}
+
+@inproceedings{KaAnWoSh96,
+    author={Z. Kalayjian and {A.G. Andreou} and {L.B. Wolff} and N. Sheppard},
+    title={A Polarization Sontrast Retina That Uses Patterned Iodine-Doped {PVA} Film},
+    booktitle={Proceedings of the 22nd European Solid-State Circuits Conference},
+    year= 1996,
+    month={September},
+    address={Neuchatel, Switzerland},
+    pages={308-311},
+    organization={ESSCIRC96}
+}
+
+@inproceedings{KaWaYoAn96,
+    author={Z. Kalayjian and J. Waskiewicz and D. Yochelson and A.G. Andreou},
+    title={Asynchronous Sampling of 2 D Arrays Using Winner-Takes-All Arbitration},
+    booktitle={Proceedings of the 1996 International Symposium on Circuits and Systems},
+    year= 1996,
+    month={May},
+    address={Atlanta, Georgia},
+    pages={393-396},
+    volume= 3
+}
+
+@inproceedings{KuAn96,
+    author={N. Kumar and A.G. Andreou},
+    title={Generalization of Linear Discriminant Analysis in Maximum Likelihood Framework},
+    booktitle={Proceedings Joint Meeting of American Statistical Association},
+    year= 1996,
+    month={August},
+    address={Chicago, IL}
+}
+
+@techreport{KuAn96a,
+    author={N. Kumar and A.G. Andreou},
+    title={On generalizations of linear discriminant analysis},
+    institution={Electrical and Computer Engineering Technical Report-96-07},
+    year= 1996,
+    month={April},
+    school={Johns Hopkins University}
+}
+
+@inproceedings{KuAn96b,
+    author={N. Kumar and A.G. Andreou},
+    title={Generalization of linear discriminant analysis in maximum likelihood framework},
+    booktitle={Proceedings Joint Meeting of American Statistical Association},
+    year= 1996,
+    month={August},
+    address={Chicago, IL}
+}
+
+@inproceedings{KuCaAn96,
+    author={N. Kumar and G. Cauwenberghs and A.G. Andreou},
+    title={A Circuit Model of Hair-Cell Transduction for Temporal Processing and Auditory
+        Feature Extraction},
+    booktitle={Proceedings of the 1996 International Symposium in Circuits and Systems},
+    year= 1996,
+    month={May},
+    address={Atlanta, GA},
+    pages={301-304},
+    volume= 3,
+    note={Also published in: Proceedings of the 29th Annual Conference on Information
+        Sciences and Systems, 350-354, Baltimore, MD, March 1995}
+}
+
+@inproceedings{MaPoAnFr96,
+    author={M.N. Martin and P.O. Pouliquen and A.G. Andreou and M.E. Freaman},
+    title={Current-Mode Differential Logic Circuits for Low Power Digital Systems},
+    booktitle={Proceedings of the 39th Midwest Symposium on Circuits and Systems},
+    year= 1996,
+    month={August},
+    address={Ames, IA},
+    pages={183-186},
+    note={Best Paper Award}
+}
+
+@inproceedings{MeAn96,
+    author={R.C. Meitzler and A.G. Andreou},
+    title={Modeling Non-Uniform Doping in Subthreshold {MOSFETs}},
+    booktitle={Proceedings of the 39th Midwest Symposium on Circuits and Systems},
+    year= 1996,
+    month={August},
+    address={Ames, IA},
+    pages={265-268}
+}
+
+@inproceedings{TeDaHoGrMe96,
+    author={C. Terrill and K. Dang and S. Horn and M. Grenn and R. Meitzler and G. Cauwenberghs
+        and A.G. Andreou},
+    title={Biologically-Inspired Silicon Retinas for Military Applications},
+    booktitle={Proceedings 2nd {NATO/IRIS} Joint Symposium},
+    year= 1996,
+    month={June 26},
+    address={London, England}
+}
+
+@inproceedings{AnBo95,
+    author={A.G. Andreou and K.A. Boahen},
+    title={A 590,000 Transistor, 48,000 Pixel Contrast Sensitive, Edge Enhancing {CMOS}
+        Imager-Silicon Retina-},
+    booktitle={Preceedings of the 16th Conference on Advaced Research in {VLSI}},
+    year= 1995,
+    month={March},
+    address={Chapel Hill, NC},
+    pages={225-240}
+}
+
+@inbook{AndrA95,
+    author={A.G. Andreou},
+    title={Low Power Analog {VLSI} Systems for Sensory Information Processing},
+    year= 1995,
+    publisher={IEEE Press},
+    pages={501-522},
+    editor={B. Shen, E. Sanchez-Sinencio and M. Ismail},
+    note={Microsystems Technologies for Multimedia Applications: An Introduction}
+}
+
+@article{AnMeStBo95,
+    author={A.G. Andreou and R.C. Meitzler and K. Strohbehn and K.A. Boahen},
+    title={Analog {VLSI} Neuromorphic Image Acquisition and Pre-Processing Systems},
+    journal={Neural Networks},
+    volume= 8,
+    year= 1995,
+    pages={1323-1347},
+    number={7-8}
+}
+
+@article{CoAn95,
+    author={M.H. Cohen and A.G.Andreou},
+    title={Analog {CMOS} Integration and Experimentation with an Autoadaptive Independent
+        Component Analyzer},
+    journal={IEEE Transactions on Circuits and Systems, Part II: Analog an Digital Signal
+        Processing},
+    volume= 42,
+    year= 1995,
+    pages={65-77},
+    month={Febuary},
+    number= 2
+}
+
+@inproceedings{CoKaAn95,
+    author={J. Cohen and T. Kamm and A.G. Andreou},
+    title={Vocal Tract Normalization in Spech Recognition: Compensating for Systematic
+        Speaker Variability},
+    booktitle={129th Meeting of the Acoustical Society of America (Abstract in J. Acoust.
+        Soc. Am.)},
+    year= 1995,
+    month={May},
+    pages={3246-3247},
+    volume= 97,
+    note={Pt. 2},
+    number= 5
+}
+
+@article{FuAn95,
+    author={P. Furth and A.G. Andreou},
+    title={A Design Framework for Low Power Analog Filter Banks},
+    journal={IEEE Transactions on Circuits and Systems, Part I: Fundamental Theory and
+        Application},
+    volume= 42,
+    year= 1995,
+    pages={966-971},
+    month={November},
+    number= 11
+}
+
+@article{FuAn95a,
+    author={P. Furth and A.G. Andreou},
+    title={Linearised Differential Transconductors in Subthreshold {CMOS}},
+    journal={IEE Electronics Letters},
+    volume= 31,
+    year= 1995,
+    pages={545-547},
+    month={March},
+    number= 7
+}
+
+@inproceedings{FuAn95b,
+    author={P. Furth and A.G. Andreou},
+    title={Integrators for Continuous Time Analog Auditory Models},
+    booktitle={Proceedings of the 29th Annual Conference on Information Sciences and Systems},
+    year= 1995,
+    month={March},
+    address={Baltimore, MD},
+    pages={360-364}
+}
+
+@inproceedings{FuAn95c,
+    author={P. Furth and A.G. Andreou},
+    title={Transconductor in Subtheshold {CMOS}},
+    booktitle={Proceedings of the 29th Annual Conference on Information Sciences and Systems},
+    year= 1995,
+    month={March},
+    address={Baltimore, MD},
+    pages={153-157}
+}
+
+@inproceedings{KaAn95a,
+    author={Z. Kalayjian and A.G. Andreou},
+    title={Integrated 1-D Polarization Imagers},
+    booktitle={Proceedings of the 29th Annual Conference on Information Sciences and Systems},
+    year={1995},
+    month={March},
+    address={Baltimore, MD},
+    pages={163-168}
+}
+
+@inproceedings{KaAnCo95,
+    author={T. Kamm and A.G. Andreou and J. Cohen},
+    title={Vocal tract normalization in speech recognition: compensating for speaker
+        variability},
+    booktitle={Proceedings of the Fifteenth Annual Speech Research Symposium, Johns Hopkins
+        University},
+    year= 1995,
+    month={June},
+    address={Baltimore, MD},
+    pages={175--178},
+    key={vocal tract normalization}
+}
+
+@inproceedings{KaObAnKh95,
+    author={Z. Kalayjian and A. Obeidat and A.G. Andreou and J. Khurgin},
+    title={Visible Photon Emission from Reverse-Biased Silicon P-N Junctions},
+    booktitle={Proceedings of {OSA} Annual Annual {Meeting/ILS}-{XI}},
+    year= 1995,
+    month={September},
+    address={Oregon},
+    note={Abstract}
+}
+
+@inproceedings{KuCaAn95,
+    author={N. Kumar and G. Cauwenberghs and A.G. Andreou},
+    title={Level Crossing Time Interval Circuit for Micro-Power Analog {VLSI} Auditory
+        Processing},
+    booktitle={Proceedings of the Fifth {IEEE} Workshop on Neural Networks for Signal Processing},
+    year= 1995,
+    month={September},
+    publisher={IEEE},
+    address={MA},
+    editor={F. Girosi and J. Makhoul and E. Manolakos and E. Wilson},
+    pages={581-590}
+}
+
+@inproceedings{KuNeAn95,
+    author={N. Kumar and C. Neti and A.G. Andreou},
+    title={Application of Linear Discriminant Analysis to Speech Recognition with Auditory
+        Features},
+    booktitle={Proceedings of the Fifteenth Annual Speech Research Symposium, Johns Hopkins
+        University},
+    year= 1995,
+    month={June},
+    address={Baltimore, MD},
+    pages={153-160},
+    key={discriminant LDA for speech recognition}
+}
+
+@inproceedings{MeStAn95,
+    author={R.C. Meitzler and K. Stronbehn and A.G. Andreou},
+    title={A Silcon Retina for 2-D Position and Motion Computation},
+    booktitle={Proceedings of the 1995 International Symposium on Circuits and Systems},
+    year= 1995,
+    month={June},
+    address={Seattle, WA},
+    pages={2096-2099},
+    volume={III},
+    note={Invited session}
+}
+
+@inproceedings{PiAn95,
+    author={F.J. Pinneda and A.G Andreou},
+    title={An Analog Neural Network Inspired by Fractal Block Coding},
+    booktitle={Andavces in Neural Information Processing Systems},
+    year= 1995,
+    publisher={Morgan Kaufmann Publishers},
+    address={San Mateo, CA},
+    pages={795-802},
+    volume= 7,
+    note={.}
+}
+
+@article{WoAn95,
+    author={L.B. Wolff and A.G. Andreou},
+    title={Polarization Camera Sensors},
+    journal={Image and Vision Computing},
+    volume={13},
+    year={1995},
+    pages={497-510},
+    month={August},
+    number={6 }
+}
+
+@inproceedings{An94,
+    author={A.G Andreou},
+    title={On Physical Models of Neural Computation and their Analog {VLSI} Implementation},
+    booktitle={Proceedings of the 1994 Workshop on Physics and Computation, {IEEE} Computer
+        Society Press},
+    year= 1994,
+    address={Los-Almitos, CA},
+    pages={255-264}
+}
+
+@incollection{AnBo94,
+    author={A. G. Andreou and K. A. Boahen},
+    title={Neural Information Processing {I}: {T}he Current-Mode Approach},
+    booktitle={Analog {VLSI}},
+    publisher={McGraw-Hill},
+    year= 1994,
+    address={New York},
+    editor={M. Ismail and T. Fiez},
+    chapter= 8,
+    keywords={MOSFET Modeling, Subthreshold CMOS Circuits}
+}
+
+@inbook{AnBo94a,
+    author={A.G. Andreou and K.A. Boahen},
+    title={Neural Information Processing {II}},
+    chapter= 8,
+    year= 1994,
+    publisher={McGraw-Hill Inc.},
+    pages={358-413},
+    note={Analog VLSI: Signal and Information Processing}
+}
+
+@inproceedings{AnBo94b,
+    author={A.G. Andreou and K.A. Boahen},
+    title={A 48,00 Pixel, 590,000 Transistor Silicon Retina in Current-Mode Subtheshold
+        {CMOS}},
+    booktitle={Proceedings of the 37th Midwest Symposium on Circuits and Systems},
+    year= 1994,
+    month={August},
+    address={Lafayette, LA},
+    pages={97-102},
+    note={Best Paper Award}
+}
+
+@inproceedings{AndrA94c,
+    author={A. G. Andreou},
+    title={On physical models of neural computation and their analog VLSI implementation},
+    booktitle={Proceedings of the 1994 Workshop on Physics and Computation},
+    year= 1994,
+    publisher={IEEE Computer Society Press},
+    address={Los Alamitos CA},
+    pages={255--264}
+}
+
+@inproceedings{AnEd94,
+    author={A.G Andreou and T.G. Edwards},
+    title={Analog {VLSi} Neuormatic Processing: Case Study Multiple-Target Tracking
+        System},
+    booktitle={Proceedings of the 1994 International Conference on Neural Network},
+    year= 1994,
+    month={June},
+    address={Tampa, FL}
+}
+
+@inproceedings{EdAn94,
+    author={T.G. Edwards and A.G. Andreou},
+    title={{VLSI} Phase-Locking Architectures for Feature Linking in Multiple Target
+        Tracking Systems},
+    booktitle={Advances in Neural Information Processing Systems},
+    year= 1994,
+    publisher={Morgan Kaufmann Publishers},
+    address={San Mateo, CA},
+    pages={866-873},
+    volume= 6
+}
+
+@inproceedings{FuKuAnGo94,
+    author={P.M. Furth and N. Kumar and A.G. Andreou and M.H. Goldstein, Jr.},
+    title={Experiments with the Hopkins Electronic {EAR}},
+    booktitle={Proceedings of the 14th Annual Speech Research Symposium},
+    year= 1994,
+    month={May},
+    address={Baltimore, MD},
+    pages={183-189}
+}
+
+@article{KaAn94,
+    author={V. Kantabutra and A.G. Andreou},
+    title={A State Assignment Approach to Asynchronous},
+    journal={IEEE Transactions on Computers},
+    volume= 43,
+    year= 1994,
+    pages={460-469},
+    month={April},
+    number= 4
+}
+
+@inproceedings{MiYaPoKuAn94,
+    author={H. Miwa and K. Yangand P.O. Pouliquen and N. Kumar and A.G. Andreou},
+    title={Storage Enhancement Techniques for Digital Memory Based, Analog Computational
+        Engines},
+    booktitle={Proceedings of the 1994 International Symposium on Circuits and Systems},
+    year= 1994,
+    month={June},
+    address={London},
+    pages={45-48},
+    volume= 5
+}
+
+@article{PaAn94,
+    author={A. Pavasovi{\'{c}} and A. G. Andreou},
+    title={Characterization of Subthreshold {MOS} Mismatch in Transistors for {VLSI}
+        Systems},
+    journal={J. VLSI Signal Processing},
+    volume= 8,
+    year= 1994,
+    pages={75--85},
+    keywords={MOSFET Mismatch and MOSFET Modeling}
+}
+
+@article{PaAnWe94,
+    author={A. Pavasovic and A.G. Andreou and C.R. Westgate},
+    title={Characterization of Subthreshold {MOS} Mismatch in Transistors for {VLSI}
+        Systems},
+    journal={Journal of Analog Integrated Circuits and Signal Processing},
+    volume= 6,
+    year= 1994,
+    pages={75-85},
+    month={July}
+}
+
+@article{YaAn94,
+    author={K. Yang and A.G. Andreou},
+    title={A Multiple Input Differential Amplifier Based on Charge Sharing on a Floating
+        Gate {MOSFET}},
+    journal={Journal of Analog Integrated Circuits and Signal Processing},
+    volume= 6,
+    year= 1994,
+    pages={197-208},
+    month={November},
+    number= 3
+}
+
+@inproceedings{YaAn94a,
+    author={K.Yang and A.G. Andreou},
+    title={The Multiple Input Floating Gate {MOS} Differential Amplifier: An Analog
+        Computational Building Block},
+    booktitle={Proceedings of the 1994 International Syposium on Circuits and Systems},
+    year= 1994,
+    month={June},
+    address={London},
+    pages={37-40},
+    volume= 5
+}
+
+@inproceedings{YaMeAn94,
+    author={K. Yang and R. C. Meitzler and A. G. Andreou},
+    title={A Model for {MOS} Effective Channel Mobility with Emphasis in the Subthreshold
+        and Transition Regions},
+    booktitle={Proc. ISCAS, Vol. 1},
+    year= 1994,
+    publisher={IEEE},
+    address={London},
+    pages={429--432},
+    keywords={MOSFET Mobility}
+}
+
+@inproceedings{YaMeAn94a,
+    author={K. Yang and R.C. Meizler and A.G. Andreou},
+    title={A Model for {MOS} Effective Channel Mobility with Emphasis in Subthreshold
+        and Transition Region},
+    booktitle={Proceedings of the 1994 International Syposium on Circuits and Systems},
+    year= 1994,
+    month={June},
+    address={London},
+    pages={431-434},
+    volume= 1
+}
+
+@phdthesis{YangK94,
+    author={K. Yang},
+    title={An Investigation of {MOSFET} and Floating-Gate {MOSFET} Devices and Circuits
+        for Analog {VLSI}},
+    school={Johns Hopkins University},
+    year= 1994,
+    keywords={MOSFET Mobility and Floating Gate MOSFETs and MOSFET Modeling}
+}
+
+@inproceedings{AndrA93,
+    author={A.G. Andreou},
+    title={Analog {VLSI} Neuromorphic Systems},
+    booktitle={Proceedings of the 1993 International Symposium on Circuits and Systems},
+    year= 1993,
+    month={May},
+    address={Chicago, IL},
+    pages={1471-1474},
+    note={invited session}
+}
+
+@inproceedings{AnLi93,
+    author={A.G. Andreou and W. Liu},
+    title={{BiCMOS} Circuits for Silicon Cochleas},
+    booktitle={Proceedings of the 1993 European Conference on Circuit Theory and Design},
+    year= 1993,
+    publisher={Elsevier Science Publishers B.V.},
+    address={Davos, Switzerland},
+    editor={H. Dedieu},
+    pages={503-508},
+    note={Circuit Theory and Design 1993}
+}
+
+@inbook{BoAn93,
+    author={K.A. Boahen and A.G. Andreou},
+    title={Design of a Bidirectional Associative Memory Chip},
+    chapter= 17,
+    year= 1993,
+    publisher={Oxford University Press},
+    pages={288-305},
+    editor={M.H. Hassoun},
+    note={Associative Neural Memories: Theory and Implemantation}
+}
+
+@inproceedings{FuAn93,
+    author={P.M. Furth and A.G. Andreou},
+    title={A High-Drive Low=Power {BiCOMS} Buffer Using Compound {PMOS/NPN} Transistors},
+    booktitle={Proceedings of the 36th Midwest Symposium on Circuits and Systems},
+    year= 1993,
+    month={August},
+    address={Detroit, MI},
+    pages={1369-1372}
+}
+
+@inproceedings{KuPoAn93,
+    author={N. Kumar and P.O. Pouliquen and A.G. Andreou},
+    title={Device Mismatch Limitations on the Performance of a Hamming Distance Classifier},
+    booktitle={1993 {IEEE} International Workshop on Defect and Fault Tolerance},
+    year= 1993,
+    publisher={IEEE Computer Society Press},
+    address={Los-Alamitos, CA},
+    editor={Y. Savaria, R. Stefanelli},
+    pages={327-334}
+}
+
+@inproceedings{KuPoAn93a,
+    author={N. Kumar and P.O. Pouliquen and A.G. Andreou},
+    title={Device Mismatch Limitations on the Performance of an Associative Memory
+        System},
+    booktitle={Proceedings of the 36th Midwest Symposium on Circuits and Systems},
+    year= 1993,
+    month={August},
+    address={Detroit, MI},
+    pages={570-573}
+}
+
+@inproceedings{LiAnGo93,
+    author={W. Liu and A.G. Andreou and M.H. Goldstien},
+    title={An Analog Cochlear Model for Multiresolution Speech Analysis},
+    booktitle={Advances in Neural Information Processing Systems},
+    year= 1993,
+    publisher={Morgan Kaufmann Publishers},
+    address={San Mateo},
+    pages={666-673},
+    volume= 5
+}
+
+@inproceedings{MeAn93,
+    author={R.C. Meitzler and A.G. Andreou},
+    title={On the Simulation of Analog {VLSI} Systems Operating in Subthreshold and
+        Transition Regions},
+    booktitle={Proceedings of the 10th Biennial University Industry Microelectronics Symposium},
+    year= 1993,
+    month={May},
+    address={Research Triangle Park, NC},
+    pages={145-149}
+}
+
+@inproceedings{MeAnStJe93,
+    author={R.C. Meitzler and A.G. Andreou and K. Strohbehn and R.E. Jenkins},
+    title={A Sampled-Data Motion Chip},
+    booktitle={Proceedings of the 36th Midwest Symposium on Circuits and Systems},
+    year= 1993,
+    month={August},
+    address={Detroit, MI},
+    pages={288-291}
+}
+
+@misc{MeIs93,
+    title={Analog {VLSI} Implementation of Neural Systems},
+    year= 1993,
+    month={March},
+    editor={C.A. Mead, M. Ismail},
+    note={book review in IEEE Transactions on Neural Networks}
+}
+
+@article{PaAnSa93,
+    author={N.P. Pashalidis and A.G. Andreou and E.T. Sarris},
+    title={A {CMOS} Analog-Digital Integrated Circuit for Charged Particle Spectrum
+        Measurements},
+    journal={IEEE Transactions on Nuclear Science},
+    volume= 40,
+    year= 1993,
+    pages={1313-1318},
+    month={August},
+    number= 4
+}
+
+@inproceedings{PoAnStJe93,
+    author={P.O. Pouliquen and A.G. Andreou and K. Strohbehn and R.E. Jenkins},
+    title={An Associative Memory Integrated System for Character Recognition},
+    booktitle={Proceedings of the 36th Midwest Symposium on Circuits and Systems},
+    year= 1993,
+    month={August},
+    address={Detroit, MI},
+    pages={762-765},
+    note={invited session}
+}
+
+@unpublished{YaAn93,
+    author={K. Yang and A. G. Andreou},
+    title={A Continuous Physical Model for {MOSFET}s Based on Surface Potential Fluctuations},
+    note={Early current modeling work by Kewei},
+    year= 1993,
+    keywords={MOSFET Modeling}
+}
+
+@inproceedings{YaAn93a,
+    author={K. Yang and A.G. Andreou},
+    title={Multiple Input Floating-Gate {MOS} Differential Amplifiers and Applications
+        for Analog Computation},
+    booktitle={Proceedings of the 36th Midwest Symposium on Circuits and Systems},
+    year= 1993,
+    month={August},
+    address={Detroit, MI},
+    pages={1212-1216}
+}
+
+@inproceedings{YaAn93b,
+    author={K. Yang and A.G. Andreou},
+    title={Subthreshold Analysis of Floating Gate {MOSFET's}},
+    booktitle={Proceedings of the 10th Biennial University Industry Microelectronics Symposium},
+    year= 1993,
+    month={May},
+    address={Research Triangle Park, NC},
+    pages={141-144}
+}
+
+@techreport{AndrA92,
+    author={A. G. Andreou},
+    title={Minimal Circuit Models of Neurons, Synapses and Multivariable Functions
+        for Analog {VLSI} Neuromorphic Computation},
+    institution={Dept. of Electrical and Computer Engineering, Johns Hopkins University},
+    year= 1992,
+    month={November},
+    address={Baltimore, MD},
+    number={JHU/ECE-92/13},
+    keywords={MOSFET Physics and Subthreshold CMOS Circuits}
+}
+
+@inproceedings{BoAn92,
+    author={K.A. Boahen and A.G. Andreou},
+    title={A Contrast Sensitive Silicon Retina with Reciprocal Synapses},
+    booktitle={Advances in Neural Information Processing Systems},
+    year= 1992,
+    publisher={Morgan Kafmann Publishers},
+    address={San Mateo},
+    pages={764-772},
+    volume= 4,
+    note={Reprinted in: Analog Vision Chips, C. Koch editor, IEEE Press, 1993}
+}
+
+@article{CoAn92,
+    author={M.H. Cohen and A.G. Andreou},
+    title={Current-Mode Subthreshold {MOS} Implementation of the Herault-Jutten Auto-Adaptive
+        Network},
+    journal={IEEE Journal of Solid-State Circuits},
+    volume={SC-27},
+    year= 1992,
+    pages={713-727},
+    month={May},
+    number= 5
+}
+
+@article{CoAn92a,
+    author={M.H. Cohen and A.G. Andreou},
+    title={{MOS} Circuit for Nonlinear Hebbian Learning},
+    journal={IEE Electronics Letters},
+    volume= 28,
+    year= 1992,
+    pages={591-593},
+    month={March},
+    number= 6
+}
+
+@inproceedings{CoPoAn92,
+    author={M.H. Cohen and P.O. Pouliquen and A.G. Andreou},
+    title={Silicon Implementation of the Herault-Jutten Neural Network Model for the
+        Separation of Independent Signal Sources},
+    booktitle={Advances in Neural Information Processing Systems},
+    year= 1992,
+    publisher={Morgan Kaufmann Publishers},
+    address={San Mateo},
+    pages={805-812},
+    volume= 4
+}
+
+@inproceedings{FuAn92,
+    author={P. Furth and A.G. Andreou},
+    title={On Fault Probabilities and Yield Models for Analog {VLSI} Neural Networks},
+    booktitle={1992 {IEEE} International Workshop on Defect and Fault Tolerance in {VLSI}
+        Systems},
+    year= 1992,
+    publisher={IEEE Computer Society Press},
+    address={Los-Alamitos, CA},
+    editor={D.M. Walker and F. Lombardi},
+    pages={167-175}
+}
+
+@article{LiAnGo92,
+    author={W. Liu and A.G. Andreou and M.H. Goldstein},
+    title={Voiced-Speech Representation by an Analog Silicon Model of the Auditory
+        Periphery},
+    journal={IEEE Transactions on Neural Networks},
+    volume= 3,
+    year= 1992,
+    pages={477-487},
+    month={May},
+    number= 3
+}
+
+@inproceedings{LiGoAn92,
+    author={W. Liu and M.H Goldstein and A.G. Andreou},
+    title={Multiresolution Speech Analysis with an Analog Cochlear Model},
+    booktitle={Proceedings of the {IEEE}-{SP} International Symposium on Time-Frequency
+        and Time-Scale Analysis},
+    year= 1992,
+    month={October},
+    publisher={IEEE},
+    address={Victoria, BC},
+    pages={433-436}
+}
+
+@inproceedings{StRuAnJe92,
+    author={K. Strohbehn and D.M. Rust and A.G. Andreou and R.E. Jenkins},
+    title={A Biologically Inspired Image Position Sensor},
+    booktitle={Proceedings of the 13th Sacramento Peak Summer Workshop},
+    year= 1992,
+    address={Sunspot, NM},
+    note={in Real Time and Post-Facto Image Correction}
+}
+
+@inproceedings{AnBo91,
+    author={A.G. Andreou and K.A. Boahen},
+    title={Modeling Inner and Outer Plexiform Retinal Processing Using Non-Linear,
+        Coupled Resistive Networks},
+    booktitle={Proceddings of the 1991 {SPIE/SPSE} Symposium, Volume 1453 Human Vision,
+        Visual Processing and Digital Display {II}},
+    year= 1991,
+    month={February},
+    address={San Jose},
+    pages={270-281}
+}
+
+@article{AnBoPaPoJe91,
+    author={A.G. Andreou and K.A. Boahenand A. Pavasovic and P.O. Pouliquen and R.E.
+        Jenkins and K. Strohbehn},
+    title={Current-Mode Subthreshold {MOS} Circuits for Analog {VLSI} Neural Systems},
+    journal={IEEE Transactions on Neural Networks},
+    volume= 2,
+    year= 1991,
+    pages={205-213},
+    month={March},
+    number= 2
+}
+
+@inproceedings{AnCo91,
+    author={A.G. Andreou and M.H. Cohen},
+    title={Unsupervised Learning on Silicon for Real Time Separation of Independent
+        Signal Sources},
+    booktitle={Neural Networks for Computing (Abstract)},
+    year= 1991,
+    month={April},
+    address={Snowbird}
+}
+
+@article{AndrA91,
+    author={A.G. Andreou},
+    title={News and Views, Editorial Article},
+    journal={Nature},
+    volume= 354,
+    year= 1991,
+    pages= 501 ,
+    month={December},
+    number= 6354
+}
+
+@inproceedings{AndrA91a,
+    author={A.G. Andreou},
+    title={Current-Mode Techniques for Analog {VLSI}: Technology and Defect Tolerance
+        Issues},
+    booktitle={1991 International Workshop on Defect and Fault Tolerance in {VLSI} Systems},
+    year= 1991,
+    publisher={IEEE Computer Society Press},
+    address={Los Alamitos, CA},
+    editor={W. Maly, D.M. Walker},
+    pages={28-31}
+}
+
+@inproceedings{AnStJe91,
+    author={A.G. Andreou and K. Strohbehn and R.E. Jenkins},
+    title={Silicon Retina for Motion Computation},
+    booktitle={Proceedings of the 1991 International Symposium on Circuits and Systems},
+    year= 1991,
+    month={June},
+    address={Singapore},
+    pages={1373-1376},
+    note={invited session}
+}
+
+@inproceedings{AyAnWe91,
+    author={S.G. Ayyar and A.G. Andreou and C.R. Westgate},
+    title={A Physical {GaAs} {MESFET} Model Implemented in {SPICE}},
+    booktitle={Proceedings of the 1991 International Symposium on Circuits and Systems},
+    year= 1991,
+    month={June},
+    address={Singapore},
+    pages={2729-2732}
+}
+
+@inproceedings{CoPoAn91,
+    author={M.H. Cohen and P.O. Pouliquen and A.G. Andreou},
+    title={An Auto-Adaptive Synthetic Neural Network for Real Time Separation of Independent
+        Signal Sources},
+    booktitle={Proceedings of the 1991 International Joint Conference on Neural Networks},
+    year= 1991,
+    month={July},
+    address={Seattle, WA},
+    pages={211-214}
+}
+
+@inproceedings{CoPoAn91a,
+    author={M.H. Cohen and P.O. Pouliquen and A.G. Andreou},
+    title={Silicon Implementation of an Auto-Adaptive Network for the Real-Time Separation
+        of Independent Signals},
+    booktitle={Proceedings of the 1991 International Symposium on Circuits and Systems},
+    year= 1991,
+    month={June},
+    address={Singapore},
+    pages={2971-2974}
+}
+
+@inproceedings{CoPoAn91b,
+    author={M.H. Cohen and P.O. Pouliquen and A.G. Andreou},
+    title={Silicon {VLSI} Implementation of an Auto-Adaptive Network for the Real-Time
+        Separation of Independent Signal Sources},
+    booktitle={Proceedings of the 25th Annual Conference on Information Sciences and Systems},
+    year= 1991,
+    month={March},
+    address={Baltimore, MD},
+    pages={856-861}
+}
+
+@inproceedings{KaAn91,
+    author={V. Kantabutra and A.G. Andreou},
+    title={On a General Design Principle for Low-Power, Digital {VLSI} Circuits},
+    booktitle={Proceedings of the 25th Annual Conference on Information Sciences and Systems},
+    year= 1991,
+    month={March},
+    address={Baltimore, MD},
+    pages={254-260}
+}
+
+@inproceedings{LiAnGo91,
+    author={W. Liu and A.G. Andreou and M.H. Goldstein},
+    title={An Analog Integrated Speech Front-End Based on the Auditory Periphery},
+    booktitle={Proceedings of the 1991 International Joint Conference on Neural Networks},
+    year= 1991,
+    month={July},
+    address={Seattle, WA},
+    pages={861-864}
+}
+
+@inproceedings{LiAnGo91a,
+    author={W. Liu and A.G. Andreou and M.H. Goldstein},
+    title={Analog Speech Processor Based on the Auditory Periphery},
+    booktitle={121st Meeting of the Acoustical Society of America},
+    year= 1991,
+    month={April},
+    pages= 1937,
+    volume= 89,
+    note={Abstract in J. Acoust. Soc. Am.},
+    number={4 Pt. 2}
+}
+
+@inproceedings{LiAnGo91b,
+    author={W. Liu and A.G. Andreou and M.H. Goldstein},
+    title={Analog {VLSI} Implementation of an Auditory Periphery Model},
+    booktitle={Proceedings of the 25th Annual Conference on Information Sciences and Systems},
+    year= 1991,
+    month={March},
+    address={Baltimore, MD},
+    pages={630-635}
+}
+
+@inproceedings{PaAnWe91,
+    author={A. Pavasovic and A.G. Andreou and C.R. Westgate},
+    title={Characterization of {CMOS} Process Variations by Measuring Subthreshold
+        Current},
+    booktitle={Nondestructive Characterization of Materials {IV}},
+    year= 1991,
+    publisher={Plenum Press},
+    address={New York},
+    editor={R.E. Green, C.O. Ruud}
+}
+
+@inproceedings{PoBoAn91,
+    author={P.O. Pouliquen and K.A. Boahen and A.G. Andreou},
+    title={A Gray-Code {MOS} Current-Mode Analog-to-Digital Converter Design},
+    booktitle={Proceedings of the 1991 International Symposium on Circuits and Systems},
+    year= 1991,
+    month={June},
+    address={Singapore},
+    pages={1924-1927}
+}
+
+@article{AnBo90,
+    author={A.G. Andreou and K.A. Boahen},
+    title={Signal Representations and Scaling Issues in Analog {VLSI}: Case Study of
+        the Bidirectional Associative Memory Model},
+    journal={Neural Networks for Computing (Abstract)},
+    year= 1990,
+    month={April},
+    note={Snowbird}
+}
+
+@article{AndrA90,
+    author={A.G. Andreou},
+    title={Analog {VLSI} and Neural Systems by C.A. Mead, A Book Review},
+    journal={IEEE Transactions on Neural Networks},
+    volume= 1,
+    year= 1990,
+    pages={149-150},
+    month={March},
+    number= 1,
+    note={Reprinted in Proceedings of the IEEE Vol. 78, No. 1, 1765-1766, November
+        1990}
+}
+
+@inproceedings{AndrA90a,
+    author={A.G. Andreou},
+    title={Synthetic Neural Systems Using Current-Mode Circuits},
+    booktitle={Proceedings of the 1990 {IEEE} International Symposium on Circuits and Systems},
+    year= 1990,
+    month={May},
+    publisher={IEEE},
+    address={New Orleans},
+    pages={2428-2432},
+    note={invited session}
+}
+
+@inbook{AnKo90,
+    author={A.G. Andreou and S. Kontogiorgis},
+    title={Defect and Fault Tolerance in {VLSI} Systems},
+    chapter={Fault tolerance in analog VLSI: case study of a focal plane processor},
+    year= 1990,
+    publisher={Plenum Press},
+    pages={227-240},
+    volume= 2,
+    address={New York},
+    editor={C.H. Stapper, V.K. Jain, G. Saucier}
+}
+
+@inproceedings{AnSt90,
+    author={A.G. Andreou and K. Strohbehn},
+    title={Analog {VLSI} Implementation of the Hassenstein-Reichardt-Poggio Models
+        for Vision Computation},
+    booktitle={Proceedings of the 1990 International Conference on Systems, Man, and Cybernetics},
+    year= 1990,
+    month={November},
+    address={Los Angeles},
+    pages={707-710},
+    note={invited session}
+}
+
+@inproceedings{AyAnWe90,
+    author={S.G. Ayyar and A.G. Andreou and C.R. Westgate},
+    title={A Physical {SPICE} Model for {GaAs} {MESFET's}},
+    booktitle={Proceedings of the 1990 {IEEE} {VLSI} Test Symposium},
+    year= 1990,
+    month={April},
+    publisher={IEEE},
+    address={Atlantic City, NJ}
+}
+
+@article{LiAnGo90,
+    author={W. Liu and A.G. Andreou and M.H. Goldstein},
+    title={Speech Preprocessing Using Analog {VLSI}},
+    journal={J. Acoust. Soc. Am. Suppl. 1 (Abstract)},
+    volume= 87,
+    year= 1990,
+    pages={S109},
+    month={Spring},
+    note={119th Meeting of the Acoustical Society of America}
+}
+
+@article{AnBo89,
+    author={A.G. Andreou and K.A. Boahen},
+    title={Synthetic Neural Circuits Using Current-Domain Signal Representations},
+    journal={Neural Computation},
+    volume= 1,
+    year= 1989,
+    pages={489-501},
+    number= 4
+}
+
+@incollection{AndrA89,
+    author={A. G. Andreou},
+    title={In-{S}itu Characterization of Carrier Mobility in Field Effect Transistors},
+    booktitle={Rev. Prog. Quantitative Nondestructive Evaluation, Vol. 8B},
+    publisher={Plenum Press},
+    year= 1989,
+    address={New York},
+    editor={D. O. Thompson and D. E. Chimenti},
+    keywords={MOSFET Mobility, Hall Effect}
+}
+
+@inproceedings{AndrA89a,
+    author={A.G. Andreou},
+    title={In-Situ Characterization of Carrier Mobility in Field Effect Transistors},
+    booktitle={Review of Progress in Quantitative Nondestructive Evaluation 8B},
+    year= 1989,
+    publisher={Plenum Press},
+    address={New York},
+    editor={D.O. Thompson, D.E. Chimenti},
+    pages={1247-1254}
+}
+
+@inproceedings{AndrA89b,
+    author={A.G. Andreou},
+    title={Electronic Receptors Fot Tactile/Haptic Sensing},
+    booktitle={Advances in Neural Information Processing},
+    year= 1989,
+    publisher={Morgan Kaufmann Publishers},
+    address={San Mateo},
+    editor={D.S. Touretzky},
+    pages={785-792},
+    volume= 1
+}
+
+@inproceedings{AnStJe89,
+    author={A.G. Andreou and K. Strohbehn and R.E. Jenkins},
+    title={A Hardware Implementation of the Reichardt Motion Dectector},
+    booktitle={Neural Networks for Computing (Abstract)},
+    year= 1989,
+    month={April},
+    address={Snowbird}
+}
+
+@inbook{BoAnPoPa89,
+    author={K.A. Boahen and A.G. Andreou and P.O. Pouliquen and A. Pavasovic},
+    title={Advanced Research in {VLSI}},
+    chapter={Architectures for Associative Memories Using Current-Mode Analog {MOS} Circuits},
+    year= 1989,
+    publisher={MIT Press},
+    pages={175-193},
+    address={Cambridge, MA},
+    editor={C.L. Seitz}
+}
+
+@article{BoPoAnJe89,
+    author={K.A. Boahen and P.O. Pouliquen and A.G. Andreou and R.E. Jenkins},
+    title={A Heteroassociative Memory Using Current-Mode {MOS} and Analog {VLSI} Circuits},
+    journal={IEEE Transactions on Circuits and Systems},
+    volume={CAS-33},
+    year= 1989,
+    pages={747-755},
+    month={May},
+    number= 5,
+    note={Reprinted in: Artificial Neural Networks, IEEE Press 1992}
+}
+
+@inproceedings{KoAn89,
+    author={S.A. Kontogiorgis and A.G. Andreou},
+    title={A Spatial Mean and Median Filter in Analog {VLSI}},
+    booktitle={Proceedings of the 23rd Annual Conference on Information Sciences and Systems},
+    year= 1989,
+    month={March},
+    address={Baltimore, MD},
+    pages={447-452}
+}
+
+@inproceedings{KoAn89a,
+    author={S.A. Kontogiorgis and A.G. Andreou},
+    title={Performance and Fault Tolerance of a Focal-Plane Sensory System in Analog
+        {VLSI}},
+    booktitle={Transducers 89, Proceedings of the 5th International Conference on Solid-State
+        Sensors and Actuators},
+    year= 1989,
+    month={June},
+    address={Montreux},
+    pages={181-182}
+}
+
+@inproceedings{StAn89,
+    author={K. Strohbehn and A.G. Andreou},
+    title={A Bit-Serial {VLSI} Receptive Field Accumulator},
+    booktitle={Proceedings of the 1989 Custom Integrated Circuits Conference},
+    year= 1989,
+    month={May},
+    address={San Diego, CA},
+    pages={12.5.1-12.5.6}
+}
+
+@article{AnCh88,
+    author={A.G. Andreou and D.N. Christodoulides},
+    title={A Novel Optical Probe to Measure Mobility in Electro-Optic Materials},
+    journal={International Journal of Optoelectronics},
+    volume= 3,
+    year= 1988,
+    pages={73-77},
+    month={Jan-Feb},
+    number= 1
+}
+
+@inproceedings{AndrA88,
+    author={A.G. Andreou},
+    title={Neural Architectures for Smart Memories in Analog {VLSI}},
+    booktitle={Proceedings of the 1988 {IEEE} International Symposium on Intelligent Control},
+    year= 1988,
+    month={August},
+    publisher={IEEE},
+    address={Arlington, VA},
+    pages={671-676}
+}
+
+@techreport{BoAn88a,
+    author={K. A. Boahen and A. G. Andreou},
+    title={A Physical Model of the Retina that explains Optical Illusions},
+    institution={Johns Hopkins Univ., Dept. of Elec. and Comp. Eng.},
+    year= 1988,
+    address={Baltimore, MD},
+    number={JHU-ECE-88/11},
+    keywords={Vision Theory}
+}
+
+@article{ElShAnMaAn88,
+    author={M.E. Eldefrawi and S.M. Sherby and A.G. Andreou and N.A. Mansour and Z.
+        Annau and N.A. Blumand J.J. Valdes},
+    title={Acetylcholine Receptor-Based Biosensor},
+    journal={Analytical Letters},
+    volume= 21,
+    year= 1988,
+    pages={1665-1680},
+    number= 9
+}
+
+@inproceedings{MeAnChWaWe88,
+    author={D.M. Mechtel and A.G. Andreou and D.N. Christodoulides and J. Wagner and
+        C.R. Westgate and C.H. Palmer and T.O. Poehler},
+    title={Sub-Bandgap Laser Probing of {GaAs} Devices and Circuits},
+    booktitle={Review of Progress in Quantitative Nondestructive Evaluation 7B},
+    year= 1988,
+    publisher={Plenum Press},
+    address={New York},
+    editor={D.O. Thompson, D.E. Chimenti},
+    pages={1133-1140}
+}
+
+@inproceedings{PaAnWe88,
+    author={A. Pavasovic and A.G. Andreou and C.R. Westgate},
+    title={An Investigation of Minimum-Size, Nano-Power, {MOS} Current Mirrors for
+        Use in Analog {VLSI} Systems},
+    booktitle={Proceedings of the 31st Midwest Symposium on Circuits and Systems},
+    year= 1988,
+    month={August},
+    address={St. Louis},
+    pages={421-424}
+}
+
+@article{AnWe87,
+    author={A.G. Andreou and C.R. Westgate},
+    title={In-Situ Mobility Profiling of {GaAs} {MESFET's} Using the Hall Current Technique},
+    journal={IEEE Transactions Electron Devices},
+    volume={ED-34},
+    year= 1987,
+    pages={1441-1447},
+    month={July},
+    number= 7
+}
+
+@inproceedings{AnWeTh86,
+    author={A.G. Andreou and C.R. Westgate and M.J. Thoma},
+    title={In-Situ Mobility Profiling of Short Channel Field Effect Transistors Using
+        the Hall-Current Technique},
+    booktitle={44th Annual Device Research Conference},
+    year= 1986,
+    month={November},
+    publisher={IEEE},
+    pages= 1850,
+    volume={ED-33},
+    note={Abstract in IEEE Transactions on Electron Devices},
+    number= 11
+}
+
+@inproceedings{NeStHuAn86,
+    author={A.L. Newman and W.D. Stanbro and K.W. Hunter and A.G. Andreou},
+    title={Development of an Antibody Modulated Planar Capacitive Sensor},
+    booktitle={Proceedings of the {IEEE} Conference on Synthetic Microstructures in Biological
+        Research},
+    year= 1986,
+    month={March},
+    publisher={IEEE},
+    address={Arlie}
+}
+
+@article{AnWe85,
+    author={A.G. Andreou and C.R. Westgate},
+    title={Hall-Effect Measurement on Short-Channel Devices Using the Van der Pauw
+        Dual Technique},
+    journal={Proceedings of the IEEE Letters},
+    volume= 73,
+    year= 1985,
+    pages={489-490},
+    month={March},
+    number= 3
+}
+
+@article{ChAnJoWe85,
+    author={D.N. Christodoulides and A.G. Andreou and R.I. Joseph and C.R. Westgate},
+    title={Analytical Calculation of the Quantum-Mechanical Transmission Coefficient
+        for a Triangular, Planar-Doped Potential Barrier},
+    journal={Solid-State Electronics},
+    volume= 28,
+    year= 1985,
+    pages={821-822},
+    number= 8
+}
+
+@article{AnWe84,
+    author={A.G. Andreou and C.R. Westgate},
+    title={The Magnetotransistor Effect},
+    journal={IEE Electronics Letters},
+    volume= 20,
+    year= 1984,
+    pages={699-701},
+    month={August},
+    number= 17
+}
+
+@inproceedings{AnWe84a,
+    author={A.G. Andreou and C.R. Westgate},
+    title={A.C. Characterization and Modeling of Lateral Bipolar Magnetotransistors},
+    booktitle={Proceedings of the {IEEE} International Electron Devices Meeting},
+    year= 1984,
+    month={December},
+    publisher={IEEE},
+    address={San Francisco, CA},
+    pages={564-567},
+    note={Student Paper}
+}
+
+@inproceedings{AnWe84b,
+    author={A.G. Andreou and C.R. Westgate},
+    title={The Magnetosensitivity and the Spatial Resolution of Lateral Bipolar Magnetotransistors},
+    booktitle={Proceeedings of the 1984 {IEEE} Solid-State Sensors Conference (Abstract)},
+    year= 1984,
+    month={June},
+    publisher={IEEE},
+    address={Hilton Head Island}
+}

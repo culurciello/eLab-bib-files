@@ -1,0 +1,148 @@
+
+%%% only circuits pampas and circuit techniques here:
+%%% also noise articles, noise, circuit noise
+
+@article{EnTe82,
+    author={C.C. Enz and G.C Temes},
+    title={Circuits techniques for reducing the effect of {Op-Amp} imperfections: autozeroing, correlated double-sampling, and chopper stabilization},
+    journal={IEEE Proceedings},
+    year={1996},
+    month = {November},
+    volume = 84,
+    number = 11,
+    pages={969 - 982}
+}
+
+@article{DeVi85,
+    author={M. Degrauwe and E.A. Vittoz},
+    title={A MicroPower CMOS-Instromentation Amplifier},
+    journal={{IEEE} Journal Of Solid-State Circuits},
+    year={1985},
+    month = {June},
+    volume = {SC-20},
+    number = 3,
+    pages={805 - 807}
+}
+
+
+@inproceedings{VittE94,
+    author={E.A. Vittoz},
+    title={Low-power design: ways to approach the limits},
+    booktitle={{IEEE} International Solid-State Circuits Conference, {ISSCC '94}},
+    year={1994},
+    address={San Francisco, CA},
+    pages={14 - 18}
+}
+
+@inproceedings{Kotani99,
+    author={Koji Kotani, Tadahiro Homi},
+    title={Feedback Charge-Transfer Comparator with Zero Static Power},
+    booktitle={{IEEE} International Solid-State Circuits Conference, {ISSCC '99}},
+    year={1999},
+    address={San Francisco, CA},
+    pages={328 - 329}
+}
+
+@article{grme82,
+    author={P.R. Gray and R.G. Meyer},
+    title={MOS Operational Amplifier Design A Tutorial Overview},
+    journal={IEEE Journal Of Solid-State Circuits},
+    year={1982},
+    month = {December},
+    volume = {SC-17},
+    number = 6,
+    pages={969 - 982}
+}
+
+@conference{YuYoSu01,
+	Author = {Yuan, F. and Youssef, M. and Sun, Y.},
+	Booktitle = {Electrical and Computer Engineering, 2001. Canadian Conference on},
+	Date-Added = {2010-06-16 11:02:25 -0400},
+	Date-Modified = {2010-06-16 11:02:25 -0400},
+	Title = {Efficient modeling and analysis of clock feed-through and charge injection of switched current circuits},
+	Volume = {1},
+	Year = {2001}}
+	
+	
+	
+% noise related articles:
+
+@article{GoPeRe04,
+    author={G Gomila and C. Pennetta and L. Reggiani and G Ferrari and G. Bertuccio},
+    title={Shot noise in linear macroscopic resistors},
+    journal={Physical Review letters},
+    volume= 92,
+    year= 2004,
+    month = {June},
+    pages={226601-1},
+    number= 22
+}
+
+
+@article{Johnson28,
+    author={J. Johnson},
+    title={Thermal Agitation of Electricity In Conductors},
+    journal={Physical Review},
+    volume= 32,
+    year= 1928,
+    month = {July},
+    pages={97-109},
+    number= 7
+}
+
+@article{Sarpeshkar93,
+    author={R. Sarpeshkar and T. Delbruk and C. Mead},
+    title={"White Noise in MOS Transistors and Resistors"},
+    journal={IEEE Circuits and Devices Magazine},
+    publisher={IEEE},
+    year= 1993,
+    month = {November},
+    pages={23-29},
+}
+
+@article{Nemi01,
+    author={Y. Nemirowsky and I. Brouk and C. Jacobson},
+    title={1/f Noise in CMOS Transistors for Analog Applications},
+    journal={IEEE Transactions On Electronic Devices},
+    volume= {48},
+    menth={May},
+    year= 2001,
+    pages={921-927},
+    number= {5}
+}
+
+@article{Kansy80,
+    author={R. Kansy},
+    title={Response of a Correlated Double Sampling Circuit to 1/f Noise},
+    journal={IEEE Journal of Solid-State Circuits},
+    volume= 15,
+    year= 1980,
+    month = {June},
+    pages={373-375},
+    number= 3
+}
+
+
+
+@article{bracewell1989fourier,
+	Author = {Bracewell, R.N.},
+	Journal = {Scientific American},
+	Number = {6},
+	Pages = {86--95},
+	Title = {The fourier transform},
+	Volume = {260},
+	Year = {1989}
+}
+	
+	
+@article{Bruun1997Analysis,
+	Author = {Erik Bruun},
+	Journal = {Analog Integrated Circuits and Signal Processing},
+	Month = {January},
+	Number = {1},
+	Pages = {71-78},
+	Title = {Analysis of the Noise Characteristics of CMOS Current Conveyors},
+	Volume = {12},
+	Year = {1997}
+}
+

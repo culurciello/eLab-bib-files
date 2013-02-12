@@ -1,0 +1,221 @@
+%SOS.BIB
+% silicon on sapphire SOS circuits and devices, and silicon on insulator SOI only!
+
+
+@article{PaToSh07,
+    author={J. Pan and A. Topol and I. Shao and al.},
+    title={{Novel Approach to Reduce Source/Drain Series and Contact Resistance in High-Performance UTSOI CMOS Devices Using Selective Electrodeless CoWP or CoB Proc}},
+    journal={Electron Device Letters, IEEE  },
+    volume= 28,
+    year={2007},
+    number= 8,
+    pages={691 - 693}
+}
+
+@article{PhAiBo06,
+    author={D.C. Pham and T. Aipperspach and D. Boerstler and al.},
+    title={{Overview of the architecture, circuit design, and physical implementation of a first-generation cell processor}},
+    journal={Solid-State Circuits, IEEE Journal of},
+    volume= 41,
+    year={2006},
+    number= 1,
+    pages={179 - 196}
+}
+
+
+@inproceedings{XiGrAd06,
+    author={X.Z. Bo and P. Grudowski and V. Adams and al.},
+    title={{Optimization of Dual-ESL Stressor Geometry Effects for High Performance 65nm SOI Transistors}},
+    booktitle={SOI Conference, 2006 IEEE International  },
+    year={2006},
+    month={October},
+    publisher={IEEE},
+    pages={19 - 20}
+}
+
+
+@inproceedings{AnPeKe01,
+    author={C.J. Anderson and J. Petrovick and J.M. Keaty and al.},
+    title={Physical design of a fourth-generation {POWER GHz} microprocessor},
+    booktitle={Solid-State Circuits Conference, 2001. Digest of Technical Papers. ISSCC. 2001 IEEE International},
+    year={2001},
+    month={February},
+    publisher={IEEE},
+    pages={232 - 233}
+}
+
+
+@inproceedings{BuAiPh00,
+    author={T.C. Buchholtz and G. Aipperspach and D.T. and N.V. Phan and S.N. Storino and J.D. Strom and R.R. Williams},
+    title={A 660 {MHz} 64b {SOI} processor with {Cu} interconnects},
+    booktitle={Solid-State Circuits Conference, 2000. Digest of Technical Papers. ISSCC. 2000 IEEE International},
+    year={2000},
+    month={February},
+    publisher={IEEE},
+    pages={88 -89}
+}
+
+
+@article{PaKiKo99,
+    author={S.B. Park and Y.W. Kim and Y.G. Ko and K.I. Kim and I.K. Kim and H.S. Kang and J.O. Yu and K.P. Suh},
+    title={{A 0.25$\mu$ m, 600-MHz, 1.5-V, fully depleted SOI CMOS 64-bit microprocessor}},
+    journal={Solid-State Circuits, IEEE Journal of},
+    volume= 34,
+    year={1999},
+    number= 11,
+    pages={1436 -1445}
+}
+
+@manual{Pere08,
+    author={Peregrine},
+    title={0.5um {FC} Design Manual},
+    organization={Peregrine Semiconductor Inc.},
+    year={2008},
+    month={March},
+    edition={52/0005},
+    address={San Diego, CA}
+}
+
+@manual{Pere082,
+    author={Peregrine},
+    title={Peregrine UTSi 0.5$\mu$m RF Spice Models},
+    organization={Peregrine Semiconductor Inc.},
+    year={2008},
+    month={March},
+    edition={53/0016},
+    address={San Diego, CA},
+    note={http://www.peregrine-semi.com/}
+}
+
+@inproceedings{MeBuCa98,
+    author={M. Megahed and M. Burgener and J. Cable and al.},
+    title={{UTSi(R) CMOS technology for system-on-chip solution}},
+    booktitle={Silicon Monolithic Integrated Circuits in RF Systems, 1998. Digest of Papers. },
+    year={1998},
+    month={September},
+    pages = {94 - 99}
+}
+
+
+@inproceedings{StMeLe98,
+    author={M Stuber and M Megahed and L.J. Lee and al.},
+    title={{SOI CMOS with High-Performance Passive Components for Analog, RF and Mixed-Signal Design}},
+    booktitle={SOI Conference, 1998 IEEE International  },
+    year={1998},
+    month={October},
+    publisher={IEEE},
+    pages={99 - 100}
+}
+
+
+@article{Reedy82,
+    author={R. Reedy},
+    title={Characterization of defect reduction and aluminum redistribution in silicon implanted {SOS} films},
+    journal={Journal of Crystal Growth},
+    volume= 58,
+    year={1982},
+    number= 1,
+    pages = {53 - 59}
+}
+
+@article{ReSiCh83,
+    author={R. Reedy and T.W. Sigmon and L.A. Christel},
+    title={{Suppressing Al outdiffusion in implantation amorphized and recrystallized silicon on sapphire films}},
+    journal={Applied Physics Letter},
+    volume= 8,
+    year={1983},
+    number= 42,
+    pages = {707 - 709}
+}
+
+@article{GaReBu88,
+    author={G.A. Garcia and R. Reedy and M.L. Burgener},
+    title={{HIgh-Quality CMOS in Thin (100nm) Silicon on Sapphire}},
+    journal={IEEE Electron Device Letters},
+    volume= 9,
+    year={1988},
+    number= 1,
+    pages = {32 - 34}
+}
+
+
+@inproceedings{HoReNi90,
+    author={R. Howes and W. Reman-White and K.G. Nichols et al.},
+    title={Modeling and simulation of silicon-on-sapphire MOSFETs for analogue circuit
+        design},
+    booktitle={ESSDERC '90},
+    year={1990},
+    month={September},
+    publisher={ESSDERC}
+}
+
+
+@article{Chen95,
+    author={Y. Chen et al.},
+    title={An Analytical Drain Current Model Considering both Electron and Lattice
+        Temperatures simultaneously for Deep Submicron Ultrathin {SOI NMOS} Devices
+        with Self-Heating},
+    journal={IEEE Trans. On Elect. Dev},
+    volume= 42,
+    year={1995},
+    number= 5
+}
+
+@article{KaJe92,
+    author={P.R. Karlsson and K.O. Jeppson},
+    title={An efficient parameter extraction algorithm for {MOS} transistor models},
+    journal={IEEE Trans. On Elect. Dev},
+    volume= 39,
+    year={1992},
+    number= 9
+}
+
+@article{EnKrVi95,
+    author={C. Enz and F. Krummenacher and E. Vittoz},
+    title={An analytical MOS transistor model valid in all regions of Operation and
+        dedicated to low-voltage and low-current applications},
+    journal={Journal on Analog Integrated Circuits and Signal Processsing},
+    year={1995},
+    pages={83-114},
+    month={July},
+    publisher={Kluwer Academic Publishers}
+}
+
+@inproceedings{BuLaEn96,
+    author={M. Bucher and C. Lallement and C. Enz and F. Krummenacher},
+    title={Accurate {MOS} modelling for analog circuit simulation using the {EKV} model},
+    booktitle={ISCAS '96. Proceedings of the 1996 International Symposium on Circuits and
+        Systems},
+    year={1996},
+    month={May},
+    publisher={IEEE},
+    pages={703-706}
+}
+
+@inproceedings{BuLaEn962,
+    author={M. Bucher and C. Lallement and C. Enz},
+    title={An efficient parameter extraction methodology for the {EKV MOST} model},
+    booktitle={ICMTS, IEEE International Conference on Microelectronic Test Structures},
+    year={1996},
+    month={May},
+    publisher={IEEE},
+    pages={145-150}
+}
+
+@inproceedings{Rozeau00,
+    author={O. Rozeau and al.},
+    title={Impact of Floating Body and {BS-tied} Architectures on {SOI MOSFET's} Radio-Frequency Performances},
+    booktitle={IEEE International {SOI} conference},
+    year={2000},
+    month={October},
+    publisher={IEEE},
+    pages={124-125}
+}
+
+
+@misc{EKV04,
+    author={EPFL},
+    howpublished={URL: http://legwww.epfl.ch/ekv/},
+    year =2004,
+    url={http://legwww.epfl.ch/ekv/}
+}
